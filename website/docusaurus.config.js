@@ -80,6 +80,7 @@ const config = {
           src: 'img/dricon.png',
         },
         items: [
+  
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',

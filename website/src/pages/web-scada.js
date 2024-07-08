@@ -13,7 +13,7 @@ const features = [
       <Translate
         id="homepage.features.easy-to-use.title"
         description="Title of feature of Easy to use on the home page">
-        Proses Veri Toplama
+        Kolay Kullanim
       </Translate>
     ),
     imageUrl: 'img/undraw_just_browsing.svg',
@@ -21,7 +21,7 @@ const features = [
       <Translate
         id="homepage.features.easy-to-use"
         description="Feature easy to use">
-         Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.
+         DataRapor®, web tabalı arayüzü ve mobil uygulamaları ile eş zamanlı olarak bir çok kullanıcıya hizmet verir.
       </Translate>
     ),
   },
@@ -153,9 +153,9 @@ function Home() {
                   proses: (<b><Translate>Proses</Translate></b>),
                   uretim: (<b><Translate>Üretim</Translate></b>),
                   maint: (<b><Translate>Bakım</Translate></b>),
-                  content: (<b className={styles.heroContent}><Translate>Veri Toplama ve Raporlama Sistemi</Translate></b>)
+                  content: (<b className={styles.heroContent}><Translate>Web Scada</Translate></b>)
               }}>
-                {`DataRapor {enerji} & {proses}  {content} `}
+                {`DataRapor  {content} `}
               </Translate>
             </span>
           </h1>
