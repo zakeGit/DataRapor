@@ -16,6 +16,28 @@
   }
 }
 
+
+.feature {
+  padding: 20px 0;
+}
+
+.oddRow {
+  background-color: #e7e7e677;
+}
+
+.evenRow {
+  background-color: #ffffff;
+}
+
+.banner {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin: 20px 0;
+  border-radius: 8px;
+  margin-bottom: 40px; /* Altta boşluk ekliyoruz */
+}
+
 .buttons {
   display: flex;
   align-items: center;
