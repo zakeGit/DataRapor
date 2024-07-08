@@ -17,10 +17,58 @@ Set up integrations with version control systems to sync your repositories, allo
 
 Configure and manage your build profiles. Each profile allows you to maintain consistent settings and parameters for your app builds.
 
-## Platform Build Guides
+## Sanal Cihazlar
 
 Find detailed instructions for building applications across various platforms including iOS, Android, React Native, Flutter, and Ionic.
 
-## Post-Build Operations
+## Haberlesme Listesi
 
 After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Personel Listesi
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Rapor Listesi
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## EaCommCheck
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Rapor Ayarları
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Alarm Ayarları
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Mail Ayarları
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Zamanlanmış Görevler
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Visual Map
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Form List
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+## Group Map
+
+After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+
+
+
+
+
+
+
+

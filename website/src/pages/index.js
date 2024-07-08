@@ -7,30 +7,62 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 import Translate from '@docusaurus/Translate';
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const features = [
   {
+ 
+             
+            
+  
+  
     title: (
       <Translate
         id="homepage.features.easy-to-use.title"
         description="Title of feature of Easy to use on the home page">
-        Proses Veri Toplama
+           
+        
+          Enerji Veri Toplama
+      
       </Translate>
     ),
+
+
+     
     imageUrl: 'img/undraw_just_browsing.svg',
+    
     description: (
       <Translate
         id="homepage.features.easy-to-use"
         description="Feature easy to use">
-         Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.
+         Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.
       </Translate>
     ),
   },
+
+ 
+
+ 
+
+
   {
     title: (
       <Translate
         id="homepage.features.modern-ui.title"
         description="Title of feature of Modern UI on the home page">
-        Modern UI
+        Proses Veri Toplama
       </Translate>
     ),
     imageUrl: 'img/undraw_responsive.svg',
@@ -39,17 +71,20 @@ const features = [
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
         id="homepage.features.modern-ui"
         description="Modern UI">
-        {`All AWE web components let you design modern and responsive user interfaces using a declarative API.
-        Works with {angularJS} and {reactJS}.`}
+        {`Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.`}
       </Translate>
     ),
   },
+
+
+
+
   {
     title: (
       <Translate
         id="homepage.features.pluggable-extensible.title"
         description="Title of feature of pluggable and extensible on the home page">
-        Pluggable and Extensible
+        Üretim Veri Toplama
       </Translate>
     ),
     imageUrl: 'img/undraw_switches.svg',
@@ -58,16 +93,39 @@ const features = [
         values={{starters: (<code>starters</code>)}}
         id="homepage.features.pluggable-extensible"
         description="Feature Pluggable and Extensible">
-        {`Extend or customize all AWE features. The Spring Boot {starters} design lets you to enable the modules and features that you need.`}
+        {`Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar.`}
       </Translate>
     ),
   },
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.pluggable-extensible.title"
+        description="Title of feature of pluggable and extensible on the home page">
+        Bakım Yönetim Sistemi-MMS
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_switches.svg',
+    description: (
+      <Translate
+        values={{starters: (<code>starters</code>)}}
+        id="homepage.features.pluggable-extensible"
+        description="Feature Pluggable and Extensible">
+        {`Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.`}
+      </Translate>
+    ),
+  },
+
+
+
   {
     title: (
       <Translate
         id="homepage.features.connect-information.title"
         description="Title of feature of Connect your information on the home page">
-        Connect your information
+        Maliyet Hesapları
       </Translate>
     ),
     imageUrl: 'img/undraw_online_connection.svg',
@@ -75,9 +133,7 @@ const features = [
       <Translate
         id="homepage.features.connect-information"
         description="Feature Connect your information">
-        Bind your data to web forms easily. AWE allows to connect to different data sources
-        like SQL and NoSQL databases, Rest APIs, JavaBeans, etc.
-      </Translate>
+        İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir.</Translate>
     ),
   },
   {
@@ -85,7 +141,7 @@ const features = [
       <Translate
         id="homepage.features.customize-easy.title"
         description="Title of feature of Customize easy on the home page">
-        Easy to customize
+        Entegrasyon
       </Translate>
     ),
     imageUrl: 'img/undraw_add_color.svg',
@@ -93,8 +149,7 @@ const features = [
       <Translate
         id="homepage.features.customize-easy"
         description="Feature Customize easy">
-        AWE has multiple preconfigured themes and multi-language support.
-        You can add custom CSS according to your needs.
+        Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.
       </Translate>
     ),
   },
@@ -103,7 +158,8 @@ const features = [
       <Translate
         id="homepage.features.powered-by.title"
         description="Title of feature of Powered By on the home page">
-        Powered by Spring Boot with AngularJS
+        
+ISO 50001 Enerji Yönetimi
       </Translate>
     ),
     imageUrl: 'img/undraw_code_review.svg',
@@ -112,7 +168,7 @@ const features = [
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
-        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+        {`ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur.`}
       </Translate>
     ),
   },
@@ -121,7 +177,7 @@ const features = [
       <Translate
         id="homepage.features.powered-by.title"
         description="Title of feature of Powered By on the home page">
-        Powered by Spring Boot with AngularJS
+        Uyarı
       </Translate>
     ),
     imageUrl: 'img/undraw_code_review.svg',
@@ -130,7 +186,7 @@ const features = [
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
-        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+        {`Tüketimleriniz de bir anormallik olma durumunda, sizleri uyarır, SMS veya mail olarak sizleri bilgilendirir.`}
       </Translate>
     ),
   },
@@ -140,7 +196,7 @@ const features = [
       <Translate
         id="homepage.features.powered-by.title"
         description="Title of feature of Powered By on the home page">
-        Powered by Spring Boot with AngularJS
+        Karşılaştırma
       </Translate>
     ),
     imageUrl: 'img/undraw_code_review.svg',
@@ -149,12 +205,165 @@ const features = [
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
-        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+        {`İşletmenizde aynı türde olan makina veya sistemleri vardiya yada dönem bazlı verilerini pasta dilimli grafiklerle karşılatırıp size fikir verir.`}
       </Translate>
     ),
   },
 
 
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Faturalandırma
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplayarak iç fatura kesmenize olanak sağlar.`}
+      </Translate>
+    ),
+  },
+
+
+  
+
+
+
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Haberleşme
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`Modbus TCP/IP ,Modbus RTU, Profinet, Profibus gibi dijital haberleşme protokolleri desteklenirken bunun yanı sıra Pulse, 4-20mA ve 0-10V çıkışlı cihazlarda sistem tarafından desteklenir. Ayrıca OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.`}
+      </Translate>
+    ),
+  },
+
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Entegrasyon
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`İşletmenizin kurumsal bilgi yönetim sistemi veya muhasebe programlarına doğrudan yada dolaylı olarak entegre olabilen endüstiri 4.0 yazılımıdır. Web Api desteği, veri tabanı paylaşımı, Excell , MQTT , Modbus Server altyapısına sahiptir.`}
+      </Translate>
+    ),
+  },
+
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Yüksek Çözünürlüklü Veri
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`DataRapor®, yüksek hızlı veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
+        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından hiç bir gecikme olmadan tüm verileri alabilir, 
+        filtreleyebilir, özel 
+        matematiksel hesaplamalara tabi tutabilir.`}
+      </Translate>
+    ),
+  },
+
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Grafiksel Analiz
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`DataRapor®️ ile tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş export seçenekleri ile istediğiniz platformlarda kullanabilirsiniz.`}
+      </Translate>
+    ),
+  },
+
+
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+       Rapor Ve Fatura
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`DataRapor®️ ile dilediğiniz şekil ve formatta dizayn edilen rapor ve faturalar tek tuşla saatlik, günlük, haftalık yada aylık bazda hizmetinize sunulur veya sizin belirlediğiniz kişilere otomatik olarak mail atılır.`}
+      </Translate>
+    ),
+  },
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+       Alarm Ve Uyarı
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir.`}
+      </Translate>
+    ),
+  },
 
 
 
@@ -209,7 +418,7 @@ function Home() {
                   maint: (<b><Translate>Bakım</Translate></b>),
                   content: (<b className={styles.heroContent}><Translate>Veri Toplama ve Raporlama Sistemi</Translate></b>)
               }}>
-                {`DataRapor {enerji} & {proses}  {content} `}
+                {`DataRapor  {content} `}
               </Translate>
             </span>
           </h1>
