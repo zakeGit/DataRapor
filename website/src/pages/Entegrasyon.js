@@ -13,7 +13,7 @@ const features = [
       <Translate
         id="homepage.features.easy-to-use.title"
         description="Title of feature of Easy to use on the home page">
-        Kolay Kullanim
+        Kolay Kullanimt
       </Translate>
     ),
     imageUrl: 'img/undraw_just_browsing.svg',

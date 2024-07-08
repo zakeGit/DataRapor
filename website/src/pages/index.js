@@ -25,24 +25,28 @@ const features = [
   {
  
              
-            
+    
+
+
+
+  
+    
+   
+ 
   
   
     title: (
+
+     
       <Translate
         id="homepage.features.easy-to-use.title"
         description="Title of feature of Easy to use on the home page">
-           
-        
+          
           Enerji Veri Toplama
-      
       </Translate>
     ),
-
-
-     
+  
     imageUrl: 'img/undraw_just_browsing.svg',
-    
     description: (
       <Translate
         id="homepage.features.easy-to-use"
@@ -53,7 +57,7 @@ const features = [
   },
 
  
-
+ 
  
 
 
@@ -259,25 +263,7 @@ ISO 50001 Enerji Yönetimi
   },
 
 
-
-  {
-    title: (
-      <Translate
-        id="homepage.features.powered-by.title"
-        description="Title of feature of Powered By on the home page">
-        Entegrasyon
-      </Translate>
-    ),
-    imageUrl: 'img/undraw_code_review.svg',
-    description: (
-      <Translate
-        values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
-        description="Powered by Spring Boot with AngularJS">
-        {`İşletmenizin kurumsal bilgi yönetim sistemi veya muhasebe programlarına doğrudan yada dolaylı olarak entegre olabilen endüstiri 4.0 yazılımıdır. Web Api desteği, veri tabanı paylaşımı, Excell , MQTT , Modbus Server altyapısına sahiptir.`}
-      </Translate>
-    ),
-  },
+ 
 
 
 
