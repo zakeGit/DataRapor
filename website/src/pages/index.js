@@ -134,6 +134,42 @@ const features = [
       </Translate>
     ),
   },
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Powered by Spring Boot with AngularJS
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+      </Translate>
+    ),
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ];
 
 function Feature({imageUrl, title, description}) {
