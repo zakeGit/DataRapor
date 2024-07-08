@@ -46,7 +46,7 @@ const features = [
       </Translate>
     ),
   
-    imageUrl: 'img/undraw_just_browsing.svg',
+    imageUrl: 'img/EVT.jpg',
     description: (
       <Translate
         id="homepage.features.easy-to-use"
@@ -69,7 +69,7 @@ const features = [
         Proses Veri Toplama
       </Translate>
     ),
-    imageUrl: 'img/undraw_responsive.svg',
+    imageUrl: 'img/PVT.jpg',
     description: (
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
@@ -91,7 +91,7 @@ const features = [
         Üretim Veri Toplama
       </Translate>
     ),
-    imageUrl: 'img/undraw_switches.svg',
+    imageUrl: 'img/UVT.jpg',
     description: (
       <Translate
         values={{starters: (<code>starters</code>)}}
@@ -132,7 +132,7 @@ const features = [
         Maliyet Hesapları
       </Translate>
     ),
-    imageUrl: 'img/undraw_online_connection.svg',
+    imageUrl: 'img/MH.jpg',
     description: (
       <Translate
         id="homepage.features.connect-information"
@@ -166,7 +166,7 @@ const features = [
 ISO 50001 Enerji Yönetimi
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/ISO50001.jpg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -176,24 +176,7 @@ ISO 50001 Enerji Yönetimi
       </Translate>
     ),
   },
-  {
-    title: (
-      <Translate
-        id="homepage.features.powered-by.title"
-        description="Title of feature of Powered By on the home page">
-        Uyarı
-      </Translate>
-    ),
-    imageUrl: 'img/undraw_code_review.svg',
-    description: (
-      <Translate
-        values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
-        description="Powered by Spring Boot with AngularJS">
-        {`Tüketimleriniz de bir anormallik olma durumunda, sizleri uyarır, SMS veya mail olarak sizleri bilgilendirir.`}
-      </Translate>
-    ),
-  },
+  
 
   {
     title: (
@@ -225,7 +208,7 @@ ISO 50001 Enerji Yönetimi
         Faturalandırma
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/fatura.jpg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -251,7 +234,7 @@ ISO 50001 Enerji Yönetimi
         Haberleşme
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/comm.jpg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -275,7 +258,7 @@ ISO 50001 Enerji Yönetimi
         Yüksek Çözünürlüklü Veri
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/YuksekCozunurlukluVeri.jpg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -299,7 +282,7 @@ ISO 50001 Enerji Yönetimi
         Grafiksel Analiz
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/graphicalAnalysis.jpg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -321,7 +304,7 @@ ISO 50001 Enerji Yönetimi
        Rapor Ve Fatura
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/Report.jpg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -340,7 +323,7 @@ ISO 50001 Enerji Yönetimi
        Alarm Ve Uyarı
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/uyari.jpg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
