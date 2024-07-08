@@ -8,32 +8,12 @@ import styles from './styles.module.css';
 import Translate from '@docusaurus/Translate';
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 const features = [
   {
  
              
     
-
-
-
-  
-    
-   
  
-  
   
     title: (
 
@@ -46,7 +26,7 @@ const features = [
       </Translate>
     ),
   
-    imageUrl: 'img/EVT.jpg',
+    imageUrl: 'img/undraw_just_browsing.svg',
     description: (
       <Translate
         id="homepage.features.easy-to-use"
@@ -69,7 +49,7 @@ const features = [
         Proses Veri Toplama
       </Translate>
     ),
-    imageUrl: 'img/PVT.jpg',
+    imageUrl: 'img/undraw_responsive.svg',
     description: (
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
@@ -91,7 +71,7 @@ const features = [
         Üretim Veri Toplama
       </Translate>
     ),
-    imageUrl: 'img/UVT.jpg',
+    imageUrl: 'img/undraw_switches.svg',
     description: (
       <Translate
         values={{starters: (<code>starters</code>)}}
@@ -132,7 +112,7 @@ const features = [
         Maliyet Hesapları
       </Translate>
     ),
-    imageUrl: 'img/MH.jpg',
+    imageUrl: 'img/undraw_online_connection.svg',
     description: (
       <Translate
         id="homepage.features.connect-information"
@@ -166,7 +146,7 @@ const features = [
 ISO 50001 Enerji Yönetimi
       </Translate>
     ),
-    imageUrl: 'img/ISO50001.jpg',
+    imageUrl: 'img/undraw_code_review.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -176,7 +156,24 @@ ISO 50001 Enerji Yönetimi
       </Translate>
     ),
   },
-  
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Uyarı
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`Tüketimleriniz de bir anormallik olma durumunda, sizleri uyarır, SMS veya mail olarak sizleri bilgilendirir.`}
+      </Translate>
+    ),
+  },
 
   {
     title: (
@@ -208,7 +205,7 @@ ISO 50001 Enerji Yönetimi
         Faturalandırma
       </Translate>
     ),
-    imageUrl: 'img/fatura.jpg',
+    imageUrl: 'img/undraw_code_review.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -234,7 +231,7 @@ ISO 50001 Enerji Yönetimi
         Haberleşme
       </Translate>
     ),
-    imageUrl: 'img/comm.jpg',
+    imageUrl: 'img/undraw_code_review.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -258,7 +255,7 @@ ISO 50001 Enerji Yönetimi
         Yüksek Çözünürlüklü Veri
       </Translate>
     ),
-    imageUrl: 'img/YuksekCozunurlukluVeri.jpg',
+    imageUrl: 'img/undraw_code_review.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -282,7 +279,7 @@ ISO 50001 Enerji Yönetimi
         Grafiksel Analiz
       </Translate>
     ),
-    imageUrl: 'img/graphicalAnalysis.jpg',
+    imageUrl: 'img/undraw_code_review.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -304,7 +301,7 @@ ISO 50001 Enerji Yönetimi
        Rapor Ve Fatura
       </Translate>
     ),
-    imageUrl: 'img/Report.jpg',
+    imageUrl: 'img/undraw_code_review.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -323,7 +320,7 @@ ISO 50001 Enerji Yönetimi
        Alarm Ve Uyarı
       </Translate>
     ),
-    imageUrl: 'img/uyari.jpg',
+    imageUrl: 'img/undraw_code_review.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -338,36 +335,54 @@ ISO 50001 Enerji Yönetimi
 
 
 
-
-
-
-
-
-
-
-
-
-
 ];
 
-function Feature({imageUrl, title, description}) {
+
+function Feature({ imageUrl, title, description, isOdd }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={clsx('col col--4', styles.feature)}>
-      {imgUrl && (
-        <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title}/>
-        </div>
-      )}
-      <h3>{title}</h3>
-      <p>{description}</p>
+    <div className={clsx('row', styles.feature, isOdd ? styles.oddRow : styles.evenRow)}>
+      <div className="col col--6">
+        <h3>{title}</h3>
+        <p>{description}</p>
+      </div>
+      <div className="col col--6 text--center">
+        {imgUrl && <img className={styles.featureImage} src={imgUrl} alt={title} />}
+      </div>
     </div>
   );
 }
 
+ 
+
+function BannerFull() {
+  const bannerImgUrl = useBaseUrl('img/Chart_line.png');  
+  return (
+    <div className={styles.banner}>
+      <h2 className={styles.bannerTitle}>Grafiksel Analiz</h2>
+      <img className={styles.bannerImage} src={bannerImgUrl} alt="Grafiksel Analiz" />
+    </div>
+  );
+}
+
+function RowWithText() {
+  const bannerImgUrl = useBaseUrl('img/Chart_line.png');  
+  return (
+    
+    <div className={styles.banner}>
+      <h2 className={styles.bannerTitle}>Grafiksel Analiz</h2>
+     <img className={styles.bannerImage} src={bannerImgUrl} alt="Grafiksel Analiz" />
+    </div>
+    
+ 
+  );
+}
+
+
+
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig: {customFields = {}, tagline} = {}} = context;
+  const { siteConfig: { customFields = {}, tagline } = {} } = context;
   return (
     <Layout title={tagline} description={customFields.description}>
       <div className={styles.hero}>
@@ -386,7 +401,7 @@ function Home() {
                   uretim: (<b><Translate>Üretim</Translate></b>),
                   maint: (<b><Translate>Bakım</Translate></b>),
                   content: (<b className={styles.heroContent}><Translate>Veri Toplama ve Raporlama Sistemi</Translate></b>)
-              }}>
+                }}>
                 {`DataRapor  {content} `}
               </Translate>
             </span>
@@ -395,22 +410,24 @@ function Home() {
             <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('docs/')}>
               <Translate>Göz At</Translate>
             </Link>
-            <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="http://demo.aweframework.com">
+            <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="http://datarapor.com">
               <Translate>Demo</Translate>
             </Link>
           </div>
         </div>
       </div>
-   
+
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
-              <div className="row">
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
-                ))}
-              </div>
+              {features.map((props, idx) => (
+                <React.Fragment key={idx}>
+                  <Feature {...props} isOdd={idx % 2 === 1} />
+                  {idx === 1 && <BannerFull />}
+                  {idx === 4 && <RowWithText />}
+                </React.Fragment>
+              ))}
             </div>
           </section>
         )}

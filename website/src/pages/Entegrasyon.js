@@ -13,16 +13,15 @@ const features = [
       <Translate
         id="homepage.features.easy-to-use.title"
         description="Title of feature of Easy to use on the home page">
-        Kolay Kullanimt
+        ERP Entegrasyonları
       </Translate>
     ),
-    imageUrl: 'img/undraw_just_browsing.svg',
+    imageUrl: 'img/erp.jpg',
     description: (
       <Translate
         id="homepage.features.easy-to-use"
         description="Feature easy to use">
-         DataRapor®, web tabalı arayüzü ve mobil uygulamaları ile eş zamanlı olarak bir çok kullanıcıya hizmet verir.
-      </Translate>
+         Üretim veya tüketim verileriniz sürekli kayıt altına alınarak istediğiniz formatta raporlanabilir ve  ERP altyapınıza senkronize edilir. </Translate>
     ),
   },
   {
@@ -30,17 +29,16 @@ const features = [
       <Translate
         id="homepage.features.modern-ui.title"
         description="Title of feature of Modern UI on the home page">
-        Modern UI
+        SAP Entegrasyonları
       </Translate>
     ),
-    imageUrl: 'img/undraw_responsive.svg',
+    imageUrl: 'img/sap.jpg',
     description: (
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
         id="homepage.features.modern-ui"
         description="Modern UI">
-        {`All AWE web components let you design modern and responsive user interfaces using a declarative API.
-        Works with {angularJS} and {reactJS}.`}
+        {`Üretim veya tüketim verileriniz sürekli kayıt altına alınarak istediğiniz formatta raporlanabilir ve  SAP altyapınıza senkronize edilir.`}
       </Translate>
     ),
   },
@@ -49,16 +47,16 @@ const features = [
       <Translate
         id="homepage.features.pluggable-extensible.title"
         description="Title of feature of pluggable and extensible on the home page">
-        Pluggable and Extensible
+        OPC
       </Translate>
     ),
-    imageUrl: 'img/undraw_switches.svg',
+    imageUrl: 'img/opc.jpg',
     description: (
       <Translate
         values={{starters: (<code>starters</code>)}}
         id="homepage.features.pluggable-extensible"
         description="Feature Pluggable and Extensible">
-        {`Extend or customize all AWE features. The Spring Boot {starters} design lets you to enable the modules and features that you need.`}
+        {`OPC Client altyapısı bulunan DataRapor® yazılımlarımız, işletmenizde bulunan cihazlarda kullanılan PLC veya modüllerin haberleşme tiplerinden bağımsız olarak çalışabilir.`}
       </Translate>
     ),
   },
@@ -67,7 +65,7 @@ const features = [
       <Translate
         id="homepage.features.connect-information.title"
         description="Title of feature of Connect your information on the home page">
-        Connect your information
+        Modbus TCP/IP-RTU
       </Translate>
     ),
     imageUrl: 'img/undraw_online_connection.svg',
@@ -75,9 +73,7 @@ const features = [
       <Translate
         id="homepage.features.connect-information"
         description="Feature Connect your information">
-        Bind your data to web forms easily. AWE allows to connect to different data sources
-        like SQL and NoSQL databases, Rest APIs, JavaBeans, etc.
-      </Translate>
+        Modbus TCP/IP veya RTU haberleşme altyapısını kendi bünyesinde taşıyan DataRapor® yazılımlarımız, herhangi bir ek yazılım kullanmadan cihazlarınızla haberleşebilir. </Translate>
     ),
   },
   {
@@ -85,17 +81,15 @@ const features = [
       <Translate
         id="homepage.features.customize-easy.title"
         description="Title of feature of Customize easy on the home page">
-        Easy to customize
+        Profinet
       </Translate>
     ),
-    imageUrl: 'img/undraw_add_color.svg',
+    imageUrl: 'img/profinet.jpg',
     description: (
       <Translate
         id="homepage.features.customize-easy"
         description="Feature Customize easy">
-        AWE has multiple preconfigured themes and multi-language support.
-        You can add custom CSS according to your needs.
-      </Translate>
+        Profinet haberleşme altyapısını kendi bünyesinde taşıyan Datarapor® yazılımlarımız ,  herhangi bir ek yazılım kullanmadan cihazlarınız veya makinalarınızla haberleşebilir.</Translate>
     ),
   },
   {
@@ -103,16 +97,16 @@ const features = [
       <Translate
         id="homepage.features.powered-by.title"
         description="Title of feature of Powered By on the home page">
-        Powered by Spring Boot with AngularJS
+        NFC Kart Entegrasyonu
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/nfc_kart.png',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
-        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+        {`NFC Kart ile işletmelerinizde, operatörleriniz periyodik olarak el ile topladığı verileri, mobil cihazlar yardımı ile verileri hatasız bir şekilde toplayabilirsiniz.`}
       </Translate>
     ),
   },
