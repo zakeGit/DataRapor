@@ -9,7 +9,8 @@ import ContentRef from '@site/src/components/ContentRef';
 
 # DataRapor'a Başlarken
 
-DataRapor is a mobile CI/CD platform which makes it easy for you to manage the lifecycle of your mobile applications.
+Enerji, Proses ,Üretim
+Veri Toplama, Raporlama ve Analiz Yazılımlarıdır.
 
 :::tip
 

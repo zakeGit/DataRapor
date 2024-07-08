@@ -24,7 +24,7 @@ DataRapor Web Scada
 <section class="intro-cards">
       <div class="intro-card">
             <h3><a href="/build/platform-build-guides">Enerji Veri Toplama</a></h3>
-            <p>  Tek yazılım altyapısında, sahadan eş zamanlı olarak enerji, üretim ve proses verilerini toplayabilir..</p>
+            <p>  Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.</p>
       </div>
       <div class="intro-card">
             <h3><a href="/build/manage-the-connections/adding-a-build-profile">Proses Veri Toplama</a></h3>
