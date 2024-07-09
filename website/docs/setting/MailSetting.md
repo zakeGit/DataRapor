@@ -94,7 +94,7 @@ Datarapor Web-Arayüzü Sayesinde Verilere Hızlı ve Kolay bir şekilde Erişme
 
 Datarapor Web-Arayüzü Sayesinde Verilere Hızlı ve Kolay bir şekilde Erişmenizi sağlar
 
-<ContentRef url="/publish-integrations/android-publish-integrations/publish-to-google-play">Android APP</ContentRef>
+<ContentRef url="/">Android APP</ContentRef>
 
 Datarapor Web-Arayüzü Sayesinde Verilere Hızlı ve Kolay bir şekilde Erişmenizi sağlar
 

@@ -31,13 +31,13 @@ Your mobile applications must be digitally signed to be able to distributed, tes
 
 For iOS applications, you must have a signing certificate and provisioning profiles to be able to run your application on real devices and submit them to Apple Appstore.
 
-<ContentRef url="/signing-identities">
+<ContentRef url="/">
   Desteklenen Veri Tabanları
 </ContentRef>
 
 For Android applications, you need to create a keystore file to sign your applications digitally.
 
-<ContentRef url="/signing-identities/android-keystores">Veri Tabanı Lisans Modelleri</ContentRef>
+<ContentRef url="/">Veri Tabanı Lisans Modelleri</ContentRef>
 
  
 :::tip
@@ -52,19 +52,19 @@ DataRapor Veri Akış Katmanı olan Uygulama MultiBus ismini veridiğimiz 24 saa
 
 Bu Katman üzerindeki veri Alma Modülleri Aşağıda Özetlenmiştir:
 
-<ContentRef url="/build/manage-the-connections/adding-a-build-profile">Com Modbus</ContentRef>
+<ContentRef url="/">Com Modbus</ContentRef>
 
 Configure your build profile and select project parameters, signing options, distribution profiles and environment variables. Your project will be built using these settings and options.
 
-<ContentRef url="/build/build-process-management/build-profile-configuration">Com Profinet</ContentRef>
+<ContentRef url="/">Com Profinet</ContentRef>
 
 You can customize your build flow using our workflow editor. Workflow editor allows you to be in control of the build process. You can add or remove build steps, add your custom scripts for advanced build processes.
 
-<ContentRef url="/workflows">Com File</ContentRef>
+<ContentRef url="/">Com File</ContentRef>
 
 You can also automate your build process by telling Appcircle to automatically build your code with every push to your repository. There are also options including tagged pushes for more advanced cases.
 
-<ContentRef url="/build/build-process-management/build-manually-or-with-triggers">
+<ContentRef url="/">
   Com Query
 </ContentRef>
 

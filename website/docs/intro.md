@@ -47,7 +47,7 @@ DataRapor Web Scada
                   <NewBadge />
                   <h4>Endüstri 4.0 Uyumlu Web Scada </h4>
                   <p>İnsan Makina Arayüzü Sahadan Sürekli Veri Toplama İhtiyaca Göre Kontrol Etme , Hepsi Tek bir Platformda</p>
-                  <a href="/enterprise-appstore/enterprise-app-store-setup/add-ent-profile" className="feature-card-learn-more eas">
+                  <a href="/" className="feature-card-learn-more eas">
                         Göz At
                   </a>
             </div>
@@ -58,7 +58,7 @@ DataRapor Web Scada
                   <NewBadge />
                   <h4>Bulut Sunucu Yada Local Sunucu Seçenekleri</h4>
                   <p>İster Tüm Verilerini Tesisinizin bünyesinde tutun isterseniz Bulut Sunucu altyapısında tüm verilerinizi barındıralım</p>
-                  <a href="/self-hosted-datarapor" className="feature-card-learn-more runner">
+                  <a href="/" className="feature-card-learn-more runner">
                         Göz At
                   </a>
             </div>

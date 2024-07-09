@@ -9,133 +9,339 @@ import Translate from '@docusaurus/Translate';
 
 const features = [
   {
+ 
+             
+    
+ 
+  
     title: (
+
+     
       <Translate
-        id="homepage.features.easy-to-use.title"
+        id="web1.title"
         description="Title of feature of Easy to use on the home page">
-        Kolay Kullanim
+          
+
+          Kolay Kullanım
       </Translate>
     ),
-    imageUrl: 'img/undraw_just_browsing.svg',
+  
+    imageUrl: 'img/web.svg',
     description: (
       <Translate
-        id="homepage.features.easy-to-use"
+        id="web1"
         description="Feature easy to use">
-         DataRapor®, web tabalı arayüzü ve mobil uygulamaları ile eş zamanlı olarak bir çok kullanıcıya hizmet verir.
+          
+          DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz. 
       </Translate>
     ),
   },
+
+
+ 
+ 
   {
     title: (
       <Translate
-        id="homepage.features.modern-ui.title"
-        description="Title of feature of Modern UI on the home page">
-        Modern UI
-      </Translate>
-    ),
-    imageUrl: 'img/undraw_responsive.svg',
-    description: (
-      <Translate
-        values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
-        id="homepage.features.modern-ui"
-        description="Modern UI">
-        {`All AWE web components let you design modern and responsive user interfaces using a declarative API.
-        Works with {angularJS} and {reactJS}.`}
-      </Translate>
-    ),
-  },
-  {
-    title: (
-      <Translate
-        id="homepage.features.pluggable-extensible.title"
-        description="Title of feature of pluggable and extensible on the home page">
-        Pluggable and Extensible
-      </Translate>
-    ),
-    imageUrl: 'img/undraw_switches.svg',
-    description: (
-      <Translate
-        values={{starters: (<code>starters</code>)}}
-        id="homepage.features.pluggable-extensible"
-        description="Feature Pluggable and Extensible">
-        {`Extend or customize all AWE features. The Spring Boot {starters} design lets you to enable the modules and features that you need.`}
-      </Translate>
-    ),
-  },
-  {
-    title: (
-      <Translate
-        id="homepage.features.connect-information.title"
-        description="Title of feature of Connect your information on the home page">
-        Connect your information
-      </Translate>
-    ),
-    imageUrl: 'img/undraw_online_connection.svg',
-    description: (
-      <Translate
-        id="homepage.features.connect-information"
-        description="Feature Connect your information">
-        Bind your data to web forms easily. AWE allows to connect to different data sources
-        like SQL and NoSQL databases, Rest APIs, JavaBeans, etc.
-      </Translate>
-    ),
-  },
-  {
-    title:  (
-      <Translate
-        id="homepage.features.customize-easy.title"
-        description="Title of feature of Customize easy on the home page">
-        Easy to customize
-      </Translate>
-    ),
-    imageUrl: 'img/undraw_add_color.svg',
-    description: (
-      <Translate
-        id="homepage.features.customize-easy"
-        description="Feature Customize easy">
-        AWE has multiple preconfigured themes and multi-language support.
-        You can add custom CSS according to your needs.
-      </Translate>
-    ),
-  },
-  {
-    title: (
-      <Translate
-        id="homepage.features.powered-by.title"
+        id="web2.title"
         description="Title of feature of Powered By on the home page">
-        Powered by Spring Boot with AngularJS
+       Sınırsız Client
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/client.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="web2"
         description="Powered by Spring Boot with AngularJS">
-        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+        {`Mobil ve masaüstü cihazlarla herhangi bir lokasyondan, dilediğiniz sayıda personelin sisteme bağlanmasına olanak tanır.`}
       </Translate>
     ),
   },
+
+
+ 
+  {
+    title: (
+      <Translate
+        id="web2.title"
+        description="Title of feature of Powered By on the home page">
+       Çok Dilli Destek
+      </Translate>
+    ),
+    imageUrl: 'img/language.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web2"
+        description="Powered by Spring Boot with AngularJS">
+        {`Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar.`}
+      </Translate>
+    ),
+  },
+
+
+
+
+  {
+    title: (
+      <Translate
+        id="web3.title"
+        description="Title of feature of Powered By on the home page">
+        Grafiksel Analiz
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_setup_analytics_re_foim.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web3"
+        description="Powered by Spring Boot with AngularJS">
+        {`Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.`}
+      </Translate>
+    ),
+  },
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    title: (
+      <Translate
+        id="web4.title"
+        description="Title of feature of Powered By on the home page">
+        Genişletilebilir ve Konfigure Edilebilir Altyapı
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_programmer_re_owql.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web4"
+        description="Powered by Spring Boot with AngularJS">
+        {`Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.`}
+      </Translate>
+    ),
+  },
+
+  {
+    title: (
+      <Translate
+        id="web5.title"
+        description="Title of feature of Powered By on the home page">
+        Sanal Cihaz Destegi
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_circuit_sdmr.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web5"
+        description="Powered by Spring Boot with AngularJS">
+        {`Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. 
+        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.`}
+      </Translate>
+    ),
+  },
+
+  {
+    title:  (
+      <Translate
+        id="web6.title"
+        description="Title of feature of Customize easy on the home page">
+        Entegrasyon
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_data_processing_yrrv.svg',
+    description: (
+      <Translate
+        id="web6"
+        description="Feature Customize easy">
+        Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.
+      </Translate>
+    ),
+  },
+
+
+ 
+
+  {
+    title: (
+      <Translate
+        id="web7.title"
+        description="Title of feature of Powered By on the home page">
+        Yuksek Kapasiteli Veri İşleme
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_server_cluster_jwwq.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web7"
+        description="Powered by Spring Boot with AngularJS">
+        {`Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
+        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, 
+        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.`}
+      </Translate>
+    ),
+  },
+
+
+
+ 
+
+  {
+    title: (
+      <Translate
+        id="web8.title"
+        description="Title of feature of Powered By on the home page">
+        Haberleşme
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_version_control_re_mg66.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web8"
+        description="Powered by Spring Boot with AngularJS">
+        {`Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.`}
+      </Translate>
+    ),
+  },
+ 
+
+
+  {
+    title: (
+      <Translate
+        id="web9.title"
+        description="Title of feature of Powered By on the home page">
+       Özelleştirilebilir Raporlar
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_report_re_f5n5.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web9"
+        description="Powered by Spring Boot with AngularJS">
+        {`Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.`}
+      </Translate>
+    ),
+  },
+
+ 
+  
+
+  {
+    title: (
+      <Translate
+        id="web10.title"
+        description="Title of feature of Powered By on the home page">
+       Alarm Ve Uyarı
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_alert_re_j2op.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web10"
+        description="Powered by Spring Boot with AngularJS">
+        {`Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.`}
+      </Translate>
+    ),
+  },
+
+  {
+    title: (
+      <Translate
+        id="web11.title"
+        description="Title of feature of Powered By on the home page">
+       Platformdan Bağımsız Altyapı
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_cross_platform.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="web11"
+        description="Powered by Spring Boot with AngularJS">
+        {`
+          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara 
+          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.`}
+      </Translate>
+    ),
+
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 ];
 
-function Feature({imageUrl, title, description}) {
+
+function Feature({ imageUrl, title, description, isOdd }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={clsx('col col--4', styles.feature)}>
-      {imgUrl && (
-        <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title}/>
-        </div>
-      )}
-      <h3>{title}</h3>
-      <p>{description}</p>
+    <div className={clsx('row', styles.feature, isOdd ? styles.oddRow : styles.evenRow)}>
+      <div className="col col--6">
+        <h3>{title}</h3>
+        <p>{description}</p>
+      </div>
+      <div className="col col--6 text--center">
+        {imgUrl && <img className={styles.featureImage} src={imgUrl} alt={title} />}
+      </div>
     </div>
   );
 }
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig: {customFields = {}, tagline} = {}} = context;
+  const { siteConfig: { customFields = {}, tagline } = {} } = context;
   return (
     <Layout title={tagline} description={customFields.description}>
       <div className={styles.hero}>
@@ -150,11 +356,9 @@ function Home() {
               <Translate id="homepage.hero.title" description="Home page hero title, can contain simple html tags"
                 values={{
                   enerji: (<b><Translate>Enerji</Translate></b>),
-                  proses: (<b><Translate>Proses</Translate></b>),
-                  uretim: (<b><Translate>Üretim</Translate></b>),
-                  maint: (<b><Translate>Bakım</Translate></b>),
+              
                   content: (<b className={styles.heroContent}><Translate>Web Scada</Translate></b>)
-              }}>
+                }}>
                 {`DataRapor  {content} `}
               </Translate>
             </span>
@@ -169,16 +373,14 @@ function Home() {
           </div>
         </div>
       </div>
-   
+
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
-              <div className="row">
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
-                ))}
-              </div>
+              {features.map((props, idx) => (
+                <Feature key={idx} {...props} isOdd={idx % 2 === 1} />
+              ))}
             </div>
           </section>
         )}
