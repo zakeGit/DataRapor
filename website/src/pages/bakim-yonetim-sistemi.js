@@ -49,7 +49,7 @@ const features = [
       <Translate
         id="homepage.features.pluggable-extensible.title"
         description="Title of feature of pluggable and extensible on the home page">
-        Pluggable and Extensible
+        Planlı yada Plansız bakımlarla otomatik iş emirleri
       </Translate>
     ),
     imageUrl: 'img/undraw_switches.svg',
@@ -67,7 +67,7 @@ const features = [
       <Translate
         id="homepage.features.connect-information.title"
         description="Title of feature of Connect your information on the home page">
-        Connect your information
+        İş basşangıcında , calısma ve bitişinde bildirim sms ve mailleri
       </Translate>
     ),
     imageUrl: 'img/undraw_online_connection.svg',
@@ -85,7 +85,7 @@ const features = [
       <Translate
         id="homepage.features.customize-easy.title"
         description="Title of feature of Customize easy on the home page">
-        Easy to customize
+        Bakım yapılacak ekipmanlar için  yedek parca listeleri
       </Translate>
     ),
     imageUrl: 'img/undraw_add_color.svg',
@@ -103,7 +103,7 @@ const features = [
       <Translate
         id="homepage.features.powered-by.title"
         description="Title of feature of Powered By on the home page">
-        Powered by Spring Boot with AngularJS
+        Envarter kontrolleri
       </Translate>
     ),
     imageUrl: 'img/undraw_code_review.svg',
@@ -116,7 +116,42 @@ const features = [
       </Translate>
     ),
   },
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Vardiya Raporları
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_code_review.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+      </Translate>
+    ),
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ];
+
 
 function Feature({imageUrl, title, description}) {
   const imgUrl = useBaseUrl(imageUrl);
