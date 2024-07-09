@@ -981,6 +981,15 @@ img {
   height: 100%;
 }
 
+.navbar__link {
+  display: flex;
+  align-items: center;
+}
+
+.navbar__link > .navbar__item-icon {
+  margin-right: 0.5rem;
+}
+
 /* Hides the navbar logo in navbar items */
 .menu__list-item.navbar__item_logo_container {
   display: none !important;

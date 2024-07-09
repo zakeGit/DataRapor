@@ -80,6 +80,39 @@ const config = {
           src: 'img/dricon.png',
         },
         items: [
+
+          {
+            label: 'AnaSayfa',
+            position: 'left',
+            to: '/',
+            items: [
+              {
+                label: 'Enerji Veri Toplama',
+                to: '/enerji-veri-toplama',
+              },
+              {
+                label: 'Proses Veri Toplama',
+                to: '/ProsesVeriToplama',
+              },
+              {
+                label: 'Uretim Veri Toplama',
+                to: '/UretimVeriToplama',
+              },
+              {
+                label: 'Bakim Yonetim Sistemi',
+                to: '/BakimYonetimSistemi',
+              },
+              {
+                label: 'Web Scada',
+                to: '/web-scada',
+              },
+              {
+                label: 'Entegrasyon',
+                to: '/Entegrasyon',
+              },
+            
+            ],
+          },
   
           {
             type: 'docSidebar',
@@ -88,11 +121,7 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/zakeGit/DataRapor',
-            label: 'GitHub',
-            position: 'right',
-          },
+      
           {
             type: 'localeDropdown',
             position: 'right', // Dil değiştirici menüyü sağa yerleştiriyoruz
