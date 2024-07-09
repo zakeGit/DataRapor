@@ -32,7 +32,7 @@ Your mobile applications must be digitally signed to be able to distributed, tes
 
 For iOS applications, you must have a signing certificate and provisioning profiles to be able to run your application on real devices and submit them to Apple Appstore.
 
-<ContentRef url="/signing-identities">
+<ContentRef url="/">
   Desteklenen Veri Tabanları
 </ContentRef>
 
