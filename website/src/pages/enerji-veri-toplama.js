@@ -26,7 +26,7 @@ const features = [
       </Translate>
     ),
   
-    imageUrl: 'img/undraw_electricity.svg',
+    imageUrl: 'img/evt.svg',
     description: (
       <Translate
         id="evt1"
