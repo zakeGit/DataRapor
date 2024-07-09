@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Admin Panel": {
+    "message": "Admin Panel",
+    "description": "The label for category Admin Panel in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enerji Analizörü": {
+    "message": "Enerji Analizörü",
+    "description": "The label for category Enerji Analizörü in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Build": {
+    "message": "Build",
+    "description": "The label for category Build in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Connections": {
+    "message": "Connections",
+    "description": "The label for category Connections in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Connection Guides": {
+    "message": "Connection Guides",
+    "description": "The label for category Connection Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Build Profile Management": {
+    "message": "Build Profile Management",
+    "description": "The label for category Build Profile Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Platform Build Guides": {
+    "message": "Platform Build Guides",
+    "description": "The label for category Platform Build Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Building Android Applications": {
+    "message": "Building Android Applications",
+    "description": "The label for category Building Android Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Building Flutter Applications": {
+    "message": "Building Flutter Applications",
+    "description": "The label for category Building Flutter Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Post-Build Operations": {
+    "message": "Post-Build Operations",
+    "description": "The label for category Post-Build Operations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Setting": {
+    "message": "Setting",
+    "description": "The label for category Setting in sidebar tutorialSidebar"
+  }
+}

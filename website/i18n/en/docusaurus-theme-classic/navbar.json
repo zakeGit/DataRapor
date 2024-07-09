@@ -1,0 +1,46 @@
+{
+  "title": {
+    "message": "DataRapor",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "DataRapor Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.AnaSayfa": {
+    "message": "AnaSayfa",
+    "description": "Navbar item with label AnaSayfa"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Enerji Veri Toplama": {
+    "message": "Enerji Veri Toplama",
+    "description": "Navbar item with label Enerji Veri Toplama"
+  },
+  "item.label.Proses Veri Toplama": {
+    "message": "Proses Veri Toplama",
+    "description": "Navbar item with label Proses Veri Toplama"
+  },
+  "item.label.Uretim Veri Toplama": {
+    "message": "Uretim Veri Toplama",
+    "description": "Navbar item with label Uretim Veri Toplama"
+  },
+  "item.label.Bakim Yonetim Sistemi": {
+    "message": "Bakim Yonetim Sistemi",
+    "description": "Navbar item with label Bakim Yonetim Sistemi"
+  },
+  "item.label.Web Scada": {
+    "message": "Web Scada",
+    "description": "Navbar item with label Web Scada"
+  },
+  "item.label.Entegrasyon": {
+    "message": "Entegrasyon",
+    "description": "Navbar item with label Entegrasyon"
+  }
+}
