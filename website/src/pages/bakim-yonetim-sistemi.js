@@ -13,7 +13,7 @@ const features = [
       <Translate
         id="homepage.features.easy-to-use.title"
         description="Title of feature of Easy to use on the home page">
-        Kolay Kullanim
+        Bakım Süreçlerinizi Tek Noktadan Yönetin
       </Translate>
     ),
     imageUrl: 'img/undraw_just_browsing.svg',
@@ -21,8 +21,8 @@ const features = [
       <Translate
         id="homepage.features.easy-to-use"
         description="Feature easy to use">
-         DataRapor®, web tabalı arayüzü ve mobil uygulamaları ile eş zamanlı olarak bir çok kullanıcıya hizmet verir.
-      </Translate>
+         DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.
+              </Translate>
     ),
   },
   {
@@ -30,7 +30,7 @@ const features = [
       <Translate
         id="homepage.features.modern-ui.title"
         description="Title of feature of Modern UI on the home page">
-        Modern UI
+        Gelişmiş Dashboard
       </Translate>
     ),
     imageUrl: 'img/undraw_responsive.svg',
@@ -39,8 +39,7 @@ const features = [
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
         id="homepage.features.modern-ui"
         description="Modern UI">
-        {`All AWE web components let you design modern and responsive user interfaces using a declarative API.
-        Works with {angularJS} and {reactJS}.`}
+        {`Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz.`}
       </Translate>
     ),
   },
@@ -49,7 +48,7 @@ const features = [
       <Translate
         id="homepage.features.pluggable-extensible.title"
         description="Title of feature of pluggable and extensible on the home page">
-        Planlı yada Plansız bakımlarla otomatik iş emirleri
+        Planlı Bakımlarda Otomatik İş emirleri
       </Translate>
     ),
     imageUrl: 'img/undraw_switches.svg',
@@ -58,7 +57,7 @@ const features = [
         values={{starters: (<code>starters</code>)}}
         id="homepage.features.pluggable-extensible"
         description="Feature Pluggable and Extensible">
-        {`Extend or customize all AWE features. The Spring Boot {starters} design lets you to enable the modules and features that you need.`}
+        {`Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.`}
       </Translate>
     ),
   },
@@ -67,7 +66,7 @@ const features = [
       <Translate
         id="homepage.features.connect-information.title"
         description="Title of feature of Connect your information on the home page">
-        İş basşangıcında , calısma ve bitişinde bildirim sms ve mailleri
+        Anlık Süreç Bilgilendirmeleri
       </Translate>
     ),
     imageUrl: 'img/undraw_online_connection.svg',
@@ -75,8 +74,7 @@ const features = [
       <Translate
         id="homepage.features.connect-information"
         description="Feature Connect your information">
-        Bind your data to web forms easily. AWE allows to connect to different data sources
-        like SQL and NoSQL databases, Rest APIs, JavaBeans, etc.
+        İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir.
       </Translate>
     ),
   },
@@ -88,13 +86,13 @@ const features = [
         Bakım yapılacak ekipmanlar için  yedek parca listeleri
       </Translate>
     ),
-    imageUrl: 'img/undraw_add_color.svg',
+    imageUrl: 'img/undraw_chore_list_re_2lq8.svg',
     description: (
       <Translate
         id="homepage.features.customize-easy"
         description="Feature Customize easy">
-        AWE has multiple preconfigured themes and multi-language support.
-        You can add custom CSS according to your needs.
+        Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur.
+
       </Translate>
     ),
   },
@@ -103,7 +101,7 @@ const features = [
       <Translate
         id="homepage.features.powered-by.title"
         description="Title of feature of Powered By on the home page">
-        Envarter kontrolleri
+        Envanter kontrolleri
       </Translate>
     ),
     imageUrl: 'img/undraw_code_review.svg',
@@ -112,29 +110,97 @@ const features = [
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
-        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+        {`Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir`}
       </Translate>
     ),
   },
+   
 
   {
     title: (
       <Translate
         id="homepage.features.powered-by.title"
         description="Title of feature of Powered By on the home page">
-        Vardiya Raporları
+       İş Raporları
       </Translate>
     ),
-    imageUrl: 'img/undraw_code_review.svg',
+    imageUrl: 'img/undraw_at_work_re_qotl.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
-        {`Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.`}
+        {`Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir.`}
       </Translate>
     ),
   },
+
+
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Depo Stok Yönetimi
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_empty_cart_co35.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız.`}
+      </Translate>
+    ),
+  },
+
+
+
+ 
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Vardiya Defteri
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_progress_tracking_re_ulfg.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir. `}
+      </Translate>
+    ),
+  },
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        Web Tabanlı Çalışma
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_responsive_re_e1nn.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir.`}
+      </Translate>
+    ),
+  },
+
 
 
 
@@ -167,6 +233,7 @@ function Feature({imageUrl, title, description}) {
     </div>
   );
 }
+
 
 function Home() {
   const context = useDocusaurusContext();
