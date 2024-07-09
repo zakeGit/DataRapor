@@ -234,7 +234,7 @@ ISO 50001 Enerji Yönetimi
         Haberleşme
       </Translate>
     ),
-    imageUrl: 'img/comm.jpg',
+    imageUrl: 'img/comm.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}

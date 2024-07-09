@@ -13,35 +13,18 @@ const features = [
       <Translate
         id="homepage.features.easy-to-use.title"
         description="Title of feature of Easy to use on the home page">
-        ERP Entegrasyonları
+        ERP-SAP Entegrasyonları
       </Translate>
     ),
-    imageUrl: 'img/erp.jpg',
+    imageUrl: 'img/erp.svg',
     description: (
       <Translate
         id="homepage.features.easy-to-use"
         description="Feature easy to use">
-         Üretim veya tüketim verileriniz sürekli kayıt altına alınarak istediğiniz formatta raporlanabilir ve  ERP altyapınıza senkronize edilir. </Translate>
+         ERP-SAP entegrasyonlarımız sayesinde işletmenizdeki tüm üretim ve enerji verilerini anlık olarak SAP sisteminize entegre ederek verimliliğinizi artırabilir, iş süreçlerinizi optimize edebilir ve maliyetlerinizi düşürebilirsiniz.  </Translate>
     ),
   },
-  {
-    title: (
-      <Translate
-        id="homepage.features.modern-ui.title"
-        description="Title of feature of Modern UI on the home page">
-        SAP Entegrasyonları
-      </Translate>
-    ),
-    imageUrl: 'img/sap.jpg',
-    description: (
-      <Translate
-        values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
-        id="homepage.features.modern-ui"
-        description="Modern UI">
-        {`Üretim veya tüketim verileriniz sürekli kayıt altına alınarak istediğiniz formatta raporlanabilir ve  SAP altyapınıza senkronize edilir.`}
-      </Translate>
-    ),
-  },
+ 
   {
     title: (
       <Translate
@@ -84,7 +67,7 @@ const features = [
         Profinet
       </Translate>
     ),
-    imageUrl: 'img/profinet.jpg',
+    imageUrl: 'img/comm.svg',
     description: (
       <Translate
         id="homepage.features.customize-easy"
@@ -100,7 +83,7 @@ const features = [
         NFC Kart Entegrasyonu
       </Translate>
     ),
-    imageUrl: 'img/nfc_kart.png',
+    imageUrl: 'img/nfc.svg',
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
@@ -110,6 +93,52 @@ const features = [
       </Translate>
     ),
   },
+
+
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        MQTT
+      </Translate>
+    ),
+    imageUrl: 'img/mqtt.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`MQTT protokolü ile gerçek zamanlı ve güvenli veri aktarımı sağlayarak IoT cihazlarınızdan toplanan verilerinizi anlık olarak izleyebilir ve yönetebilirsiniz.`}
+      </Translate>
+    ),
+  },
+
+
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+        BACNET
+      </Translate>
+    ),
+    imageUrl: 'img/building.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {`BACnet protokolü ile bina otomasyon sistemlerinizi entegre ederek enerji verimliliğini artırabilir, tesis yönetimini optimize edebilirsiniz.`}
+      </Translate>
+    ),
+  },
+
+
+
+
 ];
 
 function Feature({imageUrl, title, description}) {

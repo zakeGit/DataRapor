@@ -33,7 +33,7 @@ const features = [
         description="Feature easy to use">
           
           DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile  
-         parametre, lokasyon yada cihaz bazında izleyebilirsiniz.
+         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.
         
       </Translate>
     ),
@@ -60,7 +60,7 @@ const features = [
         description="Modern UI">
         {`
          Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir 
-         anlık olarak akım,gerilim,guc bilgileri görüntülenebilir.        
+         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir.        
         
         
         `}
@@ -85,7 +85,7 @@ const features = [
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
-        {`Tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş export seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.`}
+        {`Tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.`}
       </Translate>
     ),
   },
@@ -216,7 +216,7 @@ const features = [
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
         {`Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
-        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından hiç bir gecikme olmadan tüm verileri alabilir, 
+        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, 
         filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.`}
       </Translate>
     ),
