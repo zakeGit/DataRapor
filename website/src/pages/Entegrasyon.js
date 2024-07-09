@@ -11,7 +11,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.easy-to-use.title"
+        id="ent1.title"
         description="Title of feature of Easy to use on the home page">
         ERP-SAP Entegrasyonları
       </Translate>
@@ -19,7 +19,7 @@ const features = [
     imageUrl: 'img/erp.svg',
     description: (
       <Translate
-        id="homepage.features.easy-to-use"
+        id="ent1"
         description="Feature easy to use">
          ERP-SAP entegrasyonlarımız sayesinde işletmenizdeki tüm üretim ve enerji verilerini anlık olarak SAP sisteminize entegre ederek verimliliğinizi artırabilir, iş süreçlerinizi optimize edebilir ve maliyetlerinizi düşürebilirsiniz.  </Translate>
     ),
@@ -28,7 +28,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.pluggable-extensible.title"
+        id="ent2.title"
         description="Title of feature of pluggable and extensible on the home page">
         OPC
       </Translate>
@@ -37,7 +37,7 @@ const features = [
     description: (
       <Translate
         values={{starters: (<code>starters</code>)}}
-        id="homepage.features.pluggable-extensible"
+        id="ent2"
         description="Feature Pluggable and Extensible">
         {`OPC Client altyapısı bulunan DataRapor® yazılımlarımız, işletmenizde bulunan cihazlarda kullanılan PLC veya modüllerin haberleşme tiplerinden bağımsız olarak çalışabilir.`}
       </Translate>
@@ -46,7 +46,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.connect-information.title"
+        id="ent3.title"
         description="Title of feature of Connect your information on the home page">
         Modbus TCP/IP-RTU
       </Translate>
@@ -54,7 +54,7 @@ const features = [
     imageUrl: 'img/undraw_online_connection.svg',
     description: (
       <Translate
-        id="homepage.features.connect-information"
+        id="ent3"
         description="Feature Connect your information">
         Modbus TCP/IP veya RTU haberleşme altyapısını kendi bünyesinde taşıyan DataRapor® yazılımlarımız, herhangi bir ek yazılım kullanmadan cihazlarınızla haberleşebilir. </Translate>
     ),
@@ -62,7 +62,7 @@ const features = [
   {
     title:  (
       <Translate
-        id="homepage.features.customize-easy.title"
+        id="ent4.title"
         description="Title of feature of Customize easy on the home page">
         Profinet
       </Translate>
@@ -70,7 +70,7 @@ const features = [
     imageUrl: 'img/comm.svg',
     description: (
       <Translate
-        id="homepage.features.customize-easy"
+        id="ent4"
         description="Feature Customize easy">
         Profinet haberleşme altyapısını kendi bünyesinde taşıyan Datarapor® yazılımlarımız ,  herhangi bir ek yazılım kullanmadan cihazlarınız veya makinalarınızla haberleşebilir.</Translate>
     ),
@@ -78,7 +78,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="ent5.title"
         description="Title of feature of Powered By on the home page">
         NFC Kart Entegrasyonu
       </Translate>
@@ -87,7 +87,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="ent5"
         description="Powered by Spring Boot with AngularJS">
         {`NFC Kart ile işletmelerinizde, operatörleriniz periyodik olarak el ile topladığı verileri, mobil cihazlar yardımı ile verileri hatasız bir şekilde toplayabilirsiniz.`}
       </Translate>
@@ -100,7 +100,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="ent6.title"
         description="Title of feature of Powered By on the home page">
         MQTT
       </Translate>
@@ -109,7 +109,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="ent6"
         description="Powered by Spring Boot with AngularJS">
         {`MQTT protokolü ile gerçek zamanlı ve güvenli veri aktarımı sağlayarak IoT cihazlarınızdan toplanan verilerinizi anlık olarak izleyebilir ve yönetebilirsiniz.`}
       </Translate>
@@ -120,7 +120,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="ent7.title"
         description="Title of feature of Powered By on the home page">
         BACNET
       </Translate>
@@ -129,7 +129,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="ent7"
         description="Powered by Spring Boot with AngularJS">
         {`BACnet protokolü ile bina otomasyon sistemlerinizi entegre ederek enerji verimliliğini artırabilir, tesis yönetimini optimize edebilirsiniz.`}
       </Translate>

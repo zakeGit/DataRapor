@@ -18,7 +18,7 @@ const features = [
 
      
       <Translate
-        id="homepage.features.easy-to-use.title"
+        id="evt1.title"
         description="Title of feature of Easy to use on the home page">
           
 
@@ -29,7 +29,7 @@ const features = [
     imageUrl: 'img/undraw_electricity.svg',
     description: (
       <Translate
-        id="homepage.features.easy-to-use"
+        id="evt1"
         description="Feature easy to use">
           
           DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile  
@@ -47,7 +47,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.modern-ui.title"
+        id="evt2.title"
         description="Title of feature of Modern UI on the home page">
         Anlık Veri izleme
       </Translate>
@@ -56,7 +56,7 @@ const features = [
     description: (
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
-        id="homepage.features.modern-ui"
+        id="evt2"
         description="Modern UI">
         {`
          Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir 
@@ -74,7 +74,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt3.title"
         description="Title of feature of Powered By on the home page">
         Grafiksel Analiz
       </Translate>
@@ -83,7 +83,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt3"
         description="Powered by Spring Boot with AngularJS">
         {`Tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.`}
       </Translate>
@@ -95,7 +95,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt4.title"
         description="Title of feature of Powered By on the home page">
         Toplam Endex
       </Translate>
@@ -104,7 +104,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt4"
         description="Powered by Spring Boot with AngularJS">
         {`Total endex degerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve gunluk ani tüketim farklılıkları kolay bir şekilde tespit edilebilir.`}
       </Translate>
@@ -144,7 +144,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt5.title"
         description="Title of feature of Powered By on the home page">
         Genişletilebilir ve Konfigure Edilebilir Altyapı
       </Translate>
@@ -153,7 +153,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt5"
         description="Powered by Spring Boot with AngularJS">
         {`Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.`}
       </Translate>
@@ -163,7 +163,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt6.title"
         description="Title of feature of Powered By on the home page">
         Sanal Cihaz Destegi
       </Translate>
@@ -172,7 +172,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt6"
         description="Powered by Spring Boot with AngularJS">
         {`Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. 
         Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.`}
@@ -183,7 +183,7 @@ const features = [
   {
     title:  (
       <Translate
-        id="homepage.features.customize-easy.title"
+        id="evt7.title"
         description="Title of feature of Customize easy on the home page">
         Entegrasyon
       </Translate>
@@ -191,7 +191,7 @@ const features = [
     imageUrl: 'img/undraw_data_processing_yrrv.svg',
     description: (
       <Translate
-        id="homepage.features.customize-easy"
+        id="evt7"
         description="Feature Customize easy">
         Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.
       </Translate>
@@ -204,7 +204,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt8.title"
         description="Title of feature of Powered By on the home page">
         Yuksek Kapasiteli Veri İşleme
       </Translate>
@@ -213,7 +213,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt8"
         description="Powered by Spring Boot with AngularJS">
         {`Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
         işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, 
@@ -227,7 +227,7 @@ const features = [
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt9.title"
         description="Title of feature of Powered By on the home page">
         
 ISO 50001 - Enerji Yönetimi
@@ -237,7 +237,7 @@ ISO 50001 - Enerji Yönetimi
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt9"
         description="Powered by Spring Boot with AngularJS">
         {`İçinde barındırdığı bir çok grafiksel analiz altyapısı ile ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur.`}
       </Translate>
@@ -248,7 +248,7 @@ ISO 50001 - Enerji Yönetimi
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt10.title"
         description="Title of feature of Powered By on the home page">
         Haberleşme
       </Translate>
@@ -257,7 +257,7 @@ ISO 50001 - Enerji Yönetimi
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt10"
         description="Powered by Spring Boot with AngularJS">
         {`Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.`}
       </Translate>
@@ -267,7 +267,7 @@ ISO 50001 - Enerji Yönetimi
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt11.title"
         description="Title of feature of Powered By on the home page">
         İç Faturalandırma
       </Translate>
@@ -276,7 +276,7 @@ ISO 50001 - Enerji Yönetimi
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt11"
         description="Powered by Spring Boot with AngularJS">
         {`İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplatarak  sistem üzerinden birimler arası iç fatura kesmenize imkan sağlar.`}
       </Translate>
@@ -287,7 +287,7 @@ ISO 50001 - Enerji Yönetimi
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt12.title"
         description="Title of feature of Powered By on the home page">
        Özelleştirilebilir Raporlar
       </Translate>
@@ -296,7 +296,7 @@ ISO 50001 - Enerji Yönetimi
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt12"
         description="Powered by Spring Boot with AngularJS">
         {`Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.`}
       </Translate>
@@ -309,7 +309,7 @@ ISO 50001 - Enerji Yönetimi
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt13.title"
         description="Title of feature of Powered By on the home page">
        Alarm Ve Uyarı
       </Translate>
@@ -318,7 +318,7 @@ ISO 50001 - Enerji Yönetimi
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt13"
         description="Powered by Spring Boot with AngularJS">
         {`Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.`}
       </Translate>
@@ -328,7 +328,7 @@ ISO 50001 - Enerji Yönetimi
   {
     title: (
       <Translate
-        id="homepage.features.powered-by.title"
+        id="evt14.title"
         description="Title of feature of Powered By on the home page">
        Platformdan Bağımsız Altyapı
       </Translate>
@@ -337,7 +337,7 @@ ISO 50001 - Enerji Yönetimi
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="homepage.features.powered-by"
+        id="evt14"
         description="Powered by Spring Boot with AngularJS">
         {`
           Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara 
