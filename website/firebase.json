@@ -1,0 +1,28 @@
+{
+  "hosting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
+    "redirects": [
+      {
+        "source": "/Urunler",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/Urunler/enerjiVeriToplama/",
+        "destination": "/enerji-veri-toplama",
+        "type": 301
+      }
+    ]
+  }
+}

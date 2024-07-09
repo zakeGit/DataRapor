@@ -67,7 +67,7 @@
     "message": "Bakım Yönetim Sistemi"
   },
   "Göz At": {
-    "message": "Göz At"
+    "message": "Docs"
   },
   "Demo": {
     "message": "Demo"
@@ -145,7 +145,7 @@
     "description": "Powered by Spring Boot with AngularJS"
   },
   "evt10.title": {
-    "message": "Haberleşme",
+    "message": "Comminication",
     "description": "Title of feature of Powered By on the home page"
   },
   "evt10": {
@@ -153,7 +153,7 @@
     "description": "Powered by Spring Boot with AngularJS"
   },
   "evt11.title": {
-    "message": "İç Faturalandırma",
+    "message": "Local Billing",
     "description": "Title of feature of Powered By on the home page"
   },
   "evt11": {
@@ -161,7 +161,7 @@
     "description": "Powered by Spring Boot with AngularJS"
   },
   "evt12.title": {
-    "message": "Özelleştirilebilir Raporlar",
+    "message": "Customized Report",
     "description": "Title of feature of Powered By on the home page"
   },
   "evt12": {
@@ -840,5 +840,93 @@
   "theme.unlistedContent.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
+  },
+  "web1.title": {
+    "message": "Kolay Kullanım",
+    "description": "Title of feature of Easy to use on the home page"
+  },
+  "web1": {
+    "message": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz.",
+    "description": "Feature easy to use"
+  },
+  "web2.title": {
+    "message": "Çok Dilli Destek",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web2": {
+    "message": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
+  "web3.title": {
+    "message": "Grafiksel Analiz",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web3": {
+    "message": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
+  "web4.title": {
+    "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web4": {
+    "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
+  "web5.title": {
+    "message": "Sanal Cihaz Destegi",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web5": {
+    "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
+  "web6.title": {
+    "message": "Entegrasyon",
+    "description": "Title of feature of Customize easy on the home page"
+  },
+  "web6": {
+    "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
+    "description": "Feature Customize easy"
+  },
+  "web7.title": {
+    "message": "Yuksek Kapasiteli Veri İşleme",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web7": {
+    "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
+  "web8.title": {
+    "message": "Haberleşme",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web8": {
+    "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
+  "web9.title": {
+    "message": "Özelleştirilebilir Raporlar",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web9": {
+    "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
+  "web10.title": {
+    "message": "Alarm Ve Uyarı",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web10": {
+    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
+  "web11.title": {
+    "message": "Platformdan Bağımsız Altyapı",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "web11": {
+    "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
+    "description": "Powered by Spring Boot with AngularJS"
   }
 }
