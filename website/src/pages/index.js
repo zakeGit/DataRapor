@@ -349,7 +349,7 @@ ISO 50001 Enerji Yönetimi
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage.features.powered-by"
         description="Powered by Spring Boot with AngularJS">
-        {``}
+        {`Dokunmatik Cihazlar ve Geleneksel Masaüstleri için Tasarlanmıs Web Tabanlı Scada Sistemleri`}
       </Translate>
     ),
   },
