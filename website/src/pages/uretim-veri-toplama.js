@@ -345,7 +345,7 @@ function Home() {
                 values={{
                   enerji: (<b><Translate>Enerji</Translate></b>),
               
-                  content: (<b className={styles.heroContent}><Translate>Enerji Veri Toplama</Translate></b>)
+                  content: (<b className={styles.heroContent}><Translate>Üretim Veri Toplama</Translate></b>)
                 }}>
                 {`DataRapor  {content} `}
               </Translate>
@@ -355,7 +355,7 @@ function Home() {
             <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('docs/')}>
               <Translate>Göz At</Translate>
             </Link>
-            <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="http://datarapor.com">
+            <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="https://demo.datarapor.com">
               <Translate>Demo</Translate>
             </Link>
           </div>

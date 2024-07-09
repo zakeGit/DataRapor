@@ -176,7 +176,7 @@ function Home() {
                   proses: (<b><Translate>Proses</Translate></b>),
                   uretim: (<b><Translate>Üretim</Translate></b>),
                   maint: (<b><Translate>Bakım</Translate></b>),
-                  content: (<b className={styles.heroContent}><Translate>Enerji Veri Toplama ve Raporlama Sistemi</Translate></b>)
+                  content: (<b className={styles.heroContent}><Translate>Entegrasyon</Translate></b>)
               }}>
                 {`DataRapor  {content} `}
               </Translate>

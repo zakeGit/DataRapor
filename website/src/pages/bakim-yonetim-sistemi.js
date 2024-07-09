@@ -188,7 +188,7 @@ function Home() {
                   proses: (<b><Translate>Proses</Translate></b>),
                   uretim: (<b><Translate>Üretim</Translate></b>),
                   maint: (<b><Translate>Bakım</Translate></b>),
-                  content: (<b className={styles.heroContent}><Translate>Enerji Veri Toplama ve Raporlama Sistemi</Translate></b>)
+                  content: (<b className={styles.heroContent}><Translate>Bakım Yönetim Sistemi</Translate></b>)
               }}>
                 {`DataRapor  {content} `}
               </Translate>
@@ -198,7 +198,7 @@ function Home() {
             <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('docs/')}>
               <Translate>Göz At</Translate>
             </Link>
-            <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="http://demo.aweframework.com">
+            <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="https://demo.datarapor.com">
               <Translate>Demo</Translate>
             </Link>
           </div>
