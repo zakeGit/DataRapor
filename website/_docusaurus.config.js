@@ -119,7 +119,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
-            visible: false
+         
           },
  
       
