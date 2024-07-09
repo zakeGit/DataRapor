@@ -92,15 +92,15 @@ const config = {
               },
               {
                 label: 'Proses Veri Toplama',
-                to: '/ProsesVeriToplama',
+                to: '/proses-veri-toplama',
               },
               {
                 label: 'Uretim Veri Toplama',
-                to: '/UretimVeriToplama',
+                to: '/uretim-veri-toplama',
               },
               {
                 label: 'Bakim Yonetim Sistemi',
-                to: '/BakimYonetimSistemi',
+                to: '/bakim-yonetim-sistemi',
               },
               {
                 label: 'Web Scada',
