@@ -356,7 +356,7 @@ function Home() {
               <Translate>Göz At</Translate>
             </Link>
             <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="http://datarapor.com">
-              <Translate>Demo S </Translate>
+              <Translate>Demo</Translate>
             </Link>
           </div>
         </div>

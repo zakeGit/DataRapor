@@ -186,7 +186,7 @@ function Home() {
             <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('docs/')}>
               <Translate>Göz At</Translate>
             </Link>
-            <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="http://demo.aweframework.com">
+            <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="https://demo.datarapor.com">
               <Translate>Demo</Translate>
             </Link>
           </div>
