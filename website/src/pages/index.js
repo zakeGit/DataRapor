@@ -335,6 +335,24 @@ ISO 50001 Enerji Yönetimi
   },
 
 
+  {
+    title: (
+      <Translate
+        id="homepage.features.powered-by.title"
+        description="Title of feature of Powered By on the home page">
+       Web Tabanlı Scada
+      </Translate>
+    ),
+    imageUrl: 'img/erp.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage.features.powered-by"
+        description="Powered by Spring Boot with AngularJS">
+        {``}
+      </Translate>
+    ),
+  },
 
 
 
