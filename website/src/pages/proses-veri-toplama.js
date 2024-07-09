@@ -18,21 +18,21 @@ const features = [
 
      
       <Translate
-        id="uvt1.title"
+        id="pvt1.title"
         description="Title of feature of Easy to use on the home page">
           
 
-          Tüm üretim verilerinizi tek noktadan izleyin
+          Tüm proses verilerinizi tek noktadan izleyin
       </Translate>
     ),
   
-    imageUrl: 'img/undraw_electricity.svg',
+    imageUrl: 'img/pvt.svg',
     description: (
       <Translate
-        id="uvt1"
+        id="pvt1"
         description="Feature easy to use">
           
-          DataRapor® üretim veri toplama modulu ile , tesisinizdeki üretim verilerinizi kullanıcı dostu arayüzü ile  
+          DataRapor® proses veri toplama modulu ile , tesisinizdeki proses verilerinizi kullanıcı dostu arayüzü ile  
          parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.
         
       </Translate>
@@ -47,7 +47,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt2.title"
+        id="pvt2.title"
         description="Title of feature of Modern UI on the home page">
         Anlık veri izleme
       </Translate>
@@ -56,11 +56,11 @@ const features = [
     description: (
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
-        id="uvt2"
+        id="pvt2"
         description="Modern UI">
         {`
-          Fabrikanızda üretilen ürün miktarlarının ,anlık yada vardiya bazlı kayıt altına alınarak raporlandığı ve faturalandırıldığı yazılımlar.
-                 
+         Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir 
+         ve anlık olarak Sıcaklık, basınç, nem, debi, hava hızı, TOC, iletkenlik, PH, O2, CO, SO2, NO, TOZ ve benzeri proses bilgileri görüntülenebilir.        
         
         
         `}
@@ -74,7 +74,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt3.title"
+        id="pvt3.title"
         description="Title of feature of Powered By on the home page">
         Grafiksel Analiz
       </Translate>
@@ -83,9 +83,9 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="uvt3"
+        id="pvt3"
         description="Powered by Spring Boot with AngularJS">
-        {`Tüm üretim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.`}
+        {`Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.`}
       </Translate>
     ),
   },
@@ -127,7 +127,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt4.title"
+        id="pvt4.title"
         description="Title of feature of Powered By on the home page">
         Genişletilebilir ve Konfigure Edilebilir Altyapı
       </Translate>
@@ -136,9 +136,9 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="uvt4"
+        id="pvt4"
         description="Powered by Spring Boot with AngularJS">
-        {`Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihaz tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.`}
+        {`Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni proses cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.`}
       </Translate>
     ),
   },
@@ -146,7 +146,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt5.title"
+        id="pvt5.title"
         description="Title of feature of Powered By on the home page">
         Sanal Cihaz Destegi
       </Translate>
@@ -155,7 +155,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="uvt5"
+        id="pvt5"
         description="Powered by Spring Boot with AngularJS">
         {`Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. 
         Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.`}
@@ -166,7 +166,7 @@ const features = [
   {
     title:  (
       <Translate
-        id="uvt6.title"
+        id="pvt6.title"
         description="Title of feature of Customize easy on the home page">
         Entegrasyon
       </Translate>
@@ -174,7 +174,7 @@ const features = [
     imageUrl: 'img/undraw_data_processing_yrrv.svg',
     description: (
       <Translate
-        id="uvt6"
+        id="pvt6"
         description="Feature Customize easy">
         Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.
       </Translate>
@@ -187,7 +187,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt7.title"
+        id="pvt7.title"
         description="Title of feature of Powered By on the home page">
         Yuksek Kapasiteli Veri İşleme
       </Translate>
@@ -196,7 +196,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="uvt7"
+        id="pvt7"
         description="Powered by Spring Boot with AngularJS">
         {`Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
         işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, 
@@ -212,7 +212,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt8.title"
+        id="pvt8.title"
         description="Title of feature of Powered By on the home page">
         Haberleşme
       </Translate>
@@ -221,7 +221,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="uvt8"
+        id="pvt8"
         description="Powered by Spring Boot with AngularJS">
         {`Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.`}
       </Translate>
@@ -233,7 +233,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt9.title"
+        id="pvt9.title"
         description="Title of feature of Powered By on the home page">
        Özelleştirilebilir Raporlar
       </Translate>
@@ -242,7 +242,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="uvt9"
+        id="pvt9"
         description="Powered by Spring Boot with AngularJS">
         {`Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.`}
       </Translate>
@@ -255,7 +255,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt10.title"
+        id="pvt10.title"
         description="Title of feature of Powered By on the home page">
        Alarm Ve Uyarı
       </Translate>
@@ -264,7 +264,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="uvt10"
+        id="pvt10"
         description="Powered by Spring Boot with AngularJS">
         {`Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.`}
       </Translate>
@@ -274,7 +274,7 @@ const features = [
   {
     title: (
       <Translate
-        id="uvt11.title"
+        id="pvt11.title"
         description="Title of feature of Powered By on the home page">
        Platformdan Bağımsız Altyapı
       </Translate>
@@ -283,7 +283,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="uvt11"
+        id="pvt11"
         description="Powered by Spring Boot with AngularJS">
         {`
           Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara 
