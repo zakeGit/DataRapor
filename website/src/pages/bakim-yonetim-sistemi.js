@@ -11,7 +11,7 @@ const features = [
   {
     title: (
       <Translate
-        id="bakım1.title"
+        id="bakim1.title"
         description="Bakım Süreçlerinizi Tek Noktadan Yönetin">
         Bakım Süreçlerinizi Tek Noktadan Yönetin
       </Translate>
@@ -19,16 +19,16 @@ const features = [
     imageUrl: 'img/undraw_just_browsing.svg',
     description: (
       <Translate
-        id="bakım1"
-        description="DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.">
-         DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.
+        id="bakim1"
+        description="DataRapor®, MMS modulu ile tesisinizdeki tüm bakim faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.">
+         DataRapor®, MMS modulu ile tesisinizdeki tüm bakim faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.
               </Translate>
     ),
   },
   {
     title: (
       <Translate
-        id="bakım2.title"
+        id="bakim2.title"
         description="Gelişmiş Dashboard">
         Gelişmiş Dashboard
       </Translate>
@@ -37,7 +37,7 @@ const features = [
     description: (
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
-        id="bakım2"
+        id="bakim2"
         description="Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz">
         {`Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz.`}
       </Translate>
@@ -46,7 +46,7 @@ const features = [
   {
     title: (
       <Translate
-        id="bakım3.title"
+        id="bakim3.title"
         description="Planlı Bakımlarda Otomatik İş emirleri">
         Planlı Bakımlarda Otomatik İş emirleri
       </Translate>
@@ -55,16 +55,16 @@ const features = [
     description: (
       <Translate
         values={{starters: (<code>starters</code>)}}
-        id="bakım3"
-        description="Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.">
-        {`Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.`}
+        id="bakim3"
+        description="Planlı veya periyodik bakimlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.">
+        {`Planlı veya periyodik bakimlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.`}
       </Translate>
     ),
   },
   {
     title: (
       <Translate
-        id="bakım4.title"
+        id="bakim4.title"
         description="Anlık Süreç Bilgilendirmeleri">
         Anlık Süreç Bilgilendirmeleri
       </Translate>
@@ -72,7 +72,7 @@ const features = [
     imageUrl: 'img/undraw_online_connection.svg',
     description: (
       <Translate
-        id="bakım4"
+        id="bakim4"
         description="İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir.">
         İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir.
       </Translate>
@@ -81,7 +81,7 @@ const features = [
   {
     title:  (
       <Translate
-        id="bakım5.title"
+        id="bakim5.title"
         description="Bakım yapılacak ekipmanlar için  yedek parca listeleri">
         Bakım yapılacak ekipmanlar için  yedek parca listeleri
       </Translate>
@@ -89,7 +89,7 @@ const features = [
     imageUrl: 'img/undraw_chore_list_re_2lq8.svg',
     description: (
       <Translate
-        id="bakım5"
+        id="bakim5"
         description="Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur.">
         Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur.
 
@@ -99,7 +99,7 @@ const features = [
   {
     title: (
       <Translate
-        id="bakım6.title"
+        id="bakim6.title"
         description="Envanter kontrolleri">
         Envanter kontrolleri
       </Translate>
@@ -108,7 +108,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="bakım6"
+        id="bakim6"
         description="Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir">
         {`Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir`}
       </Translate>
@@ -119,7 +119,7 @@ const features = [
   {
     title: (
       <Translate
-        id="bakım7.title"
+        id="bakim7.title"
         description="İş Raporları">
        İş Raporları
       </Translate>
@@ -128,7 +128,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="bakım7"
+        id="bakim7"
         description="Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir.">
         {`Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir.`}
       </Translate>
@@ -141,7 +141,7 @@ const features = [
   {
     title: (
       <Translate
-        id="bakım8.title"
+        id="bakim8.title"
         description="Depo Stok Yönetimi">
         Depo Stok Yönetimi
       </Translate>
@@ -150,7 +150,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="bakım8"
+        id="bakim8"
         description="Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız.">
         {`Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız.`}
       </Translate>
@@ -165,7 +165,7 @@ const features = [
   {
     title: (
       <Translate
-        id="bakım9.title"
+        id="bakim9.title"
         description="Vardiya Defteri">
         Vardiya Defteri
       </Translate>
@@ -174,7 +174,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="bakım9"
+        id="bakim9"
         description="Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir.">
         {`Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir. `}
       </Translate>
@@ -185,7 +185,7 @@ const features = [
   {
     title: (
       <Translate
-        id="bakım10.title"
+        id="bakim10.title"
         description=" Web Tabanlı Çalışma">
         Web Tabanlı Çalışma
       </Translate>
@@ -194,7 +194,7 @@ const features = [
     description: (
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
-        id="bakım10"
+        id="bakim10"
         description="Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir.">
         {`Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir.`}
       </Translate>

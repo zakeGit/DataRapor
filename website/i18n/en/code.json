@@ -1,84 +1,87 @@
 {
-  "bakım1.title": {
-    "message": "Bakım Süreçlerinizi Tek Noktadan Yönetin",
+  "bakim1.title": {
+    "message": "Manage Your Maintenance Processes from a Single Point",
     "description": "Bakım Süreçlerinizi Tek Noktadan Yönetin"
-  },
-  "bakım1": {
-    "message": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.",
-    "description": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz."
-  },
-  "bakım2.title": {
-    "message": "Gelişmiş Dashboard",
+},
+"bakim1": {
+    "message": "With the DataRapor® MMS module, you can organize and control all maintenance activities in your facility through a single application.",
+    "description": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakim faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz."
+},
+"bakim2.title": {
+    "message": "Advanced Dashboard",
     "description": "Gelişmiş Dashboard"
-  },
-  "bakım2": {
-    "message": "Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz.",
+},
+"bakim2": {
+    "message": "With the advanced dashboard page, you can monitor planned, pending, ongoing, and completed tasks live on a single page.",
     "description": "Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz"
-  },
-  "bakım3.title": {
-    "message": "Planlı Bakımlarda Otomatik İş emirleri",
+},
+"bakim3.title": {
+    "message": "Automatic Work Orders for Planned Maintenance",
     "description": "Planlı Bakımlarda Otomatik İş emirleri"
-  },
-  "bakım3": {
-    "message": "Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.",
-    "description": "Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur."
-  },
-  "bakım4.title": {
-    "message": "Anlık Süreç Bilgilendirmeleri",
+},
+"bakim3": {
+    "message": "Work orders and spare parts lists are automatically created for planned or periodic maintenance.",
+    "description": "Planlı veya periyodik bakimlar için iş emirleri ve yedek parça listeleri otomatik olusturulur."
+},
+"bakim4.title": {
+    "message": "Instant Process Notifications",
     "description": "Anlık Süreç Bilgilendirmeleri"
-  },
-  "bakım4": {
-    "message": "İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir.",
+},
+"bakim4": {
+    "message": "When a work order is created, authorized personnel are automatically notified by SMS and email at the start, during the process, and upon completion.",
     "description": "İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir."
-  },
-  "bakım5.title": {
-    "message": "Bakım yapılacak ekipmanlar için yedek parca listeleri",
-    "description": "Bakım yapılacak ekipmanlar için  yedek parca listeleri"
-  },
-  "bakım5": {
-    "message": "Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur.",
+},
+"bakim5.title": {
+    "message": "Spare Parts Lists for Maintenance Equipment",
+    "description": "Bakım yapılacak ekipmanlar için yedek parca listeleri"
+},
+"bakim5": {
+    "message": "When a work order is created, the list of spare parts to be replaced during maintenance is provided to the operator with stock information.",
     "description": "Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur."
-  },
-  "bakım6.title": {
-    "message": "Envanter kontrolleri",
+},
+"bakim6.title": {
+    "message": "Inventory Controls",
     "description": "Envanter kontrolleri"
-  },
-  "bakım6": {
-    "message": "Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir",
+},
+"bakim6": {
+    "message": "Your inventory can be added to the system in groups using the treeview infrastructure.",
     "description": "Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir"
-  },
-  "bakım7.title": {
-    "message": "İş Raporları",
+},
+"bakim7.title": {
+    "message": "Job Reports",
     "description": "İş Raporları"
-  },
-  "bakım7": {
-    "message": "Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir.",
+},
+"bakim7": {
+    "message": "Reports of completed jobs are automatically sent to authorized personnel daily or weekly.",
     "description": "Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir."
-  },
-  "bakım8.title": {
-    "message": "Depo Stok Yönetimi",
+},
+"bakim8.title": {
+    "message": "Warehouse Stock Management",
     "description": "Depo Stok Yönetimi"
-  },
-  "bakım8": {
-    "message": "Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız.",
+},
+"bakim8": {
+    "message": "Spare parts used during maintenance are automatically deducted from the warehouse stock. This way, you won't encounter surprises with real-time stock control.",
     "description": "Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız."
-  },
-  "bakım9.title": {
-    "message": "Vardiya Defteri",
+},
+"bakim9.title": {
+    "message": "Shift Logbook",
     "description": "Vardiya Defteri"
-  },
-  "bakım9": {
-    "message": "Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir. ",
+},
+"bakim9": {
+    "message": "With the online shift logbook, faults or notifications encountered during the shift are recorded online and can be exported at any time.",
     "description": "Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir."
-  },
-  "bakım10.title": {
-    "message": "Web Tabanlı Çalışma",
+},
+"bakim10.title": {
+    "message": "Web-Based Operation",
     "description": " Web Tabanlı Çalışma"
-  },
-  "bakım10": {
-    "message": "Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir.",
+},
+"bakim10": {
+    "message": "Thanks to the web-based operation infrastructure, the system can be accessed from a web browser without the need to install any application.",
     "description": "Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir."
-  },
+},
+
+
+
   "homepage.hero.title": {
     "message": "DataRapor  {content} ",
     "description": "Home page hero title, can contain simple html tags"
@@ -104,127 +107,135 @@
   "Demo": {
     "message": "Demo"
   },
-  "evt1.title": {
-    "message": "Tüm enerji tuketiminizi tek noktadan izleyin",
-    "description": "Tüm enerji tuketiminizi tek noktadan izleyin"
-  },
-  "evt1": {
-    "message": "DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.",
-    "description": "DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile  \r\n         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
-  },
-  "evt2.title": {
-    "message": "instant data monitoring",
-    "description": "Anlık Veri izleme"
-  },
-  "evt2": {
-    "message": "\n         Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \n         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir.        \n        \n        \n        ",
-    "description": "Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \r\n         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir. "
-  },
-  "evt3.title": {
-    "message": "Grafiksel Analiz",
-    "description": "Grafiksel Analiz"
-  },
-  "evt3": {
-    "message": "Tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
-  },
-  "evt4.title": {
-    "message": "Toplam Endex",
-    "description": "Toplam Endex"
-  },
-  "evt4": {
-    "message": "Total endex degerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve gunluk ani tüketim farklılıkları kolay bir şekilde tespit edilebilir.",
-    "description": "Total endex degerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve gunluk ani tüketim farklılıkları kolay bir şekilde tespit edilebilir."
-  },
-  "evt5.title": {
-    "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
-  },
-  "evt5": {
-    "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
-  },
-  "evt6.title": {
-    "message": "Sanal Cihaz Destegi",
-    "description": "Sanal Cihaz Destegi"
-  },
-  "evt6": {
-    "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
-  },
-  "evt7.title": {
-    "message": "Entegrasyon",
-    "description": "Entegrasyon"
-  },
-  "evt7": {
-    "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
-  },
-  "evt8.title": {
-    "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Yuksek Kapasiteli Veri İşleme"
-  },
-  "evt8": {
-    "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
-  },
-  "evt9.title": {
-    "message": "ISO 50001 - Enerji Yönetimi",
-    "description": "ISO 50001 - Enerji Yönetimi"
-  },
-  "evt9": {
-    "message": "İçinde barındırdığı bir çok grafiksel analiz altyapısı ile ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur.",
-    "description": "İçinde barındırdığı bir çok grafiksel analiz altyapısı ile ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur."
-  },
-  "evt10.title": {
-    "message": "Haberleşme",
-    "description": "Haberleşme"
-  },
-  "evt10": {
-    "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
-  },
-  "evt11.title": {
-    "message": "İç Faturalandırma",
-    "description": "İç Faturalandırma"
-  },
-  "evt11": {
-    "message": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplatarak  sistem üzerinden birimler arası iç fatura kesmenize imkan sağlar.",
-    "description": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplatarak  sistem üzerinden birimler arası iç fatura kesmenize imkan sağlar."
-  },
-  "evt12.title": {
-    "message": "Özelleştirilebilir Raporlar",
-    "description": "Özelleştirilebilir Raporlar"
-  },
-  "evt12": {
-    "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
-  },
-  "evt13.title": {
-    "message": "Alarm Ve Uyarı",
-    "description": "Alarm Ve Uyarı"
-  },
-  "evt13": {
-    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
-  },
-  "evt14.title": {
-    "message": "Platformdan Bağımsız Altyapı",
-    "description": "Platformdan Bağımsız Altyapı"
-  },
-  "evt14": {
-    "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
-  },
+
+    "evt1.title": {
+      "message": "Monitor all your energy consumption from a single point",
+      "description": "Tüm enerji tüketiminizi tek noktadan izleyin"
+    },
+    "evt1": {
+      "message": "With DataRapor® energy data collection module, you can monitor energy production and consumption data at your facility using a user-friendly interface, parameter, location, or device-specific.",
+      "description": "DataRapor® enerji veri toplama modülü ile, tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
+    },
+    "evt2.title": {
+      "message": "Real-time Data Monitoring",
+      "description": "Anlık Veri İzleme"
+    },
+    "evt2": {
+      "message": "Real-time data collected from the field is displayed without delay in the system, showing instant current, voltage, and power information.",
+      "description": "Sahadan çekilen anlık veriler sistemde gecikmesiz olarak gösterilir ve anlık olarak akım, gerilim, güç bilgileri görüntülenebilir."
+    },
+    "evt3.title": {
+      "message": "Graphical Analysis",
+      "description": "Grafiksel Analiz"
+    },
+    "evt3": {
+      "message": "Perform graphical analysis of all your energy production and consumption parameters historically on an hourly, daily, or monthly basis, with advanced export options to use on your preferred platforms.",
+      "description": "Tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
+    },
+    "evt4.title": {
+      "message": "Total Index",
+      "description": "Toplam Endex"
+    },
+    "evt4": {
+      "message": "Access total index values at desired intervals. The Totalizer dashboard allows easy detection of hourly and daily sudden consumption differences.",
+      "description": "Total endex değerlerine istenen periyotlarda ulaşılabilir. Totalizer dashboard ile saatlik ve günlük ani tüketim farklılıkları kolay bir şekilde tespit edilebilir."
+    },
+    "evt5.title": {
+      "message": "Expandable and Configurable Infrastructure",
+      "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
+    },
+    "evt5": {
+      "message": "With support for an online updateable device library, you can define new energy analyzers in minutes and update device settings.",
+      "description": "Online güncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir, cihazların ayarlarını güncelleyebilirsiniz."
+    },
+    "evt6.title": {
+      "message": "Virtual Device Support",
+      "description": "Sanal Cihaz Destegi"
+    },
+    "evt6": {
+      "message": "Define new virtual devices with mathematical calculations, add or subtract a device's contribution to others by specific ratios. Created devices appear in the system like physical devices and are included in index calculations.",
+      "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir, bir cihazın katkısını belirli oranlar ile diğer cihazlara ekleyebilir veya çıkarabilirsiniz. Oluşturduğunuz cihazlar fiziksel bir cihaz gibi sistemde görünür ve endeks hesaplarına dahil edilir."
+    },
+    "evt7.title": {
+      "message": "Integration",
+      "description": "Entegrasyon"
+    },
+    "evt7": {
+      "message": "Easily integrate your calculated costs with corporate management systems like SAP, ERP.",
+      "description": "Hesaplanan maliyetlerinizi SAP, ERP gibi kurumsal yönetim sistemlerine kolayca entegre edebilirsiniz."
+    },
+    "evt8.title": {
+      "message": "High Capacity Data Processing",
+      "description": "Yüksek Kapasiteli Veri İşleme"
+    },
+    "evt8": {
+      "message": "With high-capacity data processing capability and integrated server-side support, retrieve data from hundreds of sensors, actuators, and analyzers in your business without any delay, filter them, and subject them to custom mathematical calculations.",
+      "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
+    },
+    "evt9.title": {
+      "message": "ISO 50001 - Energy Management",
+      "description": "ISO 50001 - Enerji Yönetimi"
+    },
+    "evt9": {
+      "message": "Support ISO 50001 energy management system with various graphical analysis infrastructures, assisting in the creation of legally mandatory energy study reports.",
+      "description": "İçinde barındırdığı birçok grafiksel analiz altyapısı ile ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur."
+    },
+    "evt10.title": {
+      "message": "Communication",
+      "description": "Haberleşme"
+    },
+    "evt10": {
+      "message": "Integrate digital communication protocols such as Modbus TCP/IP, Modbus RTU, Profinet, Profibus, BACNET, MQTT, alongside OPC, TCP, UDP socket interfaces into the system.",
+      "description": "Modbus TCP/IP, Modbus RTU, Profinet, Profibus, BACNET, MQTT gibi birçok dijital haberleşme protokolü desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
+    },
+    "evt11.title": {
+      "message": "Internal Billing",
+      "description": "İç Faturalandırma"
+    },
+    "evt11": {
+      "message": "Calculate your business unit or location-based consumption, allowing you to issue internal invoices between units through the system.",
+      "description": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplatarak sistem üzerinden birimler arası iç fatura kesmenize imkan sağlar."
+    },
+    "evt12.title": {
+      "message": "Customizable Reports",
+      "description": "Özelleştirilebilir Raporlar"
+    },
+    "evt12": {
+      "message": "Receive custom-designed reports and invoices in your preferred format automatically emailed at specified times on an hourly, daily, weekly, or monthly basis.",
+      "description": "Talebiniz doğrultusunda size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık veya aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
+    },
+    "evt13.title": {
+      "message": "Alarm and Notification",
+      "description": "Alarm ve Uyarı"
+    },
+    "evt13": {
+      "message": "Define alarms for any parameter in the system, set limits and wait times for each alarm. In case of an alarm, the system automatically sends SMS and emails to authorized groups.",
+      "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir. Alarm durumunda tanımlı yetkili gruplarına sistem tarafından otomatik SMS ve mail gönderir."
+    },
+    "evt14.title": {
+      "message": "Platform-independent Infrastructure",
+      "description": "Platformdan Bağımsız Altyapı"
+    },
+    "evt14": {
+      "message": "Designed to be platform-independent, the system can be accessed from various devices with different screen resolutions, from desktop computers to tablets and smartphones.",
+      "description": "Sistem platformdan bağımsız"
+  
+
+
+
+
+},
+
+ 
   "Enerji Veri Toplama": {
-    "message": "Enerji Veri Toplama"
+    "message": "Energy Data Collection"
   },
   "ent1.title": {
-    "message": "ERP-SAP Entegrasyonları",
+    "message": "ERP-SAP Integrations",
     "description": "Title ERP-SAP Entegrasyonları"
   },
   "ent1": {
-    "message": "ERP-SAP entegrasyonlarımız sayesinde işletmenizdeki tüm üretim ve enerji verilerini anlık olarak SAP sisteminize entegre ederek verimliliğinizi artırabilir, iş süreçlerinizi optimize edebilir ve maliyetlerinizi düşürebilirsiniz.",
+    "message": "Through our ERP-SAP integrations, you can enhance efficiency, optimize business processes, and reduce costs by integrating all production and energy data from your business into SAP system in real-time.",
     "description": "ERP-SAP entegrasyonlarımız sayesinde işletmenizdeki tüm üretim ve enerji verilerini anlık olarak SAP sisteminize entegre ederek verimliliğinizi artırabilir, iş süreçlerinizi optimize edebilir ve maliyetlerinizi düşürebilirsiniz."
   },
   "ent2.title": {
@@ -232,7 +243,7 @@
     "description": "OPC"
   },
   "ent2": {
-    "message": "OPC Client altyapısı bulunan DataRapor® yazılımlarımız, işletmenizde bulunan cihazlarda kullanılan PLC veya modüllerin haberleşme tiplerinden bağımsız olarak çalışabilir.",
+    "message": "Our DataRapor® software with OPC Client infrastructure can operate independently of communication types used by PLCs or modules in your business.",
     "description": "OPC Client altyapısı bulunan DataRapor® yazılımlarımız, işletmenizde bulunan cihazlarda kullanılan PLC veya modüllerin haberleşme tiplerinden bağımsız olarak çalışabilir."
   },
   "ent3.title": {
@@ -240,7 +251,7 @@
     "description": "TCP/IP-RTU"
   },
   "ent3": {
-    "message": "Modbus TCP/IP veya RTU haberleşme altyapısını kendi bünyesinde taşıyan DataRapor® yazılımlarımız, herhangi bir ek yazılım kullanmadan cihazlarınızla haberleşebilir.",
+    "message": "Our DataRapor® software carries the Modbus TCP/IP or RTU communication infrastructure internally, enabling communication with your devices without the need for additional software.",
     "description": "Modbus TCP/IP veya RTU haberleşme altyapısını kendi bünyesinde taşıyan DataRapor® yazılımlarımız, herhangi bir ek yazılım kullanmadan cihazlarınızla haberleşebilir."
   },
   "ent4.title": {
@@ -248,15 +259,15 @@
     "description": "Profinet"
   },
   "ent4": {
-    "message": "Profinet haberleşme altyapısını kendi bünyesinde taşıyan Datarapor® yazılımlarımız , herhangi bir ek yazılım kullanmadan cihazlarınız veya makinalarınızla haberleşebilir.",
-    "description": "Profinet haberleşme altyapısını kendi bünyesinde taşıyan Datarapor® yazılımlarımız ,  herhangi bir ek yazılım kullanmadan cihazlarınız veya makinalarınızla haberleşebilir."
+    "message": "Our DataRapor® software with Profinet communication infrastructure can communicate with your devices or machines without the need for additional software.",
+    "description": "Profinet haberleşme altyapısını kendi bünyesinde taşıyan Datarapor® yazılımlarımız, herhangi bir ek yazılım kullanmadan cihazlarınız veya makinalarınızla haberleşebilir."
   },
   "ent5.title": {
     "message": "NFC Kart Entegrasyonu",
     "description": "NFC Kart Entegrasyonu"
   },
   "ent5": {
-    "message": "NFC Kart ile işletmelerinizde, operatörleriniz periyodik olarak el ile topladığı verileri, mobil cihazlar yardımı ile verileri hatasız bir şekilde toplayabilirsiniz.",
+    "message": "With NFC cards, your operators can accurately collect periodically gathered data using mobile devices in your businesses.",
     "description": "NFC Kart ile işletmelerinizde, operatörleriniz periyodik olarak el ile topladığı verileri, mobil cihazlar yardımı ile verileri hatasız bir şekilde toplayabilirsiniz."
   },
   "ent6.title": {
@@ -264,7 +275,7 @@
     "description": "MQTT"
   },
   "ent6": {
-    "message": "MQTT protokolü ile gerçek zamanlı ve güvenli veri aktarımı sağlayarak IoT cihazlarınızdan toplanan verilerinizi anlık olarak izleyebilir ve yönetebilirsiniz.",
+    "message": "With MQTT protocol, you can monitor and manage data collected from IoT devices in real-time securely.",
     "description": "MQTT protokolü ile gerçek zamanlı ve güvenli veri aktarımı sağlayarak IoT cihazlarınızdan toplanan verilerinizi anlık olarak izleyebilir ve yönetebilirsiniz."
   },
   "ent7.title": {
@@ -272,479 +283,458 @@
     "description": "BACNET"
   },
   "ent7": {
-    "message": "BACnet protokolü ile bina otomasyon sistemlerinizi entegre ederek enerji verimliliğini artırabilir, tesis yönetimini optimize edebilirsiniz.",
+    "message": "By integrating BACnet protocol, you can enhance energy efficiency and optimize facility management in building automation systems.",
     "description": "BACnet protokolü ile bina otomasyon sistemlerinizi entegre ederek enerji verimliliğini artırabilir, tesis yönetimini optimize edebilirsiniz."
   },
   "Entegrasyon": {
-    "message": "Entegrasyon"
+    "message": "Integration"
   },
+
+  
+  
+  
   "homepage1.title": {
-    "message": "Enerji Veri Toplama",
+    "message": "Energy Data Collection",
     "description": "Enerji Veri Toplama"
   },
   "homepage1": {
-    "message": "Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.",
+    "message": "Software where energy parameters from energy analyzers, electricity meters, etc., are collected and invoiced.",
     "description": "Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar."
   },
   "homepage2.title": {
-    "message": "Proses Veri Toplama",
+    "message": "Process Data Collection",
     "description": "Proses Veri Toplama"
   },
   "homepage2": {
-    "message": "Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.",
+    "message": "Software for recording, reporting, and analyzing process data such as temperature, pressure, humidity, flow rate, TOC, conductivity, pH, O2, CO, dust, etc.",
     "description": "Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları."
   },
   "homepage3.title": {
-    "message": "Üretim Veri Toplama",
+    "message": "Production Data Collection",
     "description": "Üretim Veri Toplama"
   },
   "homepage3": {
-    "message": "Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar.",
+    "message": "Software for recording, reporting, and invoicing quantities of products manufactured in your factory, either in real-time or on a shift basis.",
     "description": "Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar."
   },
   "homepage4.title": {
-    "message": "Bakım Yönetim Sistemi-MMS",
+    "message": "Maintenance Management System - MMS",
     "description": "Bakım Yönetim Sistemi-MMS"
   },
   "homepage4": {
-    "message": "Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.",
-    "description": "Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır."
+    "message": "Software used to manage and monitor periodic maintenance of equipment in industrial facilities.",
+    "description": "Endüstriyel tesislerdeki ekipmanların periyodik bakimını yönetmek ve izlemek için kullanılan yazılımlardır."
   },
   "homepage5.title": {
-    "message": "Maliyet Hesapları",
+    "message": "Cost Calculations",
     "description": "Maliyet Hesapları"
   },
   "homepage5": {
-    "message": "İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir.",
+    "message": "Calculate costs of parameters such as energy, steam, pressure, etc., in your business.",
     "description": "İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir."
   },
   "homepage6.title": {
-    "message": "Entegrasyon",
+    "message": "Integration",
     "description": "Entegrasyon"
   },
   "homepage6": {
-    "message": "Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.",
+    "message": "Integrate calculated costs into your accounting software or corporate management systems like SIP, ERP, etc.",
     "description": "Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir."
   },
   "homepage7.title": {
-    "message": "ISO 50001 Enerji Yönetimi",
+    "message": "ISO 50001 Energy Management",
     "description": "ISO 50001 Enerji Yönetimi"
   },
   "homepage7": {
-    "message": "ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur.",
+    "message": "Supports ISO 50001 energy management system, helps in creating legally required energy audit reports.",
     "description": "ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur."
   },
   "homepage8.title": {
-    "message": "Karşılaştırma",
+    "message": "Comparison",
     "description": "Karşılaştırma"
   },
   "homepage8": {
-    "message": "İşletmenizde aynı türde olan makina veya sistemleri vardiya yada dönem bazlı verilerini pasta dilimli grafiklerle karşılatırıp size fikir verir.",
+    "message": "Compare shift or period-based data of similar types of machines or systems in your business with pie charts to give you insights.",
     "description": "İşletmenizde aynı türde olan makina veya sistemleri vardiya yada dönem bazlı verilerini pasta dilimli grafiklerle karşılatırıp size fikir verir."
   },
   "homepage9.title": {
-    "message": "Faturalandırma",
+    "message": "Invoicing",
     "description": "Faturalandırma"
   },
   "homepage9": {
-    "message": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplayarak iç fatura kesmenize olanak sağlar.",
+    "message": "Allows you to calculate department or location-based consumptions to issue internal invoices.",
     "description": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplayarak iç fatura kesmenize olanak sağlar."
   },
   "homepage10.title": {
-    "message": "Haberleşme",
+    "message": "Communication",
     "description": "Haberleşme"
   },
   "homepage10": {
-    "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus gibi dijital haberleşme protokolleri desteklenirken bunun yanı sıra Pulse, 4-20mA ve 0-10V çıkışlı cihazlarda sistem tarafından desteklenir. Ayrıca OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
+    "message": "Supports digital communication protocols like Modbus TCP/IP, Modbus RTU, Profinet, Profibus, as well as devices with Pulse, 4-20mA, and 0-10V outputs. Additionally, it can integrate OPC, TCP, UDP socket interfaces into the system.",
     "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus gibi dijital haberleşme protokolleri desteklenirken bunun yanı sıra Pulse, 4-20mA ve 0-10V çıkışlı cihazlarda sistem tarafından desteklenir. Ayrıca OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
   },
   "homepage11.title": {
-    "message": "Yüksek Çözünürlüklü Veri",
+    "message": "High-Resolution Data",
     "description": "Yüksek Çözünürlüklü Veri"
   },
   "homepage11": {
-    "message": "DataRapor®, yüksek hızlı veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından hiç bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel \n        matematiksel hesaplamalara tabi tutabilir.",
+    "message": "DataRapor®, with high-speed data processing capability and integrated server-side support, can collect data from hundreds of sensors, actuators, and analyzers in your business without any delay, filter them, and subject them to custom mathematical calculations.",
     "description": "ataRapor®, yüksek hızlı veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından hiç bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel \r\n        matematiksel hesaplamalara tabi tutabilir."
   },
   "homepage12.title": {
-    "message": "Grafiksel Analiz",
+    "message": "Graphical Analysis",
     "description": "Grafiksel Analiz"
   },
   "homepage12": {
-    "message": "DataRapor®️ ile tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş export seçenekleri ile istediğiniz platformlarda kullanabilirsiniz.",
+    "message": "With DataRapor®, you can perform graphical analysis of all energy production and consumption parameters in your business on an hourly, daily, or monthly basis, and export them to various platforms with advanced export options.",
     "description": "DataRapor®️ ile tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş export seçenekleri ile istediğiniz platformlarda kullanabilirsiniz."
   },
   "homepage13.title": {
-    "message": "Rapor Ve Fatura",
+    "message": "Reporting and Invoicing",
     "description": "Rapor Ve Fatura"
   },
   "homepage13": {
-    "message": "DataRapor®️ ile dilediğiniz şekil ve formatta dizayn edilen rapor ve faturalar tek tuşla saatlik, günlük, haftalık yada aylık bazda hizmetinize sunulur veya sizin belirlediğiniz kişilere otomatik olarak mail atılır.",
+    "message": "With DataRapor®, reports and invoices designed in any format can be automatically generated and sent to your service hourly, daily, weekly, or monthly, or emailed to designated individuals.",
     "description": "DataRapor®️ ile dilediğiniz şekil ve formatta dizayn edilen rapor ve faturalar tek tuşla saatlik, günlük, haftalık yada aylık bazda hizmetinize sunulur veya sizin belirlediğiniz kişilere otomatik olarak mail atılır."
   },
   "homepage14.title": {
-    "message": "Alarm Ve Uyarı",
+    "message": "Alarm and Notification",
     "description": "Alarm Ve Uyarı"
   },
   "homepage14": {
-    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir.",
+    "message": "You can define alarms for any parameter in the system, set limits and alarm wait times, and in case of an alarm, DataRapor®️ can send SMS and email notifications to designated authorized groups.",
     "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir."
   },
   "homepage15.title": {
-    "message": "Web Tabanlı Scada",
+    "message": "Web-Based SCADA",
     "description": "Web Tabanlı Scada"
   },
   "homepage15": {
-    "message": "Dokunmatik Cihazlar ve Geleneksel Masaüstleri için Tasarlanmıs Web Tabanlı Scada Sistemleri",
-    "description": "Dokunmatik Cihazlar ve Geleneksel Masaüstleri için Tasarlanmıs Web Tabanlı Scada Sistemleri"
-  },
-  "Veri Toplama ve Raporlama Sistemi": {
-    "message": "Veri Toplama ve Raporlama Sistemi"
-  },
-  "pvt1.title": {
-    "message": "Tüm proses verilerinizi tek noktadan izleyin",
-    "description": "Tüm proses verilerinizi tek noktadan izleyin"
-  },
-  "pvt1": {
-    "message": "DataRapor® proses veri toplama modulu ile , tesisinizdeki proses verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.",
-    "description": "DataRapor® proses veri toplama modulu ile , tesisinizdeki proses verilerinizi kullanıcı dostu arayüzü ile  \r\n         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
-  },
-  "pvt2.title": {
-    "message": "Anlık veri izleme",
-    "description": "Anlık veri izleme"
-  },
-  "pvt2": {
-    "message": "\n         Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \n         ve anlık olarak Sıcaklık, basınç, nem, debi, hava hızı, TOC, iletkenlik, PH, O2, CO, SO2, NO, TOZ ve benzeri proses bilgileri görüntülenebilir.        \n        \n        \n        ",
-    "description": "Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \r\n         ve anlık olarak Sıcaklık, basınç, nem, debi, hava hızı, TOC, iletkenlik, PH, O2, CO, SO2, NO, TOZ ve benzeri proses bilgileri görüntülenebilir. "
-  },
-  "pvt3.title": {
-    "message": "Grafiksel Analiz",
-    "description": "Grafiksel Analiz"
-  },
-  "pvt3": {
-    "message": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
-  },
-  "pvt4.title": {
-    "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
-  },
-  "pvt4": {
-    "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni proses cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni proses cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
-  },
-  "pvt5.title": {
-    "message": "Sanal Cihaz Destegi",
-    "description": "Sanal Cihaz Destegi"
-  },
-  "pvt5": {
-    "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
-  },
-  "pvt6.title": {
-    "message": "Entegrasyon",
-    "description": "Entegrasyon"
-  },
-  "pvt6": {
-    "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
-  },
-  "pvt7.title": {
-    "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Yuksek Kapasiteli Veri İşleme"
-  },
-  "pvt7": {
-    "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
-  },
-  "pvt8.title": {
-    "message": "Haberleşme",
-    "description": "Haberleşme"
-  },
-  "pvt8": {
-    "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
-  },
-  "pvt9.title": {
-    "message": "Özelleştirilebilir Raporlar",
-    "description": "Özelleştirilebilir Raporlar"
-  },
-  "pvt9": {
-    "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
-  },
-  "pvt10.title": {
-    "message": "Alarm Ve Uyarı",
-    "description": "Alarm Ve Uyarı"
-  },
-  "pvt10": {
-    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
-  },
-  "pvt11.title": {
-    "message": "Platformdan Bağımsız Altyapı",
-    "description": "latformdan Bağımsız Altyapı"
-  },
-  "pvt11": {
-    "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
-  },
-  "Proses Veri Toplama": {
-    "message": "Proses Veri Toplama"
-  },
-  "homepage.features.easy-to-use.title": {
-    "message": "Enerji Veri Toplama",
-    "description": "Title of feature of Easy to use on the home page"
-  },
-  "homepage.features.easy-to-use": {
-    "message": "Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.",
-    "description": "Feature easy to use"
-  },
-  "homepage.features.modern-ui.title": {
-    "message": "Proses Veri Toplama",
-    "description": "Title of feature of Modern UI on the home page"
-  },
-  "homepage.features.modern-ui": {
-    "message": "Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.",
-    "description": "Modern UI"
-  },
-  "homepage.features.pluggable-extensible.title": {
-    "message": "Bakım Yönetim Sistemi-MMS",
-    "description": "Title of feature of pluggable and extensible on the home page"
-  },
-  "homepage.features.pluggable-extensible": {
-    "message": "Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.",
-    "description": "Feature Pluggable and Extensible"
-  },
-  "homepage.features.connect-information.title": {
-    "message": "Maliyet Hesapları",
-    "description": "Title of feature of Connect your information on the home page"
-  },
-  "homepage.features.connect-information": {
-    "message": "İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir.",
-    "description": "Feature Connect your information"
-  },
-  "homepage.features.customize-easy.title": {
-    "message": "Entegrasyon",
-    "description": "Title of feature of Customize easy on the home page"
-  },
-  "homepage.features.customize-easy": {
-    "message": "Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.",
-    "description": "Feature Customize easy"
-  },
-  "homepage.features.powered-by.title": {
-    "message": "Alarm Ve Uyarı",
-    "description": "Title of feature of Powered By on the home page"
-  },
-  "homepage.features.powered-by": {
-    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir.",
-    "description": "Powered by Spring Boot with AngularJS"
-  },
-  "uvt1.title": {
-    "message": "Tüm üretim verilerinizi tek noktadan izleyin",
-    "description": "Tüm üretim verilerinizi tek noktadan izleyin"
-  },
-  "uvt1": {
-    "message": "DataRapor® üretim veri toplama modulu ile , tesisinizdeki üretim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.",
-    "description": "DataRapor® üretim veri toplama modulu ile , tesisinizdeki üretim verilerinizi kullanıcı dostu arayüzü ile  \r\n         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
-  },
-  "uvtt1.title": {
-    "message": "Makina Bazlı Üretim Takip Sayfası",
-    "description": "Makina Bazlı Üretim Takip Sayfası"
-  },
-  "uvtt1": {
-    "message": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz.",
-    "description": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz."
-  },
-  "uvtt2.title": {
-    "message": "Vardiya Bazlı Üretim Takip Sayfası",
-    "description": "Vardiya Bazlı Üretim Takip Sayfası"
-  },
-  "uvtt2": {
-    "message": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz.",
-    "description": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz."
-  },
-  "uvtt3.title": {
-    "message": "OEE ile Üretim Verimliliğini Ölçmek",
-    "description": "OEE ile Üretim Verimliliğini Ölçmek"
-  },
-  "uvtt3": {
-    "message": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur.",
-    "description": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur."
-  },
-  "uvt2.title": {
-    "message": "ScoreBoard Veri Aktarma",
-    "description": "ScoreBoard Veri Aktarma"
-  },
-  "uvt2": {
-    "message": "\n          Fabrikanızda üretilen ürün miktarlarını harici bir ekipmana ihtiyaç duymadan ScoreBoard'a aktararak, üretim performansını anlık olarak izleyebilir ve operasyonel verimliliği artırıcı önlemler alabilirsiniz.       \n        \n        \n        ",
-    "description": "Fabrikanızda üretilen ürün miktarlarını harici bir ekipmana ihtiyaç duymadan ScoreBoard'a aktararak, üretim performansını anlık olarak izleyebilir ve operasyonel verimliliği artırıcı önlemler alabilirsiniz."
-  },
-  "uvt3.title": {
-    "message": "Grafiksel Analiz",
-    "description": "Grafiksel Analiz"
-  },
-  "uvt3": {
-    "message": "Tüm üretim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Tüm üretim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
-  },
-  "uvt4.title": {
-    "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
-  },
-  "uvt4": {
-    "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihaz tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihaz tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
-  },
-  "uvt5.title": {
-    "message": "Sanal Cihaz Destegi",
-    "description": "Sanal Cihaz Destegi"
-  },
-  "uvt5": {
-    "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
-  },
-  "uvt6.title": {
-    "message": "Entegrasyon",
-    "description": "Entegrasyon"
-  },
-  "uvt6": {
-    "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
-  },
-  "uvt7.title": {
-    "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Yuksek Kapasiteli Veri İşleme"
-  },
-  "uvt7": {
-    "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
-  },
-  "uvt8.title": {
-    "message": "Haberleşme",
-    "description": "Haberleşme"
-  },
-  "uvt8": {
-    "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
-  },
-  "uvt9.title": {
-    "message": "Özelleştirilebilir Raporlar",
-    "description": "Özelleştirilebilir Raporlar"
-  },
-  "uvt9": {
-    "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
-  },
-  "uvt10.title": {
-    "message": "Alarm Ve Uyarı",
-    "description": "Alarm Ve Uyarı"
-  },
-  "uvt10": {
-    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
-  },
-  "uvt11.title": {
-    "message": "Platformdan Bağımsız Altyapı",
-    "description": "Platformdan Bağımsız Altyapı"
-  },
-  "uvt11": {
-    "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
-  },
-  "Üretim Veri Toplama": {
-    "message": "Üretim Veri Toplama"
-  },
-  "web1.title": {
-    "message": "Kolay Kullanım",
-    "description": "Kolay Kullanım  "
-  },
-  "web1": {
-    "message": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz.",
-    "description": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz. "
-  },
-  "web2.title": {
-    "message": "Çok Dilli Destek",
-    "description": "Çok Dilli Destek"
-  },
-  "web2": {
-    "message": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar.",
-    "description": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar."
-  },
-  "web3.title": {
-    "message": "Grafiksel Analiz",
-    "description": "Grafiksel Analiz"
-  },
-  "web3": {
-    "message": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
-  },
-  "web4.title": {
-    "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
-  },
-  "web4": {
-    "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
-  },
-  "web5.title": {
-    "message": "Sanal Cihaz Destegi",
-    "description": "Sanal Cihaz Destegi"
-  },
-  "web5": {
-    "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
-  },
-  "web6.title": {
-    "message": "Entegrasyon",
-    "description": "Entegrasyon"
-  },
-  "web6": {
-    "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
-  },
-  "web7.title": {
-    "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Yuksek Kapasiteli Veri İşleme"
-  },
-  "web7": {
-    "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
-  },
-  "web8.title": {
-    "message": "Haberleşme",
-    "description": "Haberleşme"
-  },
-  "web8": {
-    "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
-  },
-  "web9.title": {
-    "message": "Özelleştirilebilir Raporlar",
-    "description": "Özelleştirilebilir Raporlar"
-  },
-  "web9": {
-    "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
-  },
-  "web10.title": {
-    "message": "Alarm Ve Uyarı",
-    "description": "Alarm Ve Uyarı"
-  },
-  "web10": {
-    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
-  },
-  "web11.title": {
-    "message": "Platformdan Bağımsız Altyapı",
-    "description": "Platformdan Bağımsız Altyapı"
-  },
-  "web11": {
-    "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
-  },
-  "Web Scada": {
-    "message": "Web Scada"
+  
+
+    "message": "Web-based SCADA systems designed for touch devices and traditional desktops.",
+    "description": "Dokunmatik Cihaz"  
+  },
+
+
+
+
+    "Veri Toplama ve Raporlama Sistemi": {
+      "message": "Data Collection and Reporting System"
+    },
+    "pvt1.title": {
+      "message": "Track all your process data from one point",
+      "description": "Tüm proses verilerinizi tek noktadan izleyin"
+    },
+    "pvt1": {
+      "message": "With DataRapor® process data collection module, you can monitor your process data at your facility by parameter, location, or device with a user-friendly interface.",
+      "description": "DataRapor® proses veri toplama modulu ile , tesisinizdeki proses verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
+    },
+    "pvt2.title": {
+      "message": "Real-time data monitoring",
+      "description": "Anlık veri izleme"
+    },
+    "pvt2": {
+      "message": "Real-time data collected from the field is displayed without delay in the system and can be viewed instantly for parameters such as temperature, pressure, humidity, flow rate, TOC, conductivity, pH, O2, CO, SO2, NO, particulates, and similar process information.",
+      "description": "Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir ve anlık olarak Sıcaklık, basınç, nem, debi, hava hızı, TOC, iletkenlik, PH, O2, CO, SO2, NO, TOZ ve benzeri proses bilgileri görüntülenebilir."
+    },
+    "pvt3.title": {
+      "message": "Graphical analysis",
+      "description": "Grafiksel Analiz"
+    },
+    "pvt3": {
+      "message": "You can perform graphical analysis of all your process parameters retrospectively on an hourly, daily, or monthly basis and export them to various platforms with advanced export options.",
+      "description": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
+    },
+    "pvt4.title": {
+      "message": "Expandable and Configurable Infrastructure",
+      "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
+    },
+    "pvt4": {
+      "message": "You can define new process devices in the system within minutes with support for an online updateable device library, and update the settings of devices.",
+      "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni proses cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
+    },
+    "pvt5.title": {
+      "message": "Virtual Device Support",
+      "description": "Sanal Cihaz Destegi"
+    },
+    "pvt5": {
+      "message": "You can define new virtual devices with mathematical calculations, adjust the contribution of one device to others with specific percentages, and manage them like physical devices in the system, included in index calculations.",
+      "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
+    },
+    "pvt6.title": {
+      "message": "Integration",
+      "description": "Entegrasyon"
+    },
+    "pvt6": {
+      "message": "You can easily integrate your calculated costs with corporate management systems like SAP, ERP.",
+      "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
+    },
+    "pvt7.title": {
+      "message": "High Capacity Data Processing",
+      "description": "Yuksek Kapasiteli Veri İşleme"
+    },
+    "pvt7": {
+      "message": "With high-capacity data processing capability and integrated server-side support, you can collect data from hundreds of sensors, actuators, and analyzers in your business without any delay, filter them, and apply special mathematical calculations.",
+      "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
+    },
+    "pvt8.title": {
+      "message": "Communication",
+      "description": "Haberleşme"
+    },
+    "pvt8": {
+      "message": "You can integrate digital communication protocols such as Modbus TCP/IP, Modbus RTU, Profinet, Profibus, BACNET, MQTT, as well as OPC, TCP, UDP socket interfaces into the system.",
+      "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
+    },
+    "pvt9.title": {
+      "message": "Customizable Reports",
+      "description": "Özelleştirilebilir Raporlar"
+    },
+    "pvt9": {
+      "message": "Automatically send reports and invoices in a format designed specifically for you to designated individuals on an hourly, daily, weekly, or monthly basis at the scheduled time.",
+      "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
+    },
+    "pvt10.title": {
+      "message": "Alarm and Alert",
+      "description": "Alarm Ve Uyarı"
+    },
+    "pvt10": {
+      "message": "You can define alarms for any parameter in the system, add or modify limits and alarm waiting times for each defined alarm. In case of an alarm, the system automatically sends SMS and email to designated authorized groups.",
+      "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir. Alarm durumunda tanımlı yetkili gruplarına sistem tarafından otomatik SMS ve mail gönderir."
+    },
+    "pvt11.title": {
+      "message": "Platform-independent Infrastructure",
+      "description": "Platformdan Bağımsız Altyapı"
+    },
+    "pvt11": {
+      "message": "The system is designed to be platform-independent, accessible from various devices with different screen resolutions, from desktop computers to tablets and smartphones.",
+      "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
+    },
+    "Proses Veri Toplama": {
+      "message": "Process Data Collection"
+    },
+  
+
+
+
+    "uvt1.title": {
+      "message": "Monitor All Your Production Data from a Single Point",
+      "description": "Tüm üretim verilerinizi tek noktadan izleyin"
+    },
+    "uvt1": {
+      "message": "With DataRapor® production data collection module, you can monitor your production data at your facility by parameter, location, or device with a user-friendly interface.",
+      "description": "DataRapor® üretim veri toplama modulu ile , tesisinizdeki üretim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
+    },
+    "uvtt1.title": {
+      "message": "Machine-Based Production Monitoring Page",
+      "description": "Makina Bazlı Üretim Takip Sayfası"
+    },
+    "uvtt1": {
+      "message": "Track real-time production of machines and tools in your operation, including operating and idle times, percentage of planned production realized, and similar data.",
+      "description": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz."
+    },
+    "uvtt2.title": {
+      "message": "Shift-Based Production Monitoring Page",
+      "description": "Vardiya Bazlı Üretim Takip Sayfası"
+    },
+    "uvtt2": {
+      "message": "Monitor the performance of each shift, conduct productivity analyses, and quickly respond to real-time issues to enhance overall production performance.",
+      "description": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz."
+    },
+    "uvtt3.title": {
+      "message": "Measure Production Efficiency with OEE",
+      "description": "OEE ile Üretim Verimliliğini Ölçmek"
+    },
+    "uvtt3": {
+      "message": "Identify weaknesses in your business and develop improvement strategies with OEE infrastructure that analyzes machine performance, availability, and quality rate.",
+      "description": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur."
+    },
+    "uvt2.title": {
+      "message": "ScoreBoard Data Transfer",
+      "description": "ScoreBoard Veri Aktarma"
+    },
+    "uvt2": {
+      "message": "Transfer product quantities manufactured in your factory to ScoreBoard without the need for external equipment, allowing you to monitor production performance in real-time and take measures to enhance operational efficiency.",
+      "description": "Fabrikanızda üretilen ürün miktarlarını harici bir ekipmana ihtiyaç duymadan ScoreBoard'a aktararak, üretim performansını anlık olarak izleyebilir ve operasyonel verimliliği artırıcı önlemler alabilirsiniz."
+    },
+    "uvt3.title": {
+      "message": "Graphical Analysis",
+      "description": "Grafiksel Analiz"
+    },
+    "uvt3": {
+      "message": "Conduct graphical analysis of all your production parameters on an hourly, daily, or monthly basis, and utilize advanced export options to integrate with various platforms.",
+      "description": "Tüm üretim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
+    },
+    "uvt4.title": {
+      "message": "Expandable and Configurable Infrastructure",
+      "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
+    },
+    "uvt4": {
+      "message": "With online updateable device library support, you can add new devices to the system and update device settings within minutes.",
+      "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihaz tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
+    },
+    "uvt5.title": {
+      "message": "Virtual Device Support",
+      "description": "Sanal Cihaz Destegi"
+    },
+    "uvt5": {
+      "message": "Define new virtual devices with mathematical calculations, adjust a device's contribution to other devices by specified ratios, and include these virtual devices in your index calculations as if they were physical devices.",
+      "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
+    },
+    "uvt6.title": {
+      "message": "Integration",
+      "description": "Entegrasyon"
+    },
+    "uvt6": {
+      "message": "Easily integrate your calculated costs with corporate management systems such as SAP and ERP.",
+      "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
+    },
+    "uvt7.title": {
+      "message": "High-Capacity Data Processing",
+      "description": "Yuksek Kapasiteli Veri İşleme"
+    },
+    "uvt7": {
+      "message": "With high-capacity data processing capability and integrated server-side support, you can retrieve, filter, and subject all data from hundreds of sensors, actuators, and analyzers in your operation to custom mathematical calculations without any delay.",
+      "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
+    },
+    "uvt8.title": {
+      "message": "Communication",
+      "description": "Haberleşme"
+    },
+    "uvt8": {
+      "message": "Integrate digital communication protocols such as Modbus TCP/IP, Modbus RTU, Profinet, Profibus, BACNET, MQTT, as well as OPC, TCP, UDP socket interfaces into your system.",
+      "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
+    },
+    "uvt9.title": {
+      "message": "Customizable Reports",
+      "description": "Özelleştirilebilir Raporlar"
+    },
+    "uvt9": {
+      "message": "Receive custom-designed reports and invoices in the format of your choice automatically via email at specified times—hourly, daily, weekly, or monthly, tailored to your requirements.",
+      "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
+    },
+    "uvt10.title": {
+      "message": "Alarm and Alert",
+      "description": "Alarm Ve Uyarı"
+    },
+    "uvt10": {
+      "message": "Define alarms for any parameter in the system, add or modify limits and alarm waiting times, and automatically send SMS and email notifications to designated authorized groups in case of an alarm.",
+      "description": "Sistemde tanımlı herhangi bir parametreye alarm tan"      
+
+
+    },
+
+        "uvt11.title": {
+          "message": "Platform-Independent Infrastructure",
+          "description": "Platformdan Bağımsız Altyapı"
+        },
+        "uvt11": {
+          "message": "The system is designed to be platform-independent, allowing access from various devices with different screen resolutions, from desktop computers to tablets and smartphones.",
+          "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
+        
+      } ,
+
+
+    "Üretim Veri Toplama": {
+      "message": "Production Data Collection"
+  
+      } ,
+
+
+    "web1.title": {
+      "message": "Ease of Use",
+      "description": "Kolay Kullanım"
+    },
+    "web1": {
+      "message": "You can run DataRapor Industrial Data Collection and Control Software with all web browsers.",
+      "description": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz."
+    },
+    "web2.title": {
+      "message": "Multilingual Support",
+      "description": "Çok Dilli Destek"
+    },
+    "web2": {
+      "message": "It offers multiple language options for user interface and documentation.",
+      "description": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar."
+    },
+    "web3.title": {
+      "message": "Graphical Analysis",
+      "description": "Grafiksel Analiz"
+    },
+    "web3": {
+      "message": "You can perform graphical analysis of all your process parameters retrospectively on an hourly, daily, and monthly basis, and utilize advanced export options on your preferred platforms.",
+      "description": "Tüm proses parametrelerinizin geçmişe dönük olarak saatlik, günlük ve aylık bazda grafiksel analizini yapabilir ve tercih ettiğiniz platformlarda gelişmiş dışa aktarma seçeneklerinden faydalanabilirsiniz."
+    },
+    "web4.title": {
+      "message": "Expandable and Configurable Infrastructure",
+      "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
+    },
+    "web4": {
+      "message": "You can define new devices in the system within minutes with support for an online updatable device library and update their settings.",
+      "description": "Online güncellenebilir cihaz kütüphanesi desteği ile sistemde yeni cihazları dakikalar içinde tanımlayabilir ve cihaz ayarlarını güncelleyebilirsiniz."
+    },
+    "web5.title": {
+      "message": "Virtual Device Support",
+      "description": "Sanal Cihaz Desteği"
+    },
+    "web5": {
+      "message": "You can define new virtual devices through mathematical calculations, adjust their contributions to other devices by certain ratios, and include them in system index calculations.",
+      "description": "Matematiksel hesaplamalarla yeni sanal cihazlar tanımlayabilir, bu cihazların diğer cihazlara katkılarını belirli oranlarla ayarlayabilir ve sistem endeks hesaplarına dahil edebilirsiniz."
+    },
+    "web6.title": {
+      "message": "Integration",
+      "description": "Entegrasyon"
+    },
+    "web6": {
+      "message": "You can easily integrate your calculated costs into corporate management systems such as SAP and ERP.",
+      "description": "Hesaplanan maliyetlerinizi SAP, ERP gibi kurumsal yönetim sistemlerine kolayca entegre edebilirsiniz."
+    },
+    "web7.title": {
+      "message": "High Capacity Data Processing",
+      "description": "Yüksek Kapasiteli Veri İşleme"
+    },
+    "web7": {
+      "message": "With high-capacity data processing capability and integrated server-side support, you can collect data from hundreds of sensors, actuators, and analyzers in your business without any delay, filter them, and subject them to special mathematical calculations.",
+      "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile işletmenizdeki yüzlerce sensör, aktüatör ve analizörden veri alabilir, bunları gecikme olmadan filtreleyebilir ve özel matematiksel hesaplamalara tabi tutabilirsiniz."
+    },
+    "web8.title": {
+      "message": "Communication",
+      "description": "Haberleşme"
+    },
+    "web8": {
+      "message": "In addition to digital communication protocol support such as Modbus TCP/IP, Modbus RTU, Profinet, Profibus, BACNET, and MQTT, you can integrate OPC, TCP, UDP socket interfaces into the system.",
+      "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital haberleşme protokolü desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
+    },
+    "web9.title": {
+      "message": "Customizable Reports",
+      "description": "Özelleştirilebilir Raporlar"
+    },
+    "web9": {
+      "message": "Custom-designed reports and invoices can be automatically emailed to designated recipients at specified times in hourly, daily, weekly, or monthly formats as per your request.",
+      "description": "Talebiniz doğrultusunda size özel olarak dizayn edilen raporlar ve faturalar, belirli saatlerde saatlik, günlük, haftalık veya aylık formatlarda otomatik olarak belirlenen alıcılara e-posta ile gönderilebilir."
+    },
+    "web10.title": {
+      "message": "Alarm and Alert",
+      "description": "Alarm ve Uyarı"
+    },
+    "web10": {
+      "message": "You can define alarms for any parameter in the system, add or modify limits and alarm waiting times for each defined alarm. In case of an alarm, the system automatically sends SMS and email to designated authorized groups.",
+      "description": "Sistemde herhangi bir parametre için alarm tanımlayabilir, her bir tanımlı alarm için limitler ve alarm bekleme sürelerini ekleyebilir veya değiştirebilirsiniz. Alarm durumunda, sistem tanımlı yetkili gruplara otomatik olarak SMS ve e-posta gönderir."
+    },
+    "web11.title": {
+      "message": "Platform-independent Infrastructure",
+      "description": "Platformdan Bağımsız Altyapı"
+    },
+    "web11": {
+      "message": "The system is designed to be platform-independent, accessible from desktop computers to tablets and smartphones with different screen resolutions.",
+      "description": "Sistem platformdan bağımsız olarak tasarlanmış olup; masaüstü bilgisayarlardan tablet ve akıllı telefonlara kadar farklı ekran çözünürlüklerindeki birçok cihazdan erişilebilir."
+    },
+    "Web Scada": {
+      "message": "Web Scada"
+    
+
+
+
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
@@ -1033,4 +1023,5 @@
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
   }
+  
 }
