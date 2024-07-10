@@ -41,15 +41,87 @@ const features = [
 
  
  
- 
 
+     
+  {
+    title: (
+    <Translate
+      id="uvtt1.title"
+      description="Makina Bazlı Üretim Takip Sayfası">
+        
+
+        Makina Bazlı Üretim Takip Sayfası
+    </Translate>
+  ),
+
+  imageUrl: 'img/undraw_chore_list_re_2lq8.svg',
+  description: (
+    <Translate
+      id="uvtt1"
+      description="Feature easy to use">
+        
+        İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz.
+      
+    </Translate>
+  ),
+},
+
+
+
+
+
+
+
+{
+  title: (
+  <Translate
+    id="uvtt2.title"
+    description="Vardiya Bazlı Üretim Takip Sayfası">
+      
+
+      Vardiya Bazlı Üretim Takip Sayfası
+  </Translate>
+),
+
+imageUrl: 'img/undraw_responsive_re_e1nn.svg',
+description: (
+  <Translate
+    id="uvtt2"
+    description="Feature easy to use">
+      
+      Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz.
+  </Translate>
+),
+},
+ 
+ 
+{
+  title: (
+  <Translate
+    id="uvtt3.title"
+    description="OEE ile Üretim Verimliliğini Ölçmek">
+      
+
+      OEE ile Üretim Verimliliğini Ölçmek
+  </Translate>
+),
+
+imageUrl: 'img/undraw_report_re_f5n5.svg',
+description: (
+  <Translate
+    id="uvtt3"
+    description="Feature easy to use">
+     Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur.
+  </Translate>
+),
+},
 
   {
     title: (
       <Translate
         id="uvt2.title"
         description="Title of feature of Modern UI on the home page">
-        Anlık veri izleme
+        ScoreBoard Veri Aktarma
       </Translate>
     ),
     imageUrl: 'img/undraw_real_time.svg',
@@ -59,8 +131,7 @@ const features = [
         id="uvt2"
         description="Modern UI">
         {`
-          Fabrikanızda üretilen ürün miktarlarının ,anlık yada vardiya bazlı kayıt altına alınarak raporlandığı ve faturalandırıldığı yazılımlar.
-                 
+          Fabrikanızda üretilen ürün miktarlarını harici bir ekipmana ihtiyaç duymadan ScoreBoard'a aktararak, üretim performansını anlık olarak izleyebilir ve operasyonel verimliliği artırıcı önlemler alabilirsiniz.       
         
         
         `}
