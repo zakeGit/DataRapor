@@ -16,14 +16,13 @@ const features = [
   
     title: (
 
-     
+       
       <Translate
         id="web1.title"
         description="Title of feature of Easy to use on the home page">
-          
-
-          Kolay Kullanım
+        Kolay Kullanım         
       </Translate>
+       
     ),
   
     imageUrl: 'img/web.svg',
