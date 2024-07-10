@@ -73,480 +73,480 @@
     "message": "Demo"
   },
   "evt1.title": {
-    "message": "Tüm enerji tuketiminizi tek noktadan izleyin",
-    "description": "Title of feature of Easy to use on the home page"
+    "message": "Monitor all your energy consumption from a single point",
+    "description": "Tüm enerji tuketiminizi tek noktadan izleyin"
   },
   "evt1": {
-    "message": "DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.",
-    "description": "Feature easy to use"
+    "message": "With DataRapor® energy data collection module, energy production and consumption prices in the facility can be monitored on the basis of parameters, location or device with its user-friendly interface.",
+    "description": "DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile  \r\n         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
   },
   "evt2.title": {
-    "message": "Anlık Veri izleme",
-    "description": "Title of feature of Modern UI on the home page"
+    "message": "Instant Data monitoring",
+    "description": "Anlık Veri izleme"
   },
   "evt2": {
-    "message": "\n         Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \n         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir.        \n        \n        \n        ",
-    "description": "Modern UI"
+    "message": "Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir.",
+    "description": "Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \r\n         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir. "
   },
   "evt3.title": {
     "message": "Grafiksel Analiz",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Grafiksel Analiz"
   },
   "evt3": {
     "message": "Tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
   },
   "evt4.title": {
     "message": "Toplam Endex",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Toplam Endex"
   },
   "evt4": {
     "message": "Total endex degerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve gunluk ani tüketim farklılıkları kolay bir şekilde tespit edilebilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Total endex degerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve gunluk ani tüketim farklılıkları kolay bir şekilde tespit edilebilir."
   },
   "evt5.title": {
     "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
   },
   "evt5": {
     "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
   },
   "evt6.title": {
     "message": "Sanal Cihaz Destegi",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Sanal Cihaz Destegi"
   },
   "evt6": {
     "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
   },
   "evt7.title": {
     "message": "Entegrasyon",
-    "description": "Title of feature of Customize easy on the home page"
+    "description": "Entegrasyon"
   },
   "evt7": {
     "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Feature Customize easy"
+    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
   },
   "evt8.title": {
     "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Yuksek Kapasiteli Veri İşleme"
   },
   "evt8": {
     "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
   },
   "evt9.title": {
     "message": "ISO 50001 - Enerji Yönetimi",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "ISO 50001 - Enerji Yönetimi"
   },
   "evt9": {
     "message": "İçinde barındırdığı bir çok grafiksel analiz altyapısı ile ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "İçinde barındırdığı bir çok grafiksel analiz altyapısı ile ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur."
   },
   "evt10.title": {
     "message": "Comminication",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Haberleşme"
   },
   "evt10": {
     "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
   },
   "evt11.title": {
     "message": "Local Billing",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "İç Faturalandırma"
   },
   "evt11": {
     "message": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplatarak  sistem üzerinden birimler arası iç fatura kesmenize imkan sağlar.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplatarak  sistem üzerinden birimler arası iç fatura kesmenize imkan sağlar."
   },
   "evt12.title": {
     "message": "Customized Report",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Özelleştirilebilir Raporlar"
   },
   "evt12": {
     "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
   },
   "evt13.title": {
     "message": "Alarm Ve Uyarı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Alarm Ve Uyarı"
   },
   "evt13": {
     "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
   },
   "evt14.title": {
     "message": "Platformdan Bağımsız Altyapı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Platformdan Bağımsız Altyapı"
   },
   "evt14": {
     "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
   },
   "Enerji Veri Toplama": {
     "message": "Enerji Veri Toplama"
   },
   "ent1.title": {
     "message": "ERP-SAP Entegrasyonları",
-    "description": "Title of feature of Easy to use on the home page"
+    "description": "Title ERP-SAP Entegrasyonları"
   },
   "ent1": {
     "message": "ERP-SAP entegrasyonlarımız sayesinde işletmenizdeki tüm üretim ve enerji verilerini anlık olarak SAP sisteminize entegre ederek verimliliğinizi artırabilir, iş süreçlerinizi optimize edebilir ve maliyetlerinizi düşürebilirsiniz.",
-    "description": "Feature easy to use"
+    "description": "ERP-SAP entegrasyonlarımız sayesinde işletmenizdeki tüm üretim ve enerji verilerini anlık olarak SAP sisteminize entegre ederek verimliliğinizi artırabilir, iş süreçlerinizi optimize edebilir ve maliyetlerinizi düşürebilirsiniz."
   },
   "ent2.title": {
     "message": "OPC",
-    "description": "Title of feature of pluggable and extensible on the home page"
+    "description": "OPC"
   },
   "ent2": {
     "message": "OPC Client altyapısı bulunan DataRapor® yazılımlarımız, işletmenizde bulunan cihazlarda kullanılan PLC veya modüllerin haberleşme tiplerinden bağımsız olarak çalışabilir.",
-    "description": "Feature Pluggable and Extensible"
+    "description": "OPC Client altyapısı bulunan DataRapor® yazılımlarımız, işletmenizde bulunan cihazlarda kullanılan PLC veya modüllerin haberleşme tiplerinden bağımsız olarak çalışabilir."
   },
   "ent3.title": {
     "message": "Modbus TCP/IP-RTU",
-    "description": "Title of feature of Connect your information on the home page"
+    "description": "TCP/IP-RTU"
   },
   "ent3": {
     "message": "Modbus TCP/IP veya RTU haberleşme altyapısını kendi bünyesinde taşıyan DataRapor® yazılımlarımız, herhangi bir ek yazılım kullanmadan cihazlarınızla haberleşebilir.",
-    "description": "Feature Connect your information"
+    "description": "Modbus TCP/IP veya RTU haberleşme altyapısını kendi bünyesinde taşıyan DataRapor® yazılımlarımız, herhangi bir ek yazılım kullanmadan cihazlarınızla haberleşebilir."
   },
   "ent4.title": {
     "message": "Profinet",
-    "description": "Title of feature of Customize easy on the home page"
+    "description": "Profinet"
   },
   "ent4": {
     "message": "Profinet haberleşme altyapısını kendi bünyesinde taşıyan Datarapor® yazılımlarımız , herhangi bir ek yazılım kullanmadan cihazlarınız veya makinalarınızla haberleşebilir.",
-    "description": "Feature Customize easy"
+    "description": "Profinet haberleşme altyapısını kendi bünyesinde taşıyan Datarapor® yazılımlarımız ,  herhangi bir ek yazılım kullanmadan cihazlarınız veya makinalarınızla haberleşebilir."
   },
   "ent5.title": {
     "message": "NFC Kart Entegrasyonu",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "NFC Kart Entegrasyonu"
   },
   "ent5": {
     "message": "NFC Kart ile işletmelerinizde, operatörleriniz periyodik olarak el ile topladığı verileri, mobil cihazlar yardımı ile verileri hatasız bir şekilde toplayabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "NFC Kart ile işletmelerinizde, operatörleriniz periyodik olarak el ile topladığı verileri, mobil cihazlar yardımı ile verileri hatasız bir şekilde toplayabilirsiniz."
   },
   "ent6.title": {
     "message": "MQTT",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "MQTT"
   },
   "ent6": {
     "message": "MQTT protokolü ile gerçek zamanlı ve güvenli veri aktarımı sağlayarak IoT cihazlarınızdan toplanan verilerinizi anlık olarak izleyebilir ve yönetebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "MQTT protokolü ile gerçek zamanlı ve güvenli veri aktarımı sağlayarak IoT cihazlarınızdan toplanan verilerinizi anlık olarak izleyebilir ve yönetebilirsiniz."
   },
   "ent7.title": {
     "message": "BACNET",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "BACNET"
   },
   "ent7": {
     "message": "BACnet protokolü ile bina otomasyon sistemlerinizi entegre ederek enerji verimliliğini artırabilir, tesis yönetimini optimize edebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "BACnet protokolü ile bina otomasyon sistemlerinizi entegre ederek enerji verimliliğini artırabilir, tesis yönetimini optimize edebilirsiniz."
   },
   "Entegrasyon": {
     "message": "Entegrasyon"
   },
   "homepage1.title": {
     "message": "Enerji Veri Toplama",
-    "description": "Title of feature of Easy to use on the home page"
+    "description": "Enerji Veri Toplama"
   },
   "homepage1": {
     "message": "Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.",
-    "description": "Feature easy to use"
+    "description": "Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar."
   },
   "homepage2.title": {
     "message": "Proses Veri Toplama",
-    "description": "Title of feature of Modern UI on the home page"
+    "description": "Proses Veri Toplama"
   },
   "homepage2": {
     "message": "Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.",
-    "description": "Modern UI"
+    "description": "Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları."
   },
   "homepage3.title": {
     "message": "Üretim Veri Toplama",
-    "description": "Title of feature of pluggable and extensible on the home page"
+    "description": "Üretim Veri Toplama"
   },
   "homepage3": {
     "message": "Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar.",
-    "description": "Feature Pluggable and Extensible"
+    "description": "Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar."
   },
   "homepage4.title": {
     "message": "Bakım Yönetim Sistemi-MMS",
-    "description": "Title of feature of pluggable and extensible on the home page"
+    "description": "Bakım Yönetim Sistemi-MMS"
   },
   "homepage4": {
     "message": "Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.",
-    "description": "Feature Pluggable and Extensible"
+    "description": "Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır."
   },
   "homepage5.title": {
     "message": "Maliyet Hesapları",
-    "description": "Title of feature of Connect your information on the home page"
+    "description": "Maliyet Hesapları"
   },
   "homepage5": {
     "message": "İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir.",
-    "description": "Feature Connect your information"
+    "description": "İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir."
   },
   "homepage6.title": {
     "message": "Entegrasyon",
-    "description": "Title of feature of Customize easy on the home page"
+    "description": "Entegrasyon"
   },
   "homepage6": {
     "message": "Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.",
-    "description": "Feature Customize easy"
+    "description": "Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir."
   },
   "homepage7.title": {
     "message": "ISO 50001 Enerji Yönetimi",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "ISO 50001 Enerji Yönetimi"
   },
   "homepage7": {
     "message": "ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur."
   },
   "homepage8.title": {
     "message": "Karşılaştırma",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Karşılaştırma"
   },
   "homepage8": {
     "message": "İşletmenizde aynı türde olan makina veya sistemleri vardiya yada dönem bazlı verilerini pasta dilimli grafiklerle karşılatırıp size fikir verir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "İşletmenizde aynı türde olan makina veya sistemleri vardiya yada dönem bazlı verilerini pasta dilimli grafiklerle karşılatırıp size fikir verir."
   },
   "homepage9.title": {
     "message": "Faturalandırma",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Faturalandırma"
   },
   "homepage9": {
     "message": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplayarak iç fatura kesmenize olanak sağlar.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplayarak iç fatura kesmenize olanak sağlar."
   },
   "homepage10.title": {
     "message": "Haberleşme",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Haberleşme"
   },
   "homepage10": {
     "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus gibi dijital haberleşme protokolleri desteklenirken bunun yanı sıra Pulse, 4-20mA ve 0-10V çıkışlı cihazlarda sistem tarafından desteklenir. Ayrıca OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus gibi dijital haberleşme protokolleri desteklenirken bunun yanı sıra Pulse, 4-20mA ve 0-10V çıkışlı cihazlarda sistem tarafından desteklenir. Ayrıca OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
   },
   "homepage11.title": {
     "message": "Yüksek Çözünürlüklü Veri",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Yüksek Çözünürlüklü Veri"
   },
   "homepage11": {
     "message": "DataRapor®, yüksek hızlı veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından hiç bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel \n        matematiksel hesaplamalara tabi tutabilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "ataRapor®, yüksek hızlı veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından hiç bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel \r\n        matematiksel hesaplamalara tabi tutabilir."
   },
   "homepage12.title": {
     "message": "Grafiksel Analiz",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Grafiksel Analiz"
   },
   "homepage12": {
     "message": "DataRapor®️ ile tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş export seçenekleri ile istediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "DataRapor®️ ile tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş export seçenekleri ile istediğiniz platformlarda kullanabilirsiniz."
   },
   "homepage13.title": {
     "message": "Rapor Ve Fatura",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Rapor Ve Fatura"
   },
   "homepage13": {
     "message": "DataRapor®️ ile dilediğiniz şekil ve formatta dizayn edilen rapor ve faturalar tek tuşla saatlik, günlük, haftalık yada aylık bazda hizmetinize sunulur veya sizin belirlediğiniz kişilere otomatik olarak mail atılır.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "DataRapor®️ ile dilediğiniz şekil ve formatta dizayn edilen rapor ve faturalar tek tuşla saatlik, günlük, haftalık yada aylık bazda hizmetinize sunulur veya sizin belirlediğiniz kişilere otomatik olarak mail atılır."
   },
   "homepage14.title": {
     "message": "Alarm Ve Uyarı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Alarm Ve Uyarı"
   },
   "homepage14": {
     "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir."
   },
   "homepage15.title": {
     "message": "Web Tabanlı Scada",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Web Tabanlı Scada"
   },
   "homepage15": {
     "message": "Dokunmatik Cihazlar ve Geleneksel Masaüstleri için Tasarlanmıs Web Tabanlı Scada Sistemleri",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Dokunmatik Cihazlar ve Geleneksel Masaüstleri için Tasarlanmıs Web Tabanlı Scada Sistemleri"
   },
   "Veri Toplama ve Raporlama Sistemi": {
     "message": "Veri Toplama ve Raporlama Sistemi"
   },
   "pvt1.title": {
     "message": "Tüm proses verilerinizi tek noktadan izleyin",
-    "description": "Title of feature of Easy to use on the home page"
+    "description": "Tüm proses verilerinizi tek noktadan izleyin"
   },
   "pvt1": {
     "message": "DataRapor® proses veri toplama modulu ile , tesisinizdeki proses verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.",
-    "description": "Feature easy to use"
+    "description": "DataRapor® proses veri toplama modulu ile , tesisinizdeki proses verilerinizi kullanıcı dostu arayüzü ile  \r\n         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
   },
   "pvt2.title": {
     "message": "Anlık veri izleme",
-    "description": "Title of feature of Modern UI on the home page"
+    "description": "Anlık veri izleme"
   },
   "pvt2": {
     "message": "\n         Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \n         ve anlık olarak Sıcaklık, basınç, nem, debi, hava hızı, TOC, iletkenlik, PH, O2, CO, SO2, NO, TOZ ve benzeri proses bilgileri görüntülenebilir.        \n        \n        \n        ",
-    "description": "Modern UI"
+    "description": "Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \r\n         ve anlık olarak Sıcaklık, basınç, nem, debi, hava hızı, TOC, iletkenlik, PH, O2, CO, SO2, NO, TOZ ve benzeri proses bilgileri görüntülenebilir. "
   },
   "pvt3.title": {
     "message": "Grafiksel Analiz",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Grafiksel Analiz"
   },
   "pvt3": {
     "message": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
   },
   "pvt4.title": {
     "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
   },
   "pvt4": {
     "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni proses cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni proses cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
   },
   "pvt5.title": {
     "message": "Sanal Cihaz Destegi",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Sanal Cihaz Destegi"
   },
   "pvt5": {
     "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
   },
   "pvt6.title": {
     "message": "Entegrasyon",
-    "description": "Title of feature of Customize easy on the home page"
+    "description": "Entegrasyon"
   },
   "pvt6": {
     "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Feature Customize easy"
+    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
   },
   "pvt7.title": {
     "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Yuksek Kapasiteli Veri İşleme"
   },
   "pvt7": {
     "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
   },
   "pvt8.title": {
     "message": "Haberleşme",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Haberleşme"
   },
   "pvt8": {
     "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
   },
   "pvt9.title": {
     "message": "Özelleştirilebilir Raporlar",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Özelleştirilebilir Raporlar"
   },
   "pvt9": {
     "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
   },
   "pvt10.title": {
     "message": "Alarm Ve Uyarı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Alarm Ve Uyarı"
   },
   "pvt10": {
     "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
   },
   "pvt11.title": {
     "message": "Platformdan Bağımsız Altyapı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "latformdan Bağımsız Altyapı"
   },
   "pvt11": {
     "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
   },
   "Proses Veri Toplama": {
     "message": "Proses Veri Toplama"
   },
   "uvt1.title": {
     "message": "Tüm üretim verilerinizi tek noktadan izleyin",
-    "description": "Title of feature of Easy to use on the home page"
+    "description": "Tüm üretim verilerinizi tek noktadan izleyin"
   },
   "uvt1": {
     "message": "DataRapor® üretim veri toplama modulu ile , tesisinizdeki üretim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.",
-    "description": "Feature easy to use"
+    "description": "DataRapor® üretim veri toplama modulu ile , tesisinizdeki üretim verilerinizi kullanıcı dostu arayüzü ile  \r\n         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
   },
   "uvt2.title": {
     "message": "Anlık veri izleme",
-    "description": "Title of feature of Modern UI on the home page"
+    "description": "ScoreBoard Veri Aktarma"
   },
   "uvt2": {
     "message": "\n          Fabrikanızda üretilen ürün miktarlarının ,anlık yada vardiya bazlı kayıt altına alınarak raporlandığı ve faturalandırıldığı yazılımlar.\n                 \n        \n        \n        ",
-    "description": "Modern UI"
+    "description": "Fabrikanızda üretilen ürün miktarlarını harici bir ekipmana ihtiyaç duymadan ScoreBoard'a aktararak, üretim performansını anlık olarak izleyebilir ve operasyonel verimliliği artırıcı önlemler alabilirsiniz."
   },
   "uvt3.title": {
     "message": "Grafiksel Analiz",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Grafiksel Analiz"
   },
   "uvt3": {
     "message": "Tüm üretim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Tüm üretim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
   },
   "uvt4.title": {
     "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
   },
   "uvt4": {
     "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihaz tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihaz tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
   },
   "uvt5.title": {
     "message": "Sanal Cihaz Destegi",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Sanal Cihaz Destegi"
   },
   "uvt5": {
     "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
   },
   "uvt6.title": {
     "message": "Entegrasyon",
-    "description": "Title of feature of Customize easy on the home page"
+    "description": "Entegrasyon"
   },
   "uvt6": {
     "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Feature Customize easy"
+    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
   },
   "uvt7.title": {
     "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Yuksek Kapasiteli Veri İşleme"
   },
   "uvt7": {
     "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
   },
   "uvt8.title": {
     "message": "Haberleşme",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Haberleşme"
   },
   "uvt8": {
     "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
   },
   "uvt9.title": {
     "message": "Özelleştirilebilir Raporlar",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Özelleştirilebilir Raporlar"
   },
   "uvt9": {
     "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
   },
   "uvt10.title": {
     "message": "Alarm Ve Uyarı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Alarm Ve Uyarı"
   },
   "uvt10": {
     "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
   },
   "uvt11.title": {
     "message": "Platformdan Bağımsız Altyapı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Platformdan Bağımsız Altyapı"
   },
   "uvt11": {
     "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
   },
   "Üretim Veri Toplama": {
     "message": "Üretim Veri Toplama"
@@ -843,90 +843,194 @@
   },
   "web1.title": {
     "message": "Kolay Kullanım",
-    "description": "Title of feature of Easy to use on the home page"
+    "description": "Kolay Kullanım  "
   },
   "web1": {
     "message": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz.",
-    "description": "Feature easy to use"
+    "description": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz. "
   },
   "web2.title": {
     "message": "Çok Dilli Destek",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Çok Dilli Destek"
   },
   "web2": {
     "message": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar."
   },
   "web3.title": {
     "message": "Grafiksel Analiz",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Grafiksel Analiz"
   },
   "web3": {
     "message": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
   },
   "web4.title": {
     "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
   },
   "web4": {
     "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
   },
   "web5.title": {
     "message": "Sanal Cihaz Destegi",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Sanal Cihaz Destegi"
   },
   "web5": {
     "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
   },
   "web6.title": {
     "message": "Entegrasyon",
-    "description": "Title of feature of Customize easy on the home page"
+    "description": "Entegrasyon"
   },
   "web6": {
     "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Feature Customize easy"
+    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
   },
   "web7.title": {
     "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Yuksek Kapasiteli Veri İşleme"
   },
   "web7": {
     "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
   },
   "web8.title": {
     "message": "Haberleşme",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Haberleşme"
   },
   "web8": {
     "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
   },
   "web9.title": {
     "message": "Özelleştirilebilir Raporlar",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Özelleştirilebilir Raporlar"
   },
   "web9": {
     "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
   },
   "web10.title": {
     "message": "Alarm Ve Uyarı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Alarm Ve Uyarı"
   },
   "web10": {
     "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
   },
   "web11.title": {
     "message": "Platformdan Bağımsız Altyapı",
-    "description": "Title of feature of Powered By on the home page"
+    "description": "Platformdan Bağımsız Altyapı"
   },
   "web11": {
     "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Powered by Spring Boot with AngularJS"
+    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
+  },
+  "uvtt1.title": {
+    "message": "Makina Bazlı Üretim Takip Sayfası",
+    "description": "Makina Bazlı Üretim Takip Sayfası"
+  },
+  "uvtt1": {
+    "message": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz.",
+    "description": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz."
+  },
+  "uvtt2.title": {
+    "message": "Vardiya Bazlı Üretim Takip Sayfası",
+    "description": "Vardiya Bazlı Üretim Takip Sayfası"
+  },
+  "uvtt2": {
+    "message": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz.",
+    "description": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz."
+  },
+  "uvtt3.title": {
+    "message": "OEE ile Üretim Verimliliğini Ölçmek",
+    "description": "OEE ile Üretim Verimliliğini Ölçmek"
+  },
+  "uvtt3": {
+    "message": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur.",
+    "description": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur."
+  },
+  "bakım1.title": {
+    "message": "Bakım Süreçlerinizi Tek Noktadan Yönetin",
+    "description": "Bakım Süreçlerinizi Tek Noktadan Yönetin"
+  },
+  "bakım1": {
+    "message": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.",
+    "description": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz."
+  },
+  "bakım2.title": {
+    "message": "Gelişmiş Dashboard",
+    "description": "Gelişmiş Dashboard"
+  },
+  "bakım2": {
+    "message": "Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz.",
+    "description": "Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz"
+  },
+  "bakım3.title": {
+    "message": "Planlı Bakımlarda Otomatik İş emirleri",
+    "description": "Planlı Bakımlarda Otomatik İş emirleri"
+  },
+  "bakım3": {
+    "message": "Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.",
+    "description": "Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur."
+  },
+  "bakım4.title": {
+    "message": "Anlık Süreç Bilgilendirmeleri",
+    "description": "Anlık Süreç Bilgilendirmeleri"
+  },
+  "bakım4": {
+    "message": "İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir.",
+    "description": "İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir."
+  },
+  "bakım5.title": {
+    "message": "Bakım yapılacak ekipmanlar için yedek parca listeleri",
+    "description": "Bakım yapılacak ekipmanlar için  yedek parca listeleri"
+  },
+  "bakım5": {
+    "message": "Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur.",
+    "description": "Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur."
+  },
+  "bakım6.title": {
+    "message": "Envanter kontrolleri",
+    "description": "Envanter kontrolleri"
+  },
+  "bakım6": {
+    "message": "Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir",
+    "description": "Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir"
+  },
+  "bakım7.title": {
+    "message": "İş Raporları",
+    "description": "İş Raporları"
+  },
+  "bakım7": {
+    "message": "Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir.",
+    "description": "Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir."
+  },
+  "bakım8.title": {
+    "message": "Depo Stok Yönetimi",
+    "description": "Depo Stok Yönetimi"
+  },
+  "bakım8": {
+    "message": "Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız.",
+    "description": "Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız."
+  },
+  "bakım9.title": {
+    "message": "Vardiya Defteri",
+    "description": "Vardiya Defteri"
+  },
+  "bakım9": {
+    "message": "Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir. ",
+    "description": "Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir."
+  },
+  "bakım10.title": {
+    "message": "Web Tabanlı Çalışma",
+    "description": " Web Tabanlı Çalışma"
+  },
+  "bakım10": {
+    "message": "Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir.",
+    "description": "Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir."
   }
 }

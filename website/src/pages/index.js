@@ -37,20 +37,22 @@ const features = [
   
     title: (
 
-     
+      <Link to="/enerji-veri-toplama">
       <Translate
         id="homepage1.title"
-        description="Title of feature of Easy to use on the home page">
+        description="Enerji Veri Toplama">
           
           Enerji Veri Toplama
       </Translate>
+      </Link>
+
     ),
   
     imageUrl: 'img/EVT.jpg',
     description: (
       <Translate
         id="homepage1"
-        description="Feature easy to use">
+        description="Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.">
          Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.
       </Translate>
     ),
@@ -63,18 +65,22 @@ const features = [
 
   {
     title: (
+
+
+      <Link to="/proses-veri-toplama">
       <Translate
         id="homepage2.title"
-        description="Title of feature of Modern UI on the home page">
+        description="Proses Veri Toplama">
         Proses Veri Toplama
       </Translate>
+      </Link>
     ),
     imageUrl: 'img/PVT.jpg',
     description: (
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
         id="homepage2"
-        description="Modern UI">
+        description="Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.">
         {`Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.`}
       </Translate>
     ),
@@ -85,18 +91,21 @@ const features = [
 
   {
     title: (
+
+      <Link to="/uretim-veri-toplama">
       <Translate
         id="homepage3.title"
-        description="Title of feature of pluggable and extensible on the home page">
+        description="Üretim Veri Toplama">
         Üretim Veri Toplama
       </Translate>
+      </Link>
     ),
     imageUrl: 'img/UVT.jpg',
     description: (
       <Translate
         values={{starters: (<code>starters</code>)}}
         id="homepage3"
-        description="Feature Pluggable and Extensible">
+        description="Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar.">
         {`Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar.`}
       </Translate>
     ),
@@ -105,18 +114,20 @@ const features = [
 
   {
     title: (
+      <Link to="/bakim-yonetim-sistemi">
       <Translate
         id="homepage4.title"
-        description="Title of feature of pluggable and extensible on the home page">
+        description="Bakım Yönetim Sistemi-MMS">
         Bakım Yönetim Sistemi-MMS
       </Translate>
+      </Link>
     ),
     imageUrl: 'img/undraw_switches.svg',
     description: (
       <Translate
         values={{starters: (<code>starters</code>)}}
         id="homepage4"
-        description="Feature Pluggable and Extensible">
+        description="Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.">
         {`Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.`}
       </Translate>
     ),
@@ -128,7 +139,7 @@ const features = [
     title: (
       <Translate
         id="homepage5.title"
-        description="Title of feature of Connect your information on the home page">
+        description="Maliyet Hesapları">
         Maliyet Hesapları
       </Translate>
     ),
@@ -136,23 +147,25 @@ const features = [
     description: (
       <Translate
         id="homepage5"
-        description="Feature Connect your information">
+        description="İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir.">
         İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir.</Translate>
     ),
   },
   {
     title:  (
+      <Link to="/entegrasyon"> 
       <Translate
         id="homepage6.title"
-        description="Title of feature of Customize easy on the home page">
+        description="Entegrasyon">
         Entegrasyon
       </Translate>
+      </Link>
     ),
     imageUrl: 'img/undraw_add_color.svg',
     description: (
       <Translate
         id="homepage6"
-        description="Feature Customize easy">
+        description="Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.">
         Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.
       </Translate>
     ),
@@ -161,7 +174,7 @@ const features = [
     title: (
       <Translate
         id="homepage7.title"
-        description="Title of feature of Powered By on the home page">
+        description="ISO 50001 Enerji Yönetimi">
         
 ISO 50001 Enerji Yönetimi
       </Translate>
@@ -171,7 +184,7 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage7"
-        description="Powered by Spring Boot with AngularJS">
+        description="ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur.">
         {`ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur.`}
       </Translate>
     ),
@@ -182,7 +195,7 @@ ISO 50001 Enerji Yönetimi
     title: (
       <Translate
         id="homepage8.title"
-        description="Title of feature of Powered By on the home page">
+        description="Karşılaştırma">
         Karşılaştırma
       </Translate>
     ),
@@ -191,7 +204,7 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage8"
-        description="Powered by Spring Boot with AngularJS">
+        description="İşletmenizde aynı türde olan makina veya sistemleri vardiya yada dönem bazlı verilerini pasta dilimli grafiklerle karşılatırıp size fikir verir.">
         {`İşletmenizde aynı türde olan makina veya sistemleri vardiya yada dönem bazlı verilerini pasta dilimli grafiklerle karşılatırıp size fikir verir.`}
       </Translate>
     ),
@@ -204,7 +217,7 @@ ISO 50001 Enerji Yönetimi
     title: (
       <Translate
         id="homepage9.title"
-        description="Title of feature of Powered By on the home page">
+        description="Faturalandırma">
         Faturalandırma
       </Translate>
     ),
@@ -213,7 +226,7 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage9"
-        description="Powered by Spring Boot with AngularJS">
+        description="İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplayarak iç fatura kesmenize olanak sağlar.">
         {`İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplayarak iç fatura kesmenize olanak sağlar.`}
       </Translate>
     ),
@@ -230,7 +243,7 @@ ISO 50001 Enerji Yönetimi
     title: (
       <Translate
         id="homepage10.title"
-        description="Title of feature of Powered By on the home page">
+        description="Haberleşme">
         Haberleşme
       </Translate>
     ),
@@ -239,7 +252,7 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage10"
-        description="Powered by Spring Boot with AngularJS">
+        description="Modbus TCP/IP ,Modbus RTU, Profinet, Profibus gibi dijital haberleşme protokolleri desteklenirken bunun yanı sıra Pulse, 4-20mA ve 0-10V çıkışlı cihazlarda sistem tarafından desteklenir. Ayrıca OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.">
         {`Modbus TCP/IP ,Modbus RTU, Profinet, Profibus gibi dijital haberleşme protokolleri desteklenirken bunun yanı sıra Pulse, 4-20mA ve 0-10V çıkışlı cihazlarda sistem tarafından desteklenir. Ayrıca OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.`}
       </Translate>
     ),
@@ -254,7 +267,7 @@ ISO 50001 Enerji Yönetimi
     title: (
       <Translate
         id="homepage11.title"
-        description="Title of feature of Powered By on the home page">
+        description="Yüksek Çözünürlüklü Veri">
         Yüksek Çözünürlüklü Veri
       </Translate>
     ),
@@ -263,7 +276,10 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage11"
-        description="Powered by Spring Boot with AngularJS">
+        description="ataRapor®, yüksek hızlı veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
+        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından hiç bir gecikme olmadan tüm verileri alabilir, 
+        filtreleyebilir, özel 
+        matematiksel hesaplamalara tabi tutabilir.">
         {`DataRapor®, yüksek hızlı veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
         işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından hiç bir gecikme olmadan tüm verileri alabilir, 
         filtreleyebilir, özel 
@@ -278,7 +294,7 @@ ISO 50001 Enerji Yönetimi
     title: (
       <Translate
         id="homepage12.title"
-        description="Title of feature of Powered By on the home page">
+        description="Grafiksel Analiz">
         Grafiksel Analiz
       </Translate>
     ),
@@ -287,7 +303,7 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage12"
-        description="Powered by Spring Boot with AngularJS">
+        description="DataRapor®️ ile tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş export seçenekleri ile istediğiniz platformlarda kullanabilirsiniz.">
         {`DataRapor®️ ile tüm enerji üretim ve tüketim parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş export seçenekleri ile istediğiniz platformlarda kullanabilirsiniz.`}
       </Translate>
     ),
@@ -300,7 +316,7 @@ ISO 50001 Enerji Yönetimi
     title: (
       <Translate
         id="homepage13.title"
-        description="Title of feature of Powered By on the home page">
+        description="Rapor Ve Fatura">
        Rapor Ve Fatura
       </Translate>
     ),
@@ -309,7 +325,7 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage13"
-        description="Powered by Spring Boot with AngularJS">
+        description="DataRapor®️ ile dilediğiniz şekil ve formatta dizayn edilen rapor ve faturalar tek tuşla saatlik, günlük, haftalık yada aylık bazda hizmetinize sunulur veya sizin belirlediğiniz kişilere otomatik olarak mail atılır.">
         {`DataRapor®️ ile dilediğiniz şekil ve formatta dizayn edilen rapor ve faturalar tek tuşla saatlik, günlük, haftalık yada aylık bazda hizmetinize sunulur veya sizin belirlediğiniz kişilere otomatik olarak mail atılır.`}
       </Translate>
     ),
@@ -319,7 +335,7 @@ ISO 50001 Enerji Yönetimi
     title: (
       <Translate
         id="homepage14.title"
-        description="Title of feature of Powered By on the home page">
+        description="Alarm Ve Uyarı">
        Alarm Ve Uyarı
       </Translate>
     ),
@@ -328,7 +344,7 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage14"
-        description="Powered by Spring Boot with AngularJS">
+        description="Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir.">
         {`Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir.`}
       </Translate>
     ),
@@ -339,7 +355,7 @@ ISO 50001 Enerji Yönetimi
     title: (
       <Translate
         id="homepage15.title"
-        description="Title of feature of Powered By on the home page">
+        description="Web Tabanlı Scada">
        Web Tabanlı Scada
       </Translate>
     ),
@@ -348,7 +364,7 @@ ISO 50001 Enerji Yönetimi
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="homepage15"
-        description="Powered by Spring Boot with AngularJS">
+        description="Dokunmatik Cihazlar ve Geleneksel Masaüstleri için Tasarlanmıs Web Tabanlı Scada Sistemleri">
         {`Dokunmatik Cihazlar ve Geleneksel Masaüstleri için Tasarlanmıs Web Tabanlı Scada Sistemleri`}
       </Translate>
     ),

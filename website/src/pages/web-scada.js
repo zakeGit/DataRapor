@@ -19,7 +19,7 @@ const features = [
        
       <Translate
         id="web1.title"
-        description="Title of feature of Easy to use on the home page">
+        description="Kolay Kullanım  ">
         Kolay Kullanım         
       </Translate>
        
@@ -29,7 +29,7 @@ const features = [
     description: (
       <Translate
         id="web1"
-        description="Feature easy to use">
+        description="DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz. ">
           
           DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz. 
       </Translate>
@@ -43,7 +43,7 @@ const features = [
     title: (
       <Translate
         id="web2.title"
-        description="Title of feature of Powered By on the home page">
+        description="Sınırsız Client">
        Sınırsız Client
       </Translate>
     ),
@@ -52,7 +52,7 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web2"
-        description="Powered by Spring Boot with AngularJS">
+        description="Mobil ve masaüstü cihazlarla herhangi bir lokasyondan, dilediğiniz sayıda personelin sisteme bağlanmasına olanak tanır.">
         {`Mobil ve masaüstü cihazlarla herhangi bir lokasyondan, dilediğiniz sayıda personelin sisteme bağlanmasına olanak tanır.`}
       </Translate>
     ),
@@ -64,7 +64,7 @@ const features = [
     title: (
       <Translate
         id="web2.title"
-        description="Title of feature of Powered By on the home page">
+        description="Çok Dilli Destek">
        Çok Dilli Destek
       </Translate>
     ),
@@ -73,7 +73,7 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web2"
-        description="Powered by Spring Boot with AngularJS">
+        description="Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar.">
         {`Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar.`}
       </Translate>
     ),
@@ -86,7 +86,7 @@ const features = [
     title: (
       <Translate
         id="web3.title"
-        description="Title of feature of Powered By on the home page">
+        description="Grafiksel Analiz">
         Grafiksel Analiz
       </Translate>
     ),
@@ -95,7 +95,7 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web3"
-        description="Powered by Spring Boot with AngularJS">
+        description="Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.">
         {`Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.`}
       </Translate>
     ),
@@ -106,40 +106,11 @@ const features = [
    
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     title: (
       <Translate
         id="web4.title"
-        description="Title of feature of Powered By on the home page">
+        description="Genişletilebilir ve Konfigure Edilebilir Altyapı">
         Genişletilebilir ve Konfigure Edilebilir Altyapı
       </Translate>
     ),
@@ -148,7 +119,7 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web4"
-        description="Powered by Spring Boot with AngularJS">
+        description="Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.">
         {`Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.`}
       </Translate>
     ),
@@ -158,7 +129,7 @@ const features = [
     title: (
       <Translate
         id="web5.title"
-        description="Title of feature of Powered By on the home page">
+        description="Sanal Cihaz Destegi">
         Sanal Cihaz Destegi
       </Translate>
     ),
@@ -167,7 +138,8 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web5"
-        description="Powered by Spring Boot with AngularJS">
+        description="Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. 
+        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.">
         {`Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. 
         Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.`}
       </Translate>
@@ -178,7 +150,7 @@ const features = [
     title:  (
       <Translate
         id="web6.title"
-        description="Title of feature of Customize easy on the home page">
+        description="Entegrasyon">
         Entegrasyon
       </Translate>
     ),
@@ -186,7 +158,7 @@ const features = [
     description: (
       <Translate
         id="web6"
-        description="Feature Customize easy">
+        description="Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.">
         Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.
       </Translate>
     ),
@@ -199,7 +171,7 @@ const features = [
     title: (
       <Translate
         id="web7.title"
-        description="Title of feature of Powered By on the home page">
+        description="Yuksek Kapasiteli Veri İşleme">
         Yuksek Kapasiteli Veri İşleme
       </Translate>
     ),
@@ -208,7 +180,9 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web7"
-        description="Powered by Spring Boot with AngularJS">
+        description="Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
+        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, 
+        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.">
         {`Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile 
         işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, 
         filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.`}
@@ -224,7 +198,7 @@ const features = [
     title: (
       <Translate
         id="web8.title"
-        description="Title of feature of Powered By on the home page">
+        description="Haberleşme">
         Haberleşme
       </Translate>
     ),
@@ -233,7 +207,7 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web8"
-        description="Powered by Spring Boot with AngularJS">
+        description="Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.">
         {`Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.`}
       </Translate>
     ),
@@ -245,7 +219,7 @@ const features = [
     title: (
       <Translate
         id="web9.title"
-        description="Title of feature of Powered By on the home page">
+        description="Özelleştirilebilir Raporlar">
        Özelleştirilebilir Raporlar
       </Translate>
     ),
@@ -254,7 +228,7 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web9"
-        description="Powered by Spring Boot with AngularJS">
+        description="Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.">
         {`Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.`}
       </Translate>
     ),
@@ -267,7 +241,7 @@ const features = [
     title: (
       <Translate
         id="web10.title"
-        description="Title of feature of Powered By on the home page">
+        description="Alarm Ve Uyarı">
        Alarm Ve Uyarı
       </Translate>
     ),
@@ -276,7 +250,7 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web10"
-        description="Powered by Spring Boot with AngularJS">
+        description="Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.">
         {`Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.`}
       </Translate>
     ),
@@ -286,7 +260,7 @@ const features = [
     title: (
       <Translate
         id="web11.title"
-        description="Title of feature of Powered By on the home page">
+        description="Platformdan Bağımsız Altyapı">
        Platformdan Bağımsız Altyapı
       </Translate>
     ),
@@ -295,7 +269,8 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="web11"
-        description="Powered by Spring Boot with AngularJS">
+        description="Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara 
+          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.">
         {`
           Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara 
           kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.`}
@@ -303,16 +278,6 @@ const features = [
     ),
 
   },
-
-
-
-
-
-
-
-
-
-
 
 
 
