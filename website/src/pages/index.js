@@ -153,7 +153,7 @@ const features = [
   },
   {
     title:  (
-      <Link to="/entegrasyon"> 
+      <Link to="/Entegrasyon"> 
       <Translate
         id="homepage6.title"
         description="Entegrasyon">

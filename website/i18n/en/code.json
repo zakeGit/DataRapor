@@ -1,51 +1,83 @@
 {
-  "homepage.features.easy-to-use.title": {
-    "message": "Kolay Kullanim",
-    "description": "Title of feature of Easy to use on the home page"
+  "bakım1.title": {
+    "message": "Bakım Süreçlerinizi Tek Noktadan Yönetin",
+    "description": "Bakım Süreçlerinizi Tek Noktadan Yönetin"
   },
-  "homepage.features.easy-to-use": {
-    "message": "DataRapor®, web tabalı arayüzü ve mobil uygulamaları ile eş zamanlı olarak bir çok kullanıcıya hizmet verir.",
-    "description": "Feature easy to use"
+  "bakım1": {
+    "message": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.",
+    "description": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz."
   },
-  "homepage.features.modern-ui.title": {
-    "message": "Modern UI",
-    "description": "Title of feature of Modern UI on the home page"
+  "bakım2.title": {
+    "message": "Gelişmiş Dashboard",
+    "description": "Gelişmiş Dashboard"
   },
-  "homepage.features.modern-ui": {
-    "message": "All AWE web components let you design modern and responsive user interfaces using a declarative API.\n        Works with {angularJS} and {reactJS}.",
-    "description": "Modern UI"
+  "bakım2": {
+    "message": "Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz.",
+    "description": "Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz"
   },
-  "homepage.features.pluggable-extensible.title": {
-    "message": "Pluggable and Extensible",
-    "description": "Title of feature of pluggable and extensible on the home page"
+  "bakım3.title": {
+    "message": "Planlı Bakımlarda Otomatik İş emirleri",
+    "description": "Planlı Bakımlarda Otomatik İş emirleri"
   },
-  "homepage.features.pluggable-extensible": {
-    "message": "Extend or customize all AWE features. The Spring Boot {starters} design lets you to enable the modules and features that you need.",
-    "description": "Feature Pluggable and Extensible"
+  "bakım3": {
+    "message": "Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.",
+    "description": "Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur."
   },
-  "homepage.features.connect-information.title": {
-    "message": "Connect your information",
-    "description": "Title of feature of Connect your information on the home page"
+  "bakım4.title": {
+    "message": "Anlık Süreç Bilgilendirmeleri",
+    "description": "Anlık Süreç Bilgilendirmeleri"
   },
-  "homepage.features.connect-information": {
-    "message": "Bind your data to web forms easily. AWE allows to connect to different data sources like SQL and NoSQL databases, Rest APIs, JavaBeans, etc.",
-    "description": "Feature Connect your information"
+  "bakım4": {
+    "message": "İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir.",
+    "description": "İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir."
   },
-  "homepage.features.customize-easy.title": {
-    "message": "Easy to customize",
-    "description": "Title of feature of Customize easy on the home page"
+  "bakım5.title": {
+    "message": "Bakım yapılacak ekipmanlar için yedek parca listeleri",
+    "description": "Bakım yapılacak ekipmanlar için  yedek parca listeleri"
   },
-  "homepage.features.customize-easy": {
-    "message": "AWE has multiple preconfigured themes and multi-language support. You can add custom CSS according to your needs.",
-    "description": "Feature Customize easy"
+  "bakım5": {
+    "message": "Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur.",
+    "description": "Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur."
   },
-  "homepage.features.powered-by.title": {
-    "message": "Powered by Spring Boot with AngularJS",
-    "description": "Title of feature of Powered By on the home page"
+  "bakım6.title": {
+    "message": "Envanter kontrolleri",
+    "description": "Envanter kontrolleri"
   },
-  "homepage.features.powered-by": {
-    "message": "Uses Spring 5 and Spring Boot 2. {autowired} is available for AWE components and layouts.",
-    "description": "Powered by Spring Boot with AngularJS"
+  "bakım6": {
+    "message": "Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir",
+    "description": "Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir"
+  },
+  "bakım7.title": {
+    "message": "İş Raporları",
+    "description": "İş Raporları"
+  },
+  "bakım7": {
+    "message": "Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir.",
+    "description": "Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir."
+  },
+  "bakım8.title": {
+    "message": "Depo Stok Yönetimi",
+    "description": "Depo Stok Yönetimi"
+  },
+  "bakım8": {
+    "message": "Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız.",
+    "description": "Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız."
+  },
+  "bakım9.title": {
+    "message": "Vardiya Defteri",
+    "description": "Vardiya Defteri"
+  },
+  "bakım9": {
+    "message": "Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir. ",
+    "description": "Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir."
+  },
+  "bakım10.title": {
+    "message": "Web Tabanlı Çalışma",
+    "description": " Web Tabanlı Çalışma"
+  },
+  "bakım10": {
+    "message": "Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir.",
+    "description": "Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir."
   },
   "homepage.hero.title": {
     "message": "DataRapor  {content} ",
@@ -67,25 +99,25 @@
     "message": "Bakım Yönetim Sistemi"
   },
   "Göz At": {
-    "message": "Docs"
+    "message": "Göz At"
   },
   "Demo": {
     "message": "Demo"
   },
   "evt1.title": {
-    "message": "Monitor all your energy consumption from a single point",
+    "message": "Tüm enerji tuketiminizi tek noktadan izleyin",
     "description": "Tüm enerji tuketiminizi tek noktadan izleyin"
   },
   "evt1": {
-    "message": "With DataRapor® energy data collection module, energy production and consumption prices in the facility can be monitored on the basis of parameters, location or device with its user-friendly interface.",
+    "message": "DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.",
     "description": "DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile  \r\n         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
   },
   "evt2.title": {
-    "message": "Instant Data monitoring",
+    "message": "instant data monitoring",
     "description": "Anlık Veri izleme"
   },
   "evt2": {
-    "message": "Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir.",
+    "message": "\n         Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \n         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir.        \n        \n        \n        ",
     "description": "Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir \r\n         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir. "
   },
   "evt3.title": {
@@ -145,7 +177,7 @@
     "description": "İçinde barındırdığı bir çok grafiksel analiz altyapısı ile ISO 50001 enerji yönetimi sistemini destekler, kanunen zorunlu enerji etüt raporlarının oluşturulmasına yardımcı olur."
   },
   "evt10.title": {
-    "message": "Comminication",
+    "message": "Haberleşme",
     "description": "Haberleşme"
   },
   "evt10": {
@@ -153,7 +185,7 @@
     "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
   },
   "evt11.title": {
-    "message": "Local Billing",
+    "message": "İç Faturalandırma",
     "description": "İç Faturalandırma"
   },
   "evt11": {
@@ -161,7 +193,7 @@
     "description": "İşletmenizin bölüm veya lokasyon bazlı tüketimlerini hesaplatarak  sistem üzerinden birimler arası iç fatura kesmenize imkan sağlar."
   },
   "evt12.title": {
-    "message": "Customized Report",
+    "message": "Özelleştirilebilir Raporlar",
     "description": "Özelleştirilebilir Raporlar"
   },
   "evt12": {
@@ -460,6 +492,54 @@
   "Proses Veri Toplama": {
     "message": "Proses Veri Toplama"
   },
+  "homepage.features.easy-to-use.title": {
+    "message": "Enerji Veri Toplama",
+    "description": "Title of feature of Easy to use on the home page"
+  },
+  "homepage.features.easy-to-use": {
+    "message": "Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.",
+    "description": "Feature easy to use"
+  },
+  "homepage.features.modern-ui.title": {
+    "message": "Proses Veri Toplama",
+    "description": "Title of feature of Modern UI on the home page"
+  },
+  "homepage.features.modern-ui": {
+    "message": "Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.",
+    "description": "Modern UI"
+  },
+  "homepage.features.pluggable-extensible.title": {
+    "message": "Bakım Yönetim Sistemi-MMS",
+    "description": "Title of feature of pluggable and extensible on the home page"
+  },
+  "homepage.features.pluggable-extensible": {
+    "message": "Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.",
+    "description": "Feature Pluggable and Extensible"
+  },
+  "homepage.features.connect-information.title": {
+    "message": "Maliyet Hesapları",
+    "description": "Title of feature of Connect your information on the home page"
+  },
+  "homepage.features.connect-information": {
+    "message": "İşletmenizde yer alan enerji, buhar, basınç gibi parametrelerin maliyetlerini hesaplayabilir.",
+    "description": "Feature Connect your information"
+  },
+  "homepage.features.customize-easy.title": {
+    "message": "Entegrasyon",
+    "description": "Title of feature of Customize easy on the home page"
+  },
+  "homepage.features.customize-easy": {
+    "message": "Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.",
+    "description": "Feature Customize easy"
+  },
+  "homepage.features.powered-by.title": {
+    "message": "Alarm Ve Uyarı",
+    "description": "Title of feature of Powered By on the home page"
+  },
+  "homepage.features.powered-by": {
+    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda DataRapor®️, istenen yetkili gruplarına sms ve mail gönderir.",
+    "description": "Powered by Spring Boot with AngularJS"
+  },
   "uvt1.title": {
     "message": "Tüm üretim verilerinizi tek noktadan izleyin",
     "description": "Tüm üretim verilerinizi tek noktadan izleyin"
@@ -468,12 +548,36 @@
     "message": "DataRapor® üretim veri toplama modulu ile , tesisinizdeki üretim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.",
     "description": "DataRapor® üretim veri toplama modulu ile , tesisinizdeki üretim verilerinizi kullanıcı dostu arayüzü ile  \r\n         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz."
   },
+  "uvtt1.title": {
+    "message": "Makina Bazlı Üretim Takip Sayfası",
+    "description": "Makina Bazlı Üretim Takip Sayfası"
+  },
+  "uvtt1": {
+    "message": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz.",
+    "description": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz."
+  },
+  "uvtt2.title": {
+    "message": "Vardiya Bazlı Üretim Takip Sayfası",
+    "description": "Vardiya Bazlı Üretim Takip Sayfası"
+  },
+  "uvtt2": {
+    "message": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz.",
+    "description": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz."
+  },
+  "uvtt3.title": {
+    "message": "OEE ile Üretim Verimliliğini Ölçmek",
+    "description": "OEE ile Üretim Verimliliğini Ölçmek"
+  },
+  "uvtt3": {
+    "message": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur.",
+    "description": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur."
+  },
   "uvt2.title": {
-    "message": "Anlık veri izleme",
+    "message": "ScoreBoard Veri Aktarma",
     "description": "ScoreBoard Veri Aktarma"
   },
   "uvt2": {
-    "message": "\n          Fabrikanızda üretilen ürün miktarlarının ,anlık yada vardiya bazlı kayıt altına alınarak raporlandığı ve faturalandırıldığı yazılımlar.\n                 \n        \n        \n        ",
+    "message": "\n          Fabrikanızda üretilen ürün miktarlarını harici bir ekipmana ihtiyaç duymadan ScoreBoard'a aktararak, üretim performansını anlık olarak izleyebilir ve operasyonel verimliliği artırıcı önlemler alabilirsiniz.       \n        \n        \n        ",
     "description": "Fabrikanızda üretilen ürün miktarlarını harici bir ekipmana ihtiyaç duymadan ScoreBoard'a aktararak, üretim performansını anlık olarak izleyebilir ve operasyonel verimliliği artırıcı önlemler alabilirsiniz."
   },
   "uvt3.title": {
@@ -551,12 +655,104 @@
   "Üretim Veri Toplama": {
     "message": "Üretim Veri Toplama"
   },
+  "web1.title": {
+    "message": "Kolay Kullanım",
+    "description": "Kolay Kullanım  "
+  },
+  "web1": {
+    "message": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz.",
+    "description": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz. "
+  },
+  "web2.title": {
+    "message": "Çok Dilli Destek",
+    "description": "Çok Dilli Destek"
+  },
+  "web2": {
+    "message": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar.",
+    "description": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar."
+  },
+  "web3.title": {
+    "message": "Grafiksel Analiz",
+    "description": "Grafiksel Analiz"
+  },
+  "web3": {
+    "message": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
+    "description": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
+  },
+  "web4.title": {
+    "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
+    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
+  },
+  "web4": {
+    "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
+    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
+  },
+  "web5.title": {
+    "message": "Sanal Cihaz Destegi",
+    "description": "Sanal Cihaz Destegi"
+  },
+  "web5": {
+    "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
+    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
+  },
+  "web6.title": {
+    "message": "Entegrasyon",
+    "description": "Entegrasyon"
+  },
+  "web6": {
+    "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
+    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
+  },
+  "web7.title": {
+    "message": "Yuksek Kapasiteli Veri İşleme",
+    "description": "Yuksek Kapasiteli Veri İşleme"
+  },
+  "web7": {
+    "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
+    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
+  },
+  "web8.title": {
+    "message": "Haberleşme",
+    "description": "Haberleşme"
+  },
+  "web8": {
+    "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
+    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
+  },
+  "web9.title": {
+    "message": "Özelleştirilebilir Raporlar",
+    "description": "Özelleştirilebilir Raporlar"
+  },
+  "web9": {
+    "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
+    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
+  },
+  "web10.title": {
+    "message": "Alarm Ve Uyarı",
+    "description": "Alarm Ve Uyarı"
+  },
+  "web10": {
+    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
+    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
+  },
+  "web11.title": {
+    "message": "Platformdan Bağımsız Altyapı",
+    "description": "Platformdan Bağımsız Altyapı"
+  },
+  "web11": {
+    "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
+    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
+  },
   "Web Scada": {
     "message": "Web Scada"
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Scroll back to top",
+    "description": "The ARIA label for the back to top button"
   },
   "theme.blog.archive.title": {
     "message": "Archive",
@@ -565,10 +761,6 @@
   "theme.blog.archive.description": {
     "message": "Archive",
     "description": "The page & hero description of the blog archive page"
-  },
-  "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top",
-    "description": "The ARIA label for the back to top button"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Blog list page navigation",
@@ -618,13 +810,13 @@
     "message": "light mode",
     "description": "The name for the light color mode"
   },
-  "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
   "theme.docs.breadcrumbs.navAriaLabel": {
     "message": "Breadcrumbs",
     "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "1 item|{count} items",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
     "message": "Docs pages",
@@ -840,197 +1032,5 @@
   "theme.unlistedContent.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
-  },
-  "web1.title": {
-    "message": "Kolay Kullanım",
-    "description": "Kolay Kullanım  "
-  },
-  "web1": {
-    "message": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz.",
-    "description": "DataRapor Endüstriyel Veri Toplama ve Kontrol Yazılımını tüm web tarayıcılar ile çalıştırabilirsiniz. "
-  },
-  "web2.title": {
-    "message": "Çok Dilli Destek",
-    "description": "Çok Dilli Destek"
-  },
-  "web2": {
-    "message": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar.",
-    "description": "Kullanıcı arayüzü ve dokümantasyon için çoklu dil seçenek sunar."
-  },
-  "web3.title": {
-    "message": "Grafiksel Analiz",
-    "description": "Grafiksel Analiz"
-  },
-  "web3": {
-    "message": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz.",
-    "description": "Tüm proses parametrelerinizin grafiksel analizini geçmişe dönük olarak saatlik, günlük, aylık bazda yapabilir, gelişmiş dışa aktarma seçenekleri ile dilediğiniz platformlarda kullanabilirsiniz."
-  },
-  "web4.title": {
-    "message": "Genişletilebilir ve Konfigure Edilebilir Altyapı",
-    "description": "Genişletilebilir ve Konfigure Edilebilir Altyapı"
-  },
-  "web4": {
-    "message": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.",
-    "description": "Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni cihazı tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz."
-  },
-  "web5.title": {
-    "message": "Sanal Cihaz Destegi",
-    "description": "Sanal Cihaz Destegi"
-  },
-  "web5": {
-    "message": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir.",
-    "description": "Bu altyapı sayesinde matematiksel hesaplamalar ile yeni sanal cihazlar tanımlayabilir,bir cihazın katkısını belli oranlar ile diğer cihazlara ekleyebilir yada cikarabilirsiniz. \r\n        Olusturdugunuz cihazlar fiizksel bir cihaz gibi sistemde görünür ve endex hesaplarına dahil edilir."
-  },
-  "web6.title": {
-    "message": "Entegrasyon",
-    "description": "Entegrasyon"
-  },
-  "web6": {
-    "message": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir.",
-    "description": "Hesaplanan maliyetleriniz SAP, ERP gibi kurumsal yönetim sistemlerine kolay bir şekilde entegre edebilir."
-  },
-  "web7.title": {
-    "message": "Yuksek Kapasiteli Veri İşleme",
-    "description": "Yuksek Kapasiteli Veri İşleme"
-  },
-  "web7": {
-    "message": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz.",
-    "description": "Yüksek kapasiteli veri işleme kabiliyeti ve entegre sunucu tarafı desteği ile \r\n        işletmenizdeki yüzlerce sensör, aktüatör ve analizör gibi veri kaynaklarından herhangi bir gecikme olmadan tüm verileri alabilir, \r\n        filtreleyebilir, özel matematiksel hesaplamalara tabi tutabilirsiniz."
-  },
-  "web8.title": {
-    "message": "Haberleşme",
-    "description": "Haberleşme"
-  },
-  "web8": {
-    "message": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz.",
-    "description": "Modbus TCP/IP ,Modbus RTU, Profinet, Profibus , BACNET , MQTT gibi birçok dijital  haberlesme protokolu desteği yanında OPC, TCP, UDP soket arabirimlerini sisteme entegre edebilirsiniz."
-  },
-  "web9.title": {
-    "message": "Özelleştirilebilir Raporlar",
-    "description": "Özelleştirilebilir Raporlar"
-  },
-  "web9": {
-    "message": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır.",
-    "description": "Talebiniz doğrultusunda  size özel formatta dizayn edilen rapor ve faturalar belirlediğiniz saatte saatlik, günlük, haftalık yada aylık bazda sizin belirlediğiniz kişilere otomatik olarak sistem tarafından mail atılır."
-  },
-  "web10.title": {
-    "message": "Alarm Ve Uyarı",
-    "description": "Alarm Ve Uyarı"
-  },
-  "web10": {
-    "message": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir.",
-    "description": "Sistemde tanımlı herhangi bir parametreye alarm tanımlanabilir ve tanımlı her bir alarm için limitler, alarm bekleme süreleri eklenebilir ya da değiştirilebilir.Alarm durumunda  tanımlı yetkili gruplarına sistem tarafından otomatik  sms ve mail gönderir."
-  },
-  "web11.title": {
-    "message": "Platformdan Bağımsız Altyapı",
-    "description": "Platformdan Bağımsız Altyapı"
-  },
-  "web11": {
-    "message": "\n          Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir.",
-    "description": "Sistem platformdan bağımsız olarak tasarlanmış olup ; masaüstü bilgisayarlardan tablet ve akıllı telefonlara \r\n          kadar farklı ekran çözünürlüklerindeki bir çok cihazdan sisteme ulaşılabilir."
-  },
-  "uvtt1.title": {
-    "message": "Makina Bazlı Üretim Takip Sayfası",
-    "description": "Makina Bazlı Üretim Takip Sayfası"
-  },
-  "uvtt1": {
-    "message": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz.",
-    "description": "İşletmenizdeki üretim yapan tezgah ve makinelerinizin anlık üretimini, çalışma ve bekleme sürelerini, planlanan üretimin gerçekleşme yüzdesini ve benzeri verileri anlık olarak görebileceğiniz detaylı makine bazlı üretimleri izleyebilirsiniz."
-  },
-  "uvtt2.title": {
-    "message": "Vardiya Bazlı Üretim Takip Sayfası",
-    "description": "Vardiya Bazlı Üretim Takip Sayfası"
-  },
-  "uvtt2": {
-    "message": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz.",
-    "description": "Vardiya bazlı üretim verileri takibi ile her vardiyanın performansını izleyebilir, verimlilik analizleri yapabilir ve anlık sorunlara hızlıca müdahale edebilirsiniz. Bu sayede, işletmenizin genel üretim performansını artırabilirsiniz."
-  },
-  "uvtt3.title": {
-    "message": "OEE ile Üretim Verimliliğini Ölçmek",
-    "description": "OEE ile Üretim Verimliliğini Ölçmek"
-  },
-  "uvtt3": {
-    "message": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur.",
-    "description": "Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur."
-  },
-  "bakım1.title": {
-    "message": "Bakım Süreçlerinizi Tek Noktadan Yönetin",
-    "description": "Bakım Süreçlerinizi Tek Noktadan Yönetin"
-  },
-  "bakım1": {
-    "message": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.",
-    "description": "DataRapor®, MMS modulu ile tesisinizdeki tüm bakım faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz."
-  },
-  "bakım2.title": {
-    "message": "Gelişmiş Dashboard",
-    "description": "Gelişmiş Dashboard"
-  },
-  "bakım2": {
-    "message": "Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz.",
-    "description": "Gelişmiş dashboard sayfası ile tek sayfada  planlanan,bekleyen,çalışılan,biten işlerinizi canlı olarak izleyebilirsiniz"
-  },
-  "bakım3.title": {
-    "message": "Planlı Bakımlarda Otomatik İş emirleri",
-    "description": "Planlı Bakımlarda Otomatik İş emirleri"
-  },
-  "bakım3": {
-    "message": "Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur.",
-    "description": "Planlı veya periyodik bakımlar için iş emirleri ve yedek parça listeleri otomatik olusturulur."
-  },
-  "bakım4.title": {
-    "message": "Anlık Süreç Bilgilendirmeleri",
-    "description": "Anlık Süreç Bilgilendirmeleri"
-  },
-  "bakım4": {
-    "message": "İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir.",
-    "description": "İş emri oluşturuldugunda operator , iş başlangıcında,çalışma anında ve iş bitiminde yetkili kişiler sistem tarafından otomatik olarak SMS ve E-Mail ile bilgilendirilir."
-  },
-  "bakım5.title": {
-    "message": "Bakım yapılacak ekipmanlar için yedek parca listeleri",
-    "description": "Bakım yapılacak ekipmanlar için  yedek parca listeleri"
-  },
-  "bakım5": {
-    "message": "Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur.",
-    "description": "Bakım anında değişim yapılacak yedek parçalar listesi iş emri olusturuldugunda stok bilgileri ile operator e sunulur."
-  },
-  "bakım6.title": {
-    "message": "Envanter kontrolleri",
-    "description": "Envanter kontrolleri"
-  },
-  "bakım6": {
-    "message": "Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir",
-    "description": "Treeview altyapısı ile envanteriniz gruplar şeklinde sisteme eklenebilir"
-  },
-  "bakım7.title": {
-    "message": "İş Raporları",
-    "description": "İş Raporları"
-  },
-  "bakım7": {
-    "message": "Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir.",
-    "description": "Tamamlanan işlerin raporu gunluk veya haftalık olarak yetkililere otomatik olarak gönderilir."
-  },
-  "bakım8.title": {
-    "message": "Depo Stok Yönetimi",
-    "description": "Depo Stok Yönetimi"
-  },
-  "bakım8": {
-    "message": "Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız.",
-    "description": "Bakım anında kullanılan yedek parçalar otomatik olarak depo stoğundan düşülür.Bu sayede anlık stok kontrolu ile sürprizlerle karşılaşmazsınız."
-  },
-  "bakım9.title": {
-    "message": "Vardiya Defteri",
-    "description": "Vardiya Defteri"
-  },
-  "bakım9": {
-    "message": "Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir. ",
-    "description": "Çevrimiçi vardiya defteri ile online olarak vardiya anında karşılaşılan ariza veya bildirimler kayıt altında tutulur,dilediğiniz zaman dışarı aktarılabilir."
-  },
-  "bakım10.title": {
-    "message": "Web Tabanlı Çalışma",
-    "description": " Web Tabanlı Çalışma"
-  },
-  "bakım10": {
-    "message": "Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir.",
-    "description": "Web tabanlı çalışma altyapısı sayesinde herhangi bir uygulama yüklemeye ihtiyaç duymadan web tarayıcısından sisteme erişilebilir."
   }
 }
