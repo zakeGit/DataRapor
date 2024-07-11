@@ -9,23 +9,12 @@ import ContentRef from '@site/src/components/ContentRef';
 
 # DataRapor'a Başlarken
 
-Enerji, Proses ,Üretim
-Veri Toplama, Raporlama ve Analiz Yazılımlarıdır.
+Datarapor; enerji veri toplama,proses veri toplama,üretim veri toplama,bakım yönetim sistemi modullerini tek bir platformda toplayan gelişmiş bir web tabanlı scada sistemi yazılımıdır.
 
-:::tip
+Sistem;
+Web katmanı ,Veri tabanı katmanı ve Veri akış katmanı olmak üzere 3 katmandan olusur.
 
-DataRapor, iOS ve Android için Swift/Objective-C, Java/Kotlin, React Native ve Flutter ile geliştirilen mobil uygulamaları destekler..
-
-:::
-
-Dokümantasyonu incelemeden önce DataRapor hakkında aşağıdaki tanıtım videosunu da izleyebilirsiniz:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OUoZFGqJFdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="893" height="502" src="https://www.youtube.com/embed/S0cbJtGzDls" title="Cihazpark.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"  allowfullscreen></iframe>
-
-DataRapor uygulamasının 4 Ana Katmana Ayırabiliriz:
-
+ 
 ### Veritabanı Katmanı
 
 Your mobile applications must be digitally signed to be able to distributed, tested and, submitted to app stores.
@@ -33,7 +22,7 @@ Your mobile applications must be digitally signed to be able to distributed, tes
 For iOS applications, you must have a signing certificate and provisioning profiles to be able to run your application on real devices and submit them to Apple Appstore.
 
 <ContentRef url="/">
-  Desteklenen Veri Tabanları
+  MS SQL Veri Tabanı
 </ContentRef>
 
 For Android applications, you need to create a keystore file to sign your applications digitally.
