@@ -14,7 +14,7 @@ breadcrumbs: false
         <h5 class="intro-visual-header">DataRapor Web Scada</h5>
         <p>Ölç ve Kontrol Et</p>
     </div>
-    <div className="intro-image"><img src="img/DR.png" /></div>
+    <div className="intro-image"><img src="img/DR2.png" /></div>
 </section>
 
 <section class="intro-cards">
@@ -36,9 +36,34 @@ breadcrumbs: false
     </div>
 </section>
 
- 
+<section class="feature-cards">
+    <div class="enterprise-app-store">
+        <div className="feature-card-image"><img src="https://cdn.appcircle.io/docs/assets/feature-card-eas.png" /></div>
+        <div className="feature-card-info">
+            <h4>Endüstri 4.0 Uyumlu Web Scada</h4>
+            <p>İnsan Makina Arayüzü Sahadan Sürekli Veri Toplama İhtiyaca Göre Kontrol Etme , Hepsi Tek bir Platformda</p>
+            <a href="/" className="feature-card-learn-more eas">
+                Göz At
+            </a>
+        </div>
+    </div>
+    <div class="self-hosted-runners">
+        <div className="feature-card-image"><img src="https://cdn.appcircle.io/docs/assets/feature-card-self-hosted-runners.png" /></div>
+        <div className="feature-card-info">
+            <h4>Bulut Sunucu Yada Local Sunucu Seçenekleri</h4>
+            <p>İster Tüm Verilerini Tesisinizin bünyesinde tutun isterseniz Bulut Sunucu altyapısında tüm verilerinizi barındıralım</p>
+            <a href="/" className="feature-card-learn-more runner">
+                Göz At
+            </a>
+        </div>
+    </div>
+</section>
 
  
 
  
+ 
+
+Lütfen Destek Talepleriniz için : [DataRapor Destek](https://datarapor.com/)
+
  
