@@ -14,7 +14,7 @@ breadcrumbs: false
         <h5 class="intro-visual-header">DataRapor Web Scada</h5>
         <p>Ölç ve Kontrol Et</p>
     </div>
-    <div className="intro-image"><img src="img/DR.png" /></div>
+    <div className="intro-image"><img src="https://datarapor.com/img/DR.png" /></div>
 </section>
 
 <section class="intro-cards">
