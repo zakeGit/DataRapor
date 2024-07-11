@@ -8,23 +8,23 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.AnaSayfa": {
-    "message": "AnaSayfa",
+    "message": "Home",
     "description": "Navbar item with label AnaSayfa"
   },
   "item.label.Enerji Veri Toplama": {
-    "message": "Enerji Veri Toplama",
+    "message": "Energy Data Collection",
     "description": "Navbar item with label Enerji Veri Toplama"
   },
   "item.label.Proses Veri Toplama": {
-    "message": "Proses Veri Toplama",
+    "message": "Process Data Collection",
     "description": "Navbar item with label Proses Veri Toplama"
   },
   "item.label.Uretim Veri Toplama": {
-    "message": "Uretim Veri Toplama",
+    "message": "Production Data Collection",
     "description": "Navbar item with label Uretim Veri Toplama"
   },
   "item.label.Bakim Yonetim Sistemi": {
-    "message": "Bakim Yonetim Sistemi",
+    "message": "Maintenance Management System",
     "description": "Navbar item with label Bakim Yonetim Sistemi"
   },
   "item.label.Web Scada": {
@@ -32,7 +32,7 @@
     "description": "Navbar item with label Web Scada"
   },
   "item.label.Entegrasyon": {
-    "message": "Entegrasyon",
+    "message": "Integration",
     "description": "Navbar item with label Entegrasyon"
   }
 }
