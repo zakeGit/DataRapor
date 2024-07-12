@@ -66,23 +66,29 @@ Detaylı bilgiye Com File sayfasından erişebilrsiniz.
 #### Com VirtualDevices:
 
 Com VirtaulDevice modülü ile sisteme sanal cihazlar (Enerji analizörü,flowmetre vb.) ekleyebilir ve bu cihazları fiziksel cihazlar gibi sistemde izleyebilirsiniz.
-Detaylı bilgiye Com VirtualDevice sayfasından erişebilrsiniz.
+
+
+Detaylı bilgiye ComVirtualDevice sayfasından erişebilrsiniz.
 
 <ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com VirtualDevice</ContentRef>
 
 
 #### Com VirtualTag:
 
-Com VirtaulDevice modülü ile sisteme sanal cihazlar (Enerji analizörü,flowmetre vb.) ekleyebilir ve bu cihazları fiziksel cihazlar gibi sistemde izleyebilirsiniz.
-Detaylı bilgiye Com VirtualTag sayfasından erişebilrsiniz.
+Com VirtualTag modülü ile sisteme sanal Tagler tanımlayabilir , bu taglari matematiksel işlemlere tabi tutabilirsiniz.
+
+
+Detaylı bilgiye ComVirtualTag sayfasından erişebilrsiniz.
 
 <ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com VirtualTag</ContentRef>
 
 
 #### Com Query
 
-Genelde Siemens markalı cihazların kullandıgı Profinet haberleşme özelliğine sahip olan PLC ,Enerji Analizörü,kontrolor gibi cihazlardan veri okuma ve yazma işlemleri için kullanılan haberlesme moduludür. 
-Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
+Com Query modülü ile sanal Tagler e Sql sorguları baglanabilir.SQL Query lerinin donusleri anlık olarak sanal taglere aktarılır.
+
+
+Detaylı bilgiye ComQuery sayfasından erişebilrsiniz.
 
 <ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com Query</ContentRef>
 
@@ -90,10 +96,10 @@ Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
 
 #### Com UDP
 
-Genelde Siemens markalı cihazların kullandıgı Profinet haberleşme özelliğine sahip olan PLC ,Enerji Analizörü,kontrolor gibi cihazlardan veri okuma ve yazma işlemleri için kullanılan haberlesme moduludür. 
-Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
+Com UDP modülü ile tesisinizde ki UDP  baglantı alt yapısı içeren (Fosber vb. gibi) cihazlardan veri okuyabilirsiniz. Bu veriyi SCADA sistemine dahil edebilir, Modbus TCP/IP yayını veya JSON dosyası ile ERP entegrasyonunda kullanabilirsiniz.
 
-<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com UDP</ContentRef>
+Detaylı bilgiye Com File sayfasından erişebilrsiniz.
+<ContentRef url="/docs/Mimari/Multibus/Moduller/comudp">Com File</ContentRef>
 
 
  
@@ -102,26 +108,26 @@ Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
 
 ### Veritabanı Katmanı
 
-Your mobile applications must be digitally signed to be able to distributed, tested and, submitted to app stores.
+Datarapor scada sistemi veri tabanı olarak MS SQL ve PostGre SQL veri tabanlarını kullanır.
+Veri akış katmanı olan Multibus saha tarafından verileri toplar ve veriler MSSQL ve Postgre SQL tablolarında saklanır.
 
-For iOS applications, you must have a signing certificate and provisioning profiles to be able to run your application on real devices and submit them to Apple Appstore.
 
-<ContentRef url="/">
-   MS SQL Veri Tabanı
-</ContentRef>
+Ayrıca veri okuma yada yazma amaçlı HanaDb veri tabanı da kullanılabilir.
+Multibus ve IIS katmanı veritabanı katmanı ile  sürekli bağlantı halindedir.
 
-For Android applications, you need to create a keystore file to sign your applications digitally.
 
-<ContentRef url="/">Veri Tabanı Lisans Modelleri</ContentRef>
+<ContentRef url="/docs/Mimari/Veritabani/mssql"> MS SQL Veri Tabanı ve Baglantıları</ContentRef>
+
+
+
+
+
+<ContentRef url="/docs/Mimari/Veritabani/postgre"> Postgre SQL Veri Tabanı ve Baglantıları</ContentRef>
+
+
+<ContentRef url="/docs/Mimari/Veritabani/hanadb"> Hana Db Veri Tabanı ve Baglantıları</ContentRef>
 
  
-:::tip
-
-PostGree ve MSSQL Desteği.
-
-:::
-
-
 
 
 
