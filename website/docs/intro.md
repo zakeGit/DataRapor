@@ -1,7 +1,7 @@
 ---
 title: DataRapor
 description: Explore datarapor Documentation, a comprehensive guide for building, testing, and deploying your mobile applications.
-tags: [datarapor, documentation, build, test, deploy]
+tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
 sidebar_position: 1
 slug: /
 hide_table_of_contents: true

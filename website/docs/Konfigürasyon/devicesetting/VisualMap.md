@@ -1,7 +1,7 @@
 ---
 title: Visual Map
 description: DataRapor is a mobile CI/CD platform which makes it easy for you to manage the lifecycle of your mobile applications.
-tags: [getting started, mobile, ci/cd, platform]
+tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
 sidebar_position: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: DataRapora Başlarken
 description: DataRapor is a mobile CI/CD platform which makes it easy for you to manage the lifecycle of your mobile applications.
-tags: [getting started, mobile, ci/cd, platform]
+tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
 sidebar_position: 2
 ---
 
@@ -16,7 +16,7 @@ enerji veri toplama,proses veri toplama,üretim veri toplama,bakım yönetim sis
 
 :::tip
 
-...
+Dataraporun entegre Api desteği sayesinde tesisinizdeki bir çok yazılım altyapısı ile haberlesebileceğini biliyor muydunuz?
 
 :::
 
@@ -58,24 +58,25 @@ Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
 #### Com File:
 
 Com File modülü ile herhangi bir .txt uzantılı dosyadan veri okuyabilirsiniz. Bu veriyi SCADA sistemine dahil edebilir, Modbus TCP/IP yayını veya JSON dosyası ile ERP entegrasyonunda kullanabilirsiniz. Com File modülü, okuduğu dosyayı silme, belli aralıklarla okuma, belirtilen ayraçları dikkate alma gibi birçok ayar parametresi içerir ve sistemlerinizden veri okuma işlemini çok kolay bir şekilde yapmanızı sağlar.
+Detaylı bilgiye Com File sayfasından erişebilrsiniz.
 <ContentRef url="/docs/Mimari/Multibus/Moduller/comfile">Com File</ContentRef>
 
 
 
 #### Com VirtualDevices:
 
-Genelde Siemens markalı cihazların kullandıgı Profinet haberleşme özelliğine sahip olan PLC ,Enerji Analizörü,kontrolor gibi cihazlardan veri okuma ve yazma işlemleri için kullanılan haberlesme moduludür. 
-Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
+Com VirtaulDevice modülü ile sisteme sanal cihazlar (Enerji analizörü,flowmetre vb.) ekleyebilir ve bu cihazları fiziksel cihazlar gibi sistemde izleyebilirsiniz.
+Detaylı bilgiye Com VirtualDevice sayfasından erişebilrsiniz.
 
-<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com Profinet</ContentRef>
+<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com VirtualDevice</ContentRef>
 
 
 #### Com VirtualTag:
 
-Genelde Siemens markalı cihazların kullandıgı Profinet haberleşme özelliğine sahip olan PLC ,Enerji Analizörü,kontrolor gibi cihazlardan veri okuma ve yazma işlemleri için kullanılan haberlesme moduludür. 
-Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
+Com VirtaulDevice modülü ile sisteme sanal cihazlar (Enerji analizörü,flowmetre vb.) ekleyebilir ve bu cihazları fiziksel cihazlar gibi sistemde izleyebilirsiniz.
+Detaylı bilgiye Com VirtualTag sayfasından erişebilrsiniz.
 
-<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com Profinet</ContentRef>
+<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com VirtualTag</ContentRef>
 
 
 #### Com Query
@@ -83,7 +84,7 @@ Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
 Genelde Siemens markalı cihazların kullandıgı Profinet haberleşme özelliğine sahip olan PLC ,Enerji Analizörü,kontrolor gibi cihazlardan veri okuma ve yazma işlemleri için kullanılan haberlesme moduludür. 
 Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
 
-<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com Profinet</ContentRef>
+<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com Query</ContentRef>
 
 
 
@@ -92,7 +93,7 @@ Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
 Genelde Siemens markalı cihazların kullandıgı Profinet haberleşme özelliğine sahip olan PLC ,Enerji Analizörü,kontrolor gibi cihazlardan veri okuma ve yazma işlemleri için kullanılan haberlesme moduludür. 
 Detaylı bilgiye Com Profinet sayfasından erişebilrsiniz.
 
-<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com Profinet</ContentRef>
+<ContentRef url="/docs/Mimari/Multibus/Moduller/comprofinet">Com UDP</ContentRef>
 
 
  
