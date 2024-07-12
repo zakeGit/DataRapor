@@ -870,7 +870,7 @@ button[class*='toggleButton']:hover svg[class*='lightToggleIcon'] path {
   background-image: url(../../static/img/sidebar/account.svg);
 }
 
-.section-title.databaseicon > div >a::before {
+.section-title.databaseicon> div >a::before {
   background-image: url(../../static/img/sidebar/database.svg);
 }
 
