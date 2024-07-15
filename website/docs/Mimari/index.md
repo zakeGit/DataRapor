@@ -128,28 +128,29 @@ Multibus ve IIS katmanı veritabanı katmanı ile  sürekli bağlantı halindedi
 <ContentRef url="/docs/Mimari/Veritabani/hanadb"> Hana Db Veri Tabanı ve Baglantıları</ContentRef>
 
  
-
-
-
-
-
-
-
+ 
 
 
 ### Internet Information Server Katmanı (IIS - Web Sunucu)
 
-DataRapor bu versiyonda Windows .Net ve Core altyapılarını destekleyen Sunucuları Destekler...
+DataRapor web yayını için Microsoft IIS (Internet Informaton Service) hizmetlerini kullanır.
+
+ 
+
+
+
+:::info
+DataRapor bu versiyonda Windows .Net ve Core altyapılarını destekleyen Sunucuları Destekler.
+
+:::
 
 <ContentRef url="/">Desteklenen IIS Sürümleri</ContentRef>
-
-DataRapor bu versiyonda Windows .Net ve Core altyapılarını destekleyen Sunucuları Destekler..
 
 <ContentRef url="/">
   Desteklenen Windows Server Versiyonları
 </ContentRef>
 
-DataRapor bu versiyonda Windows .Net ve Core altyapılarını destekleyen Sunucuları Destekler..
+ 
 
 <ContentRef url="/">API Server Altyapisi</ContentRef>
 
@@ -159,10 +160,10 @@ Datarapor Web-Arayüzü Sayesinde Verilere Hızlı ve Kolay bir şekilde Erişme
 
 <ContentRef url="/">Destekelen Web Tarayacıları</ContentRef>
 
-Datarapor Web-Arayüzü Sayesinde Verilere Hızlı ve Kolay bir şekilde Erişmenizi sağlar
+
 
 <ContentRef url="/">Android APP</ContentRef>
 
-Datarapor Web-Arayüzü Sayesinde Verilere Hızlı ve Kolay bir şekilde Erişmenizi sağlar
+
 
 <ContentRef url="/">ANDON Display</ContentRef>

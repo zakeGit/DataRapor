@@ -164,8 +164,8 @@ const config = {
                 href: 'https://zake.com.tr',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/zakeGit/DataRapor',
+                label: 'iletisim',
+                href: '/iletisim',
               },
             ],
           },
