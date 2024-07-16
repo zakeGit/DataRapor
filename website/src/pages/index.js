@@ -372,6 +372,31 @@ ISO 50001 Enerji Yönetimi
 
 
 
+  {
+    title: (
+      <Translate
+        id="homepage16.title"
+        description="Yüksek Güvenlik Seviyesi">
+       Yüksek Güvenlik Seviyesi
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_security_on_re_e491.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage15"
+        description=" Güvenli web sunucu (HTTPS) altyapısı, kullanıcı erişim ve yetkilerinin sınırlandırılabilmesi, tüm operatör işlemlerinin günlüğe kaydedilmesi ve VPN teknolojilerinin kullanımı ile yüksek güvenlikli bağlantı imkanları sunar.">
+         
+         {`
+          Güvenli web sunucu (HTTPS) altyapısı, kullanıcı erişim ve yetkilerinin sınırlandırılabilmesi, tüm operatör işlemlerinin günlüğe kaydedilmesi ve VPN teknolojilerinin kullanımı ile yüksek güvenlikli bağlantı imkanları sunar.
+         `}
+      </Translate>
+    ),
+  },
+
+
+
+
 
 
 

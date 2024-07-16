@@ -114,7 +114,48 @@ description: (
      Makinelerinizin performansını, kullanılabilirliğini ve kalite oranını analiz eden OEE altyapısı ile işletmenizin zayıf noktalarını tespit etmenize ve iyileştirme stratejileri geliştirmenize yardımcı olur.
   </Translate>
 ),
+
 },
+
+
+
+
+{
+  title: (
+    <Translate
+      id="uvt12.title"
+      description="Üretim Optimizasyonu">
+      Üretim Optimizasyonu
+    </Translate>
+  ),
+  imageUrl: 'img/undraw_our_solution_re_8yk6.svg',
+  description: (
+    <Translate
+      values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
+      id="uvt12"
+      description="Anlık üretim takibi ve geriye dönük verilerin analizi, operasyonlardaki düzensizliklerin ve kusurların tespit edilmesini sağlar. Bu sayede arızalı ürün sayısı azaltılır ve üretim optimizasyonu gerçekleştirilir.">
+      {`
+        Anlık üretim takibi ve geriye dönük verilerin analizi, operasyonlardaki düzensizliklerin ve kusurların tespit edilmesini sağlar. Bu sayede arızalı ürün sayısı azaltılır ve üretim optimizasyonu gerçekleştirilir.       
+      
+      
+      `}
+    </Translate>
+  ),
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   {
     title: (
