@@ -165,8 +165,8 @@ const features = [
     description: (
       <Translate
         id="homepage6"
-        description="Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.">
-        Hesaplanan maliyetleri muhasebe programlarınıza yada SIP, ERP gibi kurumsal yönetim sistemlerine entegre edebilir.
+        description="İçinde barındırdığı açık arabirim web hizmetleri (RESTful API ve SignalR), widget arabirimleri ve WebAccess API'leri aracılığıyla üçüncü taraf yazılımlarla MES ,  ERP ( SAP vb. ) kolayca entegre edilebilir.">
+        İçinde barındırdığı açık arabirim web hizmetleri (RESTful API ve SignalR), widget arabirimleri ve WebAccess API'leri aracılığıyla üçüncü taraf yazılımlarla MES ,  ERP ( SAP vb. ) kolayca entegre edilebilir.
       </Translate>
     ),
   },
@@ -395,7 +395,50 @@ ISO 50001 Enerji Yönetimi
   },
 
 
+  {
+    title: (
+      <Translate
+        id="homepage16.title"
+        description=" Sınırsız Kullanıcı Kapasitesi">
+       Sınırsız Kullanıcı Kapasitesi
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_engineering_team_a7n2.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage15"
+        description=" Dataraporda kullanıcı ekleme sınırı yoktur.Dilediğiniz kadar kullanıcıyı sisteme tanımlayabilirsiniz.">
+         
+         {`
+           Dataraporda kullanıcı ekleme sınırı yoktur.Dilediğiniz kadar kullanıcıyı sisteme tanımlayabilirsiniz.
+         `}
+      </Translate>
+    ),
+  },
 
+
+  {
+    title: (
+      <Translate
+        id="homepage16.title"
+        description=" Daha Verimli Uretim ">
+        Daha Verimli Uretim
+      </Translate>
+    ),
+    imageUrl: 'img/undraw_factory_dy-0-a.svg',
+    description: (
+      <Translate
+        values={{autowired: (<code>@Autowired</code>)}}
+        id="homepage15"
+        description=" Tek noktadan tüm süreci ve üretimi izleyerek, daha az iş gücü ile daha verimli üretim sağlanır. Bu sayede, üretim maliyetleriniz düşer">
+         
+         {`
+           Tek noktadan tüm süreci ve üretimi izleyerek, daha az iş gücü ile daha verimli üretim sağlanır. Bu sayede, üretim maliyetleriniz düşer.
+         `}
+      </Translate>
+    ),
+  },
 
 
 
