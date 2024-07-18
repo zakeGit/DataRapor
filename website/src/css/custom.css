@@ -866,6 +866,80 @@ button[class*='toggleButton']:hover svg[class*='lightToggleIcon'] path {
   background-image: url(../../static/img/sidebar/tutorial.svg);
 }
 
+.section-title.energy > div >a::before {
+  background-image: url(../../static/img/sidebar/energy.svg);
+}
+
+
+.section-title.user > div >a::before {
+  background-image: url(../../static/img/sidebar/user.svg);
+}
+
+
+.section-title.page > div >a::before {
+  background-image: url(../../static/img/sidebar/page.svg);
+}
+
+
+.section-title.device > div >a::before {
+  background-image: url(../../static/img/sidebar/device.svg);
+}
+
+
+
+.section-title.factory > div >a::before {
+  background-image: url(../../static/img/sidebar/factory.svg);
+}
+
+
+.section-title.simples > div >a::before {
+  background-image: url(../../static/img/sidebar/simples.svg);
+}
+
+
+
+
+.section-title.product> div >a::before {
+  background-image: url(../../static/img/sidebar/product.svg);
+}
+
+
+
+.section-title.JusticonChart > div >a::before {
+  background-image: url(../../static/img/sidebar/JusticonChart.svg);
+}
+
+
+.section-title.using > div >a::before {
+  background-image: url(../../static/img/sidebar/using.svg);
+}
+
+
+.section-title.setting > div >a::before {
+  background-image: url(../../static/img/sidebar/setting.svg);
+}
+
+
+
+.section-title.installLine > div >a::before {
+  background-image: url(../../static/img/sidebar/installLine.svg);
+}
+
+.section-title.data > div >a::before {
+  background-image: url(../../static/img/sidebar/data.svg);
+}
+
+
+.section-title.server > div >a::before {
+  background-image: url(../../static/img/sidebar/server.svg);
+}
+
+
+.section-title.app > div >a::before {
+  background-image: url(../../static/img/sidebar/app.svg);
+}
+
+
 .section-title.account > div >a::before {
   background-image: url(../../static/img/sidebar/account.svg);
 }

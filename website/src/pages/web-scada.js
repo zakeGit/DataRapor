@@ -329,7 +329,7 @@ function Home() {
           </h1>
           <div className={styles.indexCtas}>
             <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('/')}>
-              <Translate>Göz At</Translate>
+              <Translate>Docs</Translate>
             </Link>
             <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="https://demo.datarapor.com">
               <Translate>Demo</Translate>
