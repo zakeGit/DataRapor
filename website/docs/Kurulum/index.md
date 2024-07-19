@@ -13,7 +13,7 @@ Datarapor Sistem kurulumu üç ana temel aşamadan olusur .
 Bunlar;
 * Veri Tabanı (MSSQL Server ) Kurulumu ve konfigurasyonu
 * Multibus Kurulumu ve konfigurasyonu
-* IIS (internet Information System) Kurulum ve konfigurasyonu
+* IIS (internet Information Service) Kurulum ve konfigurasyonu
 
  
 
