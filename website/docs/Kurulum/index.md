@@ -6,19 +6,12 @@ sidebar_position: 2
 ---
  
 import Screenshot from '@site/src/components/Screenshot';
+import ContentRef from '@site/src/components/ContentRef';
 
-## Connection Settings
-
-Datarapor Sistem kurulumu üç ana temel aşamadan olusur .
+Datarapor Sistem kurulumu üç temel aşamadan olusur .
 Bunlar;
-* Veri Tabanı (MSSQL Server ) Kurulumu ve konfigurasyonu
-* Multibus Kurulumu ve konfigurasyonu
-* IIS (internet Information Service) Kurulum ve konfigurasyonu
+ <ContentRef url="/docs/Kurulum/Veritabani">Veri Tabanı (MSSQL Server ) Kurulumu ve konfigurasyonu</ContentRef>
+ <ContentRef url="/docs/Kurulum/Multibus">Multibus Kurulumu ve konfigurasyonu</ContentRef>
+ <ContentRef url="/docs/Kurulum/iiskurulumu">IIS (internet Information Service) Kurulum ve konfigurasyonu</ContentRef>
 
  
-
-Different types of connections have different connection details in the connection settings.
-
-### OAuth Connection
-
-For an OAuth connection, the details will be **"Provider"**, **"Token Owner"**, **"Code"**, **"Expire Access Token Date"**, **"Expire Refresh Token Date"**, **"Refresh Token"**, and **"Token"**.

@@ -9,35 +9,34 @@ import Screenshot from '@site/src/components/Screenshot';
 
 ### IIS (Internet Information Services ) Kurulumu
 
-Datarapor web scada sistemi sunucu hizmetleri için microsoft altındaki IIS altyapısını kullanır.
+Datarapor, web scada sistemi sunucu hizmetleri için microsoft altındaki IIS altyapısını kullanır.
 
 
 IIS in Windows 11 de yada SERVER işletim sistemlerindeki aktif etme yöntemleri biribirinden farklıdır.
 İki windows versiyonu içinde kurulum aşağıda anlatılmıştır.
 
 
+
+
 #### Windows Server İşletim Sistemi için IIS Hizmetleri kurulumu
 
-Sistemdeki tüm özelliklerin aktif kullanılabilmesi için MSSQL Server 2022 (Ver 16.0.1) versiyonun kurulması önerilir.
-> [MSSQL Server 2022 (Ver 16.0.1)](https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads)
-
 :::info
-Sistem ihtiyacına göre Express yada Standart versiyon kullanılabilir.
+Windows Server işletim sistemi için minimum Windows Server 2019 versiyon ve üzeri kullanılması tavsiye edilir.
 :::
 
-<Screenshot url='/img/MSSQLServ3.png' />
+Windows server manager üzerinden role ekle sekmesi seçilir.Ardından aşağıdaki yönlendirmeler takip edilir.
+
+<Screenshot url='/img/web7.png' />
 
 
 
+<Screenshot url='/img/web8.png' />
 
 
-#### Windows 10 - 11 İşletim Sistemleri için  IIS Hizmetleri kurulumu
+Roller bölümunden Web Server (IIS) hizmetleri aktif edilir.
 
-Sistemdeki tüm özelliklerin aktif kullanılabilmesi için MSSQL Server 2022 (Ver 16.0.1) versiyonun kurulması önerilir.
-> [MSSQL Server 2022 (Ver 16.0.1)](https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads)
 
-:::info
-Sistem ihtiyacına göre Express yada Standart versiyon kullanılabilir.
-:::
+<Screenshot url='/img/web9.png' />
 
-<Screenshot url='/img/MSSQLServ3.png' />
+Web Server (IIS) altındaki Application Development menüsünde görseldeki seçili .Net Freamwork ve ASP Net hizmetleri aktif edilir.
+ 
