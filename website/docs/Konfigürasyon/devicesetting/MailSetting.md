@@ -5,4 +5,24 @@ tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SC
 sidebar_position: 2
 ---
 
-# Yapım Aşamasındadır.
+import Screenshot from '@site/src/components/Screenshot';
+
+# Mail Ayarları 
+
+
+
+
+ 
+
+
+<Screenshot url='/img/device10.png' />
+
+
+
+
+
+
+
+
+
+ 

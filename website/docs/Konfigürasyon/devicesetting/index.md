@@ -1,68 +1,41 @@
 ---
-title: Cihaz Ekleme
+title: Cihaz Ayarları
 description: Streamline your app development with the Build Module in Appcircle, offering automated builds for iOS and Android platforms.
 tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
 ---
+import ContentRef from '@site/src/components/ContentRef';
 
-# Kullanici Ayarlari
 
-The Build module in Appcircle streamlines your Continuous Integration and Continuous Deployment (CI/CD) workflows for mobile app development. It covers everything from code integration to managing your build profiles and post-build artifacts.
+ 
+ 
 
-## AuditLog
+Cihaz ayarları, Datarapor Sisteminin doğru ve verimli çalışması için temel unsurları içeren kapsamlı bir yapılandırma sürecidir. Bu aşamada gerçekleştirilecek ayarlar şunlardır:
 
-Set up integrations with version control systems to sync your repositories, allowing for automated builds and deployments.
+ 
 
-## Cihaz Listesi
 
-Configure and manage your build profiles. Each profile allows you to maintain consistent settings and parameters for your app builds.
+ 
+ 
+<ContentRef url="/docs/Konfigürasyon/devicesetting/ConnectionMap">Bağlantı Ayarları </ContentRef>
 
-## Sanal Cihazlar
+<ContentRef url="/docs/Konfigürasyon/devicesetting/FormList">Form Listesi</ContentRef>
 
-Find detailed instructions for building applications across various platforms including iOS, Android, React Native, Flutter, and Ionic.
+<ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice"> Cihaz Ekleme</ContentRef>
 
-## Haberlesme Listesi
+<ContentRef url="/docs/Konfigürasyon/devicesetting/VisualMap">Visual Map </ContentRef>
 
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+<ContentRef url="/docs/Konfigürasyon/devicesetting/CommCheck">Enerji Analizörü Haberleşme Kontrolü</ContentRef>
 
-## Personel Listesi
+<ContentRef url="/docs/Konfigürasyon/devicesetting/alarmconfig">Alarm Ayarları</ContentRef>
 
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+ 
+<ContentRef url="/docs/Konfigürasyon/devicesetting/schoudleconfig">Zamanlanmış Görevler</ContentRef>
 
-## Rapor Listesi
+ 
 
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+  Bu ayarların her biri, sistemin farklı bileşenlerinin birbirleriyle uyum içinde çalışmasını sağlayarak, kullanıcıların ihtiyacı olan tüm verileri doğru ve hızlı bir şekilde toplamasına imkan tanır.
 
-## EaCommCheck
-
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
-
-## Rapor Ayarları
-
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
-
-## Alarm Ayarları
-
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
-
-## Mail Ayarları
-
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
-
-## Zamanlanmış Görevler
-
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
-
-## Visual Map
-
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
-
-## Form List
-
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
-
-## Group Map
-
-After the build process, manage and store your build artifacts securely. This includes the compiled binaries, logs, and any other relevant data.
+ 
 
 
 
