@@ -25,7 +25,7 @@ Bağlantı ayarları, Datarapor web scada sisteminde  kullanıcıların çeşitl
 
 :::tip
  
-Entes EMG12, Planet IMG 2100t, Siemens S71200, Digitus DA-70156, Digitus DA-70157, ZVTM gibi çeşitli çeviriçilerin ayarları burada girilir.
+Entes EMG12, Planet IMG 2100t, Siemens S71200, Digitus DA-70156, Digitus DA-70157, ZVTM gibi çeşitli çeviricilerin ayarları burada girilir.
 :::
 
 <ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice"> Cihaz Ekleme</ContentRef>

@@ -105,3 +105,8 @@ Conn Type: Bağlantı türü (Profinet, Ethernet, vb.).
 Parity: Parite biti (None, Even, Odd).
 
 Bu adımları takip ederek cihaz haberleşme ayarlarını kolayca yapabilirsiniz. Herhangi bir sorunla karşılaştığınızda teknik destek ekibimizle iletişime geçmekten çekinmeyin.
+ 
+
+
+ 
+<iframe width="893" height="502" src="/img/Connection_v.mp4" title="datarapor.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"  allowfullscreen></iframe>
