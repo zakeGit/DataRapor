@@ -1,7 +1,7 @@
 ---
 title: Kurulum
 description: DataRapor is a mobile CI/CD platform which makes it easy for you to manage the lifecycle of your mobile applications.
-tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
+tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MSSQL , POSTGRE SQL,IIS,VERI TABANI,WEB SUNUCU,SERVER,VERI TABANI]
 sidebar_position: 2
 ---
  
