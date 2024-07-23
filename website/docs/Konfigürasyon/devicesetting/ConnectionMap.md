@@ -7,19 +7,17 @@ sidebar_position: 2
  
 import Screenshot from '@site/src/components/Screenshot';
 
-# Cihaz Haberleşme Ayarları  
+# Çevirici Haberleşme Ayarları  
 # 1. Giriş ve Ayarlara Erişim
-Kullanıcı, Datarapor sistemine giriş yaptıktan sonra cihaz haberleşme ayarlarına ulaşmak için aşağıdaki adımları izlemelidir:
+Kullanıcı, Datarapor sistemine giriş yaptıktan sonra çevirici haberleşme ayarlarına ulaşmak için aşağıdaki adımları izlemelidir:
 
 Sisteme giriş yaptıktan sonra ana sayfaya yönlendirilirsiniz.
-Üst menüde yer alan "Ayarlar" sekmesine tıklayın.   
-Cihaz Haberleşme Ayarları:
-Sol menüden "Haberleşme Listesi" seçeneğine tıklayın.
+Üst menüde yer alan "Ayarlar" sekmesine tıklayın ve "Haberleşme Listesi" seçeneğine tıklayın.
  
- 
-Cihaz haberleşme ayarlarını yapılandırmak için aşağıdaki adımları izleyin:
+Çevirici haberleşme ayarlarını yapılandırmak için aşağıdaki adımları izleyin:
 
-# Yeni Bir Cihaz Ekleme:
+
+# Yeni Bir Çevirici Ekleme:
 
 Ekranın sağ üst köşesinde yer alan "+ New" butonuna tıklayın.
 
@@ -29,27 +27,20 @@ Aşağıdaki form alanlarını doldurun:
 
 Id: Cihaz için benzersiz bir kimlik numarası girin.
 
-Name: Cihazın adını girin (örneğin,  GES_EA).
+Name: Çevirici adını girin (örneğin,Şebeke Analizörü).
 
-PORT: Cihazın bağlı olduğu port numarasını girin (örneğin, 502, 102).
-
+PORT: Çevirici bağlı olduğu port numarasını girin (örneğin, 502, 102).
 
 :::info
 Port 102: Siemens S7 PLC'ler ve diğer endüstriyel otomasyon cihazları için ISO-TSAP protokolünü kullanır.  
 Port 502: Endüstriyel otomasyon sistemlerinde Modbus TCP protokolü için kullanılır.
 :::
 
-Boud Rate: Cihazın veri iletim hızını girin (örneğin, 9600).
-
-Stop Bit: Veri iletiminde kullanılan durdurma bitini girin (örneğin, 1).
-
 CID: Cihaz kimlik numarasını girin.
 
-IP: Cihazın IP adresini girin (örneğin, 10.0.8.10).
+IP: Çevirici IP adresini girin (örneğin, 10.0.8.10).
 
 Conn Type: Bağlantı türünü seçin (örneğin, Profinet,Modbus ).
-
-Parity: Parite bitini seçin (örneğin, No).
 
 Bilgileri girdikten sonra "Update" butonuna tıklayarak kaydedin.
 
@@ -92,17 +83,15 @@ Name: Cihazın adı.
 
 PORT: Bağlı olduğu port numarası.
 
-Boud Rate: Veri iletim hızı.
+Boud Rate: Veri iletim hızı. (Morbud RTU için)
 
-Stop Bit: Durdurma biti.
+Stop Bit: Durdurma biti. (Morbud RTU için)
 
 CID: Cihaz kimlik numarası.
 
 IP: Cihazın IP adresi.
 
-Conn Type: Bağlantı türü (Profinet, Ethernet, vb.).
-
-Parity: Parite biti (None, Even, Odd).
+ 
 
 Bu adımları takip ederek cihaz haberleşme ayarlarını kolayca yapabilirsiniz. Herhangi bir sorunla karşılaştığınızda teknik destek ekibimizle iletişime geçmekten çekinmeyin.
  

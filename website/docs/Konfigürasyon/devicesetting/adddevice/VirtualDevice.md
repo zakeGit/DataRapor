@@ -48,3 +48,5 @@ Kaydettiğiniz cihaz, Cihaz Listesi'nde görüntülenecektir. Gerekli düzenleme
 
 
 Bu adımları izleyerek Datarapor sistemine yeni cihazlar ekleyebilir ve mevcut cihazları düzenleyebilirsiniz.
+
+<iframe width="893" height="502" src="/img/device1.mp4" title="datarapor.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"  allowfullscreen></iframe>
