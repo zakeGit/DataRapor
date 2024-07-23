@@ -1,13 +1,14 @@
 ---
-title: Veritabani Kurulumu
-
+title: MS SQL Server Kurulumu
 description: Streamline your app development with the Build Module in Appcircle, offering automated builds for iOS and Android platforms.
 tags: [MSSQL , POSTGRE SQL,VERI TABANI,SQL SERVER,SQL MANAGEMENT STUDIO]
 ---
+
+ 
  
 import Screenshot from '@site/src/components/Screenshot';
 
-### MSSQL Server Kurulumu
+ 
 
 Datarapor web scada sistemi ana veri tabanı olarak MSSQL server kullanır.
 Sistemdeki tüm özelliklerin aktif kullanılabilmesi için MSSQL Server 2022 (Ver 16.0.1) versiyonun kurulması önerilir.
