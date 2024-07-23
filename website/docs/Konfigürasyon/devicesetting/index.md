@@ -18,20 +18,29 @@ Cihaz ayarları, Datarapor Sisteminin doğru ve verimli çalışması için teme
  
 <ContentRef url="/docs/Konfigürasyon/devicesetting/ConnectionMap">Bağlantı Ayarları </ContentRef>
 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/FormList">Form Listesi</ContentRef>
+
+
+
+Bağlantı ayarları, Datarapor web scada sisteminde  kullanıcıların çeşitli çeviricileri sisteme eklemelerini ve bu çeviriçilerin iletişim kurabilmelerini sağlayan kısımdır.Kullanıcı, Datarapor sistemine giriş yaptıktan sonra ayarlar menüsünden "Haberleşme Listesi" seçeneğine tıklayarak haberleşme ayarlarını yapar.
+
+:::tip
+ 
+Entes EMG12, Planet IMG 2100t, Siemens S71200, Digitus DA-70156, Digitus DA-70157, ZVTM gibi çeşitli çeviriçilerin ayarları burada girilir.
+:::
 
 <ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice"> Cihaz Ekleme</ContentRef>
 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/VisualMap">Visual Map </ContentRef>
+Haberleşme ayarları yapıldıktan sonra, çeviriciye takılı olan cihazı 'Cihaz Listesi' sekmesinden yeni cihaz seçerek kolayca ekleyebilirsiniz.
 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/CommCheck">Enerji Analizörü Haberleşme Kontrolü</ContentRef>
 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/alarmconfig">Alarm Ayarları</ContentRef>
+ :::tip
 
- 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/schoudleconfig">Zamanlanmış Görevler</ContentRef>
+Haberleşme tipi  ModbusV2 olarak seçildiğinde, sistem seçilen cihaz modelininin register adreslerini otomatik olarak doldurur.ProfinetV2 kullanıcıları, kendilerine özgü cihaz modelleri oluşturup profinet adreslerini sisteme tanıttıktan sonra, bu modelleri 'Cihaz Modeli' sekmesinden kolayca seçerek cihaz ekleyebilirler."
 
- 
+:::
+
+
+
 
   Bu ayarların her biri, sistemin farklı bileşenlerinin birbirleriyle uyum içinde çalışmasını sağlayarak, kullanıcıların ihtiyacı olan tüm verileri doğru ve hızlı bir şekilde toplamasına imkan tanır.
 

@@ -7,12 +7,16 @@ import ContentRef from '@site/src/components/ContentRef';
 
 
  
-Datarapor Cihaz ekleme iki temel aşamadan olusur . Bunlar;
- 
+Cihaz Ekleme sayfası, Datarapor web tabanlı SCADA sisteminde kullanıcıların fiziksel ve sanal cihazları sisteme entegre etmelerini sağlayan bir araçtır. Bu sayfada, kullanıcılar iki temel yöntemle cihazları ekleyebilirler: 
 
+<ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice/RealDevice">Fiziksel Cihazlar</ContentRef>
 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice/RealDevice">Gerçek Cihazlar</ContentRef>
+Enerji analizörleri gibi ölçüm cihazları, sensörler veya kontrol birimleri gibi fiziksel aygıtlar bu kategori altında yer alır. Kullanıcılar, her bir cihaz için bağlantı ayarlarını yapılandırabilir ve sisteme entegre edebilirler.
+
 <ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice/VirtualDevice">Sanal Cihazlar</ContentRef>
+
+Sanal cihazlar, özellikle simülasyonlar, analizler veya özel işlemler gerektiren durumlar için kullanılır. Datarapor web SCADA üzerinden sanal cihaz eklemek, kullanıcıların sistemi daha esnek ve özelleştirilebilir hale getirmesini sağlar.
+
 
 
  
