@@ -42,7 +42,7 @@ Web Server (IIS) altındaki Application Development menüsünde görseldeki seç
 
 
 
-<iframe width="893" height="502" src="/img/iss.mp4" title="datarapor.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"  allowfullscreen></iframe>
+<iframe width="893" height="502" src="/img/iss2.mp4" title="datarapor.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"  allowfullscreen></iframe>
 
 
 
