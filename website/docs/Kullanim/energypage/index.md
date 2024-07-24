@@ -1,7 +1,7 @@
 ---
 title: Enerji Analizörü Kontrol
 description: Streamline your app development with the Build Module in Appcircle, offering automated builds for iOS and Android platforms.
-tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
+tags: [WEB-SCADA,DATARAPOR,ENERJI VERI TOPLAMA,EVT,ENERJI IZLEME,VERI TOPLAMA,ENERJI TAKIP,SAYAC IZLEME,ELEKTRIK IZLEME,ELEKTRIK SAYAC IZLEME,ENERJI TUKETIM,ENERJI RAPORLAMA,FABRIKA TUKETIM,FABRIKA IZLEME]
 ---
 
 import Screenshot from '@site/src/components/Screenshot';
