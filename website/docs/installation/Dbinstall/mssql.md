@@ -76,6 +76,8 @@ Bu işlem tamamlandktan sonra SERVER adına yeniden sağ tıklanarak SQL Server 
 
  <Screenshot url='/img/MSSQLServ12.png' />
 
+<iframe width="893" height="502" src="/img/mssql.mp4" title="datarapor.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"  allowfullscreen></iframe>
+
 
 
  

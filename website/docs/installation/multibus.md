@@ -9,6 +9,10 @@ import ContentRef from '@site/src/components/ContentRef';
 
 ### Multibus Uygulaması Kurulumu
 
+
+
+
+
 Multibus uygulaması Datarapor scada sisteminin sahadan veri toplama uygulamasıdır.
 Aşağıdaki URL üzerinden indirilip anadizin altına koyulmalıdır.
 
@@ -42,3 +46,6 @@ Trial versiyon ile multibus uygulaması deneme süresi kadar çalışıp kapanac
 Full versiyon ile multibus uygulaması süre sınırı olmadan çalısacaktır.
 
 <Screenshot url='/img/mb4.png' /> 
+
+<iframe width="893" height="502" src="/img/multibus.mp4" title="datarapor.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"  allowfullscreen></iframe>
+
