@@ -137,9 +137,20 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                href: 'https://zake.com.tr',
+                label: 'Kurulum',
+                href: '/docs/installation',
               },
+
+              {
+                label: 'Konfigurasyon',
+                href: '/docs/Configuration',
+              },
+
+              {
+                label: 'DataRapor Kullanımı',
+                href: '/docs/Use',
+              },
+
             ],
           },
           {
@@ -149,10 +160,7 @@ const config = {
                 label: 'Zake',
                 href: 'https://zake.com.tr',
               },
-              {
-                label: 'Discord',
-                href: 'https://zake.com.tr',
-              },
+           
         
             ],
           },
@@ -160,8 +168,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                href: 'https://zake.com.tr',
+                label: 'Makaleler',
+                href: '/blog',
               },
               {
                 label: 'iletisim',
