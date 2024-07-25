@@ -176,13 +176,25 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-
+      imageZoom: {
+        selector: ".screenshot, .image-narrow",
+        options: {
+          // medium-zoom options
+          margin: 24,
+          scrollOffset: 0,
+        },
+      },
 
 
     }),
 
-
+    plugins: [
+    
+   
+      "plugin-image-zoom",
+    ],
  
 };
 
-export default config;
+//export default config;
+module.exports = config;
