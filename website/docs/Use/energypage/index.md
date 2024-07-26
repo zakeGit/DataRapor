@@ -21,7 +21,7 @@ Sistemde tanımlı  enerji analizörleri canlı olarak bu sayfadan izlenir.
 
 Pasta dilimi grafikler ile  anlık tüketimlerin genele oranı görüntülenir.
 
-<Screenshot url='/img/EVT10.png' />
+<Screenshot url='/img/EVT12.png' />
 
 Enerji tüketimlerinin tablolarına endeksler sekmesi altından ulasılır.Aynı bölümden Farklı formatlarda export edilebilir.
 

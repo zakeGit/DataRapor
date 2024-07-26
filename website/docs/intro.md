@@ -20,7 +20,8 @@ breadcrumbs: false
 <section class="intro-cards">
     <div class="intro-card">
         <h3><a href="/">Enerji Veri Toplama</a></h3>
-        <p>Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.</p>
+        <p>DataRapor Evt; Endüstriyel tesisinizdeki  elektrik üretim ve tüketim verilerini izlemek ve analiz etmek  için geliştirilmiş bir platformdur.
+        Bu platform ile tesisinizdeki Elektrik Sayacı , Enerji Analizörü ,Güç Kalite Analizörü gibi saha enstrumanlarından veriler anlık olarak okunup analiz edilerek kullanıcılara tüketim ve üretim maliyetleri açısından operasyonel kolaylık sağlanır.</p>
     </div>
     <div class="intro-card">
         <h3><a href="/">Proses Veri Toplama</a></h3>
