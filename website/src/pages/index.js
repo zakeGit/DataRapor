@@ -52,8 +52,8 @@ const features = [
     description: (
       <Translate
         id="homepage1"
-        description="Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.">
-         Enerji analizörleri, elektrik sayaçları vb. cihazların enerji parametrelerinin toplandığı, faturalandırıldığı yazılımlar.
+        description="DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.">
+        {`  DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.`}
       </Translate>
     ),
   },
@@ -80,8 +80,14 @@ const features = [
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
         id="homepage2"
-        description="Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.">
-        {`Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.`}
+        description="DataRapor® proses veri toplama modulu ile Sıcaklık,basınç,nem,debi,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerini kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.">
+        {`
+         
+        DataRapor® proses veri toplama modulu ile Sıcaklık,basınç,nem,debi,hava hızı,
+        TOC,iletkenlik,pH,O2,CO,toz vb.
+         proses verilerini kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.
+       
+        `}
       </Translate>
     ),
   },
@@ -105,8 +111,8 @@ const features = [
       <Translate
         values={{starters: (<code>starters</code>)}}
         id="homepage3"
-        description="Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar.">
-        {`Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar.`}
+        description="  DataRapor® uretim veri toplama modulu ile tesisinizdeki üretim verilerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı özelleştirilebilr sayfa tasarımları ile izleyebilirsiniz.">
+        {`DataRapor® uretim veri toplama modulu ile tesisinizdeki üretim verilerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.`}
       </Translate>
     ),
   },
@@ -127,8 +133,8 @@ const features = [
       <Translate
         values={{starters: (<code>starters</code>)}}
         id="homepage4"
-        description="Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.">
-        {`Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.`}
+        description="DataRapor® Bakım Yönetim Modulu ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.">
+        {`DataRapor® Bakım Yönetim Modulu ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.`}
       </Translate>
     ),
   },
@@ -476,7 +482,7 @@ function Home() {
         <div className={styles.heroInner}>
           <h1 className={styles.heroProjectTagline}>
             <img
-              alt="Awe logo"
+              alt="datarapor logo"
               className={styles.heroLogo}
               src={useBaseUrl('img/DRImage.png')}
             />
@@ -494,7 +500,7 @@ function Home() {
             </span>
           </h1>
           <div className={styles.indexCtas}>
-            <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('/')}>
+            <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('/docs')}>
               <Translate>Docs</Translate>
             </Link>
             <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="https://demo.datarapor.com/">

@@ -412,7 +412,7 @@ function Home() {
             </span>
           </h1>
           <div className={styles.indexCtas}>
-            <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('/')}>
+            <Link className={styles.indexCtasGetStartedButton} to={useBaseUrl('/docs')}>
               <Translate>Docs</Translate>
             </Link>
             <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to="https://demo.datarapor.com">

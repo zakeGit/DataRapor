@@ -19,21 +19,24 @@ breadcrumbs: false
 
 <section class="intro-cards">
     <div class="intro-card">
-        <h3><a href="/">Enerji Veri Toplama</a></h3>
-        <p>DataRapor Evt; Endüstriyel tesisinizdeki  elektrik üretim ve tüketim verilerini izlemek ve analiz etmek  için geliştirilmiş bir platformdur.
-        Bu platform ile tesisinizdeki Elektrik Sayacı , Enerji Analizörü ,Güç Kalite Analizörü gibi saha enstrumanlarından veriler anlık olarak okunup analiz edilerek kullanıcılara tüketim ve üretim maliyetleri açısından operasyonel kolaylık sağlanır.</p>
+        <h3><a href="/enerji-veri-toplama">Enerji Veri Toplama</a></h3>
+        <p>DataRapor® Enerji Veri Toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.</p>
     </div>
     <div class="intro-card">
-        <h3><a href="/">Proses Veri Toplama</a></h3>
-        <p>Sıcaklık,basınç,nem,deb,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerinin kayıt altına alındığı,raporlandığı ve analiz edildiği veri toplama yazılımları.</p>
+        <h3><a href="/proses-veri-toplama">Proses Veri Toplama</a></h3>
+        <p>DataRapor® Proses Veri Toplama modulu ile Sıcaklık,basınç,nem,debi,hava hızı,
+        TOC,iletkenlik,pH,O2,CO,toz vb.
+         proses verilerini kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.</p>
     </div>
     <div class="intro-card">
-        <h3><a href="/">Üretim Veri Toplama</a></h3>
-        <p>Fabrikanızda üretilen ürün miktarlarının anlık veya vardiya bazlı kayıt altına alındığı, raporlandığı ve faturalandığı yazılımlar.</p>
+        <h3><a href="/uretim-veri-toplama">Üretim Veri Toplama</a></h3>
+        <p>        
+        DataRapor® Uretim Veri Toplama modulu ile tesisinizdeki üretim verilerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.         
+        </p>
     </div>
     <div class="intro-card">
-        <h3><a href="/">Bakım Yönetim Sistemi</a></h3>
-        <p>Endüstriyel tesislerdeki ekipmanların periyodik bakımını yönetmek ve izlemek için kullanılan yazılımlardır.</p>
+        <h3><a href="/bakim-yonetim-sistemi">Bakım Yönetim Sistemi</a></h3>
+        <p>DataRapor® Bakım Yönetim Modulu ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.</p>
     </div>
 </section>
 
