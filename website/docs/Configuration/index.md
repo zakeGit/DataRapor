@@ -8,6 +8,13 @@ sidebar_position: 2
   
 import ContentRef from '@site/src/components/ContentRef';
 
+ 
+import Screenshot from '@site/src/components/Screenshot';
+
+ <Screenshot  url='/img/pd2.png' />
+
+
+
 Datarapor web tabanlı SCADA sisteminin konfigürasyon sayfası, kullanıcıların sistemi özelleştirmelerini ve yönetmelerini sağlar.Sistem konfigürasyonları üç temel aşamadan olusur . Bunlar;
  
 

@@ -32,11 +32,8 @@ Yeni cihaz eklemek için ilgili grubun üzerine sağ tıklayın.
 "Cihaz Ekle" seçeneğine tıklayın.
 Cihazın adını ve gerekli bilgileri girin, ardından "Kaydet" butonuna basın.
  
-Daha önceden Bağlantı ve Cihaz ekle ayarları kısmında yapmış olduğunuz konfigürasyonların listesi burada görüntülenecektir. Seçmiş olduğunuz cihaz , tree view altyapısında eklemiş olduğunuz grubun altında görülecektir. 
-
-Eklemek istediğiniz cihazı 
+Daha önceden Bağlantı ve Cihaz ekle ayarları kısmında yapmış olduğunuz konfigürasyonların listesi burada görüntülenecektir. Seçmiş olduğunuz cihaz , tree view altyapısında eklemiş olduğunuz grubun altında görüntülenecektir.
 
 <Screenshot url='/img/tw2.png' />
 
-"Cihazlar" menüsü, sol tarafta yer almaktadır.
-"Main" üzerine sağ tıklandığında açılan pencerede, yeni grup ekleme, grup silme, ad değiştirme ve cihaz ekleme seçenekleri bulunmaktadır.
+ 

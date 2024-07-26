@@ -7,7 +7,11 @@ sidebar_position: 2
  
 import Screenshot from '@site/src/components/Screenshot';
 
+
+
+
 # Çevirici Haberleşme Ayarları  
+  
 # 1. Giriş ve Ayarlara Erişim
 Kullanıcı, Datarapor sistemine giriş yaptıktan sonra çevirici haberleşme ayarlarına ulaşmak için aşağıdaki adımları izlemelidir:
 
