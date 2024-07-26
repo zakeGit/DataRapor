@@ -136,7 +136,17 @@ const config = {
           {
             title: 'Docs',
             items: [
+
+
               {
+                label: 'Katmanlar',
+                href: '/docs/installation',
+              },
+
+
+
+
+              {                
                 label: 'Kurulum',
                 href: '/docs/installation',
               },
