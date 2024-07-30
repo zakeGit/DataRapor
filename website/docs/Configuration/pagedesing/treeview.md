@@ -34,6 +34,6 @@ Cihazın adını ve gerekli bilgileri girin, ardından "Kaydet" butonuna basın.
  
 Daha önceden Bağlantı ve Cihaz ekle ayarları kısmında yapmış olduğunuz konfigürasyonların listesi burada görüntülenecektir. Seçmiş olduğunuz cihaz , tree view altyapısında eklemiş olduğunuz grubun altında görüntülenecektir.
 
-<Screenshot url='/img/tw2.png' />
+<Screenshot url='/img/tw3.png' />
 
  
