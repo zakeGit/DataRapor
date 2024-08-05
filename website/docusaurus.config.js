@@ -171,6 +171,30 @@ const config = {
                 href: 'https://zake.com.tr',
               },
            
+
+              
+        
+            ],
+          },
+
+          {
+            title: 'Social',
+            items: [
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@datarapor',
+              },
+            
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/datarapor/?igsh=MWRiNmF1aHhqam1sdQ%3D%3D',
+              },
+
+              {
+                label: 'X',
+                href: 'https://x.com/DataRapor?t=JxhQAALmUuuHO88VoBYDGg&s=09',
+              },
+
         
             ],
           },

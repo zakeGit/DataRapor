@@ -1,6 +1,6 @@
 ---
 title: Enerji Analizörü Kontrol
-description: Streamline your app development with the Build Module in Appcircle, offering automated builds for iOS and Android platforms.
+description: Proses Veri Toplama Modulu kulanım 
 tags: [WEB-SCADA,DATARAPOR,PROSES VERI TOPLAMA,PVT,SENSOR IZLEME,VERI TOPLAMA,SICAKLIK TAKIP,SAYAC IZLEME,FABRIKA IZLEME,SCADA KURULUM,WEB SCADA NASIL KURULUR,WEB SCADA NEDIR,TESIS IZLEME]
 ---
 
