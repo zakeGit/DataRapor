@@ -15,22 +15,27 @@ import Screenshot from '@site/src/components/Screenshot';
 
 
 
-Datarapor web tabanlı SCADA sisteminin konfigürasyon sayfası, kullanıcıların sistemi özelleştirmelerini ve yönetmelerini sağlar.Sistem konfigürasyonları üç temel aşamadan olusur . Bunlar;
+Datarapor Web tabanlı SCADA sisteminin kurulum sonrası konfigürasyon (Tag Tanımlama,Scada Sayfa Tasarımı,Kulanıcı Ekleme vb.) işlemleri Sağ üst menudeki Setting kısmı ve Admin Panel Üzerinden yapılır. 
+
+
+<ContentRef url="/docs/Configuration/devicesetting">Cihaz Ayarları</ContentRef>
+
+Bu bölüm  yeni cihaz ekleme , tag ekleme , haberlesme ve bağlantı ayarlarının yapılması gibi , cihaz ve parametre bazlı  ayarlamaların yapıldıgı bölümdür.
+
+
+<ContentRef url="/docs/Configuration/pagedesing">Scada Sayfa Tasarımları</ContentRef>
+
+
+ 
+Bu bölüm  Yeni Grup , Yeni Sayfa ekleme ve Scada sayfa tasarımlarının yapıldıgı bölümdür.
+
+
+Kullanıcılar Admin Panel deki  Tree View  altyapısı ve  toolboxlar ile  diledikleri özgün sayfaları olusturabilirler.
+
  
 
-<ContentRef url="/docs/Konfigürasyon/devicesetting">Cihaz Ayarları</ContentRef>
 
-Bu bölümde, kullanıcılar cihazlarını sisteme eklemek ve bağlantı ayarlarını yapılandırmak için gerekli araçlara sahiptirler.
+<ContentRef url="/docs/Configuration/personsetting">Kullanıcı Ayarları</ContentRef>
+Bu bolum kullanıcı ayarları , auditlog  ve rapor gonderim ayarları gibi kullanıcı temelli ayarların  yapıldıgı bölumdür.  
 
-<ContentRef url="/docs/Konfigürasyon/personsetting">Kullanıcı Ayarları</ContentRef>
  
-Kullanıcılar, toolboxlar, visual map, araç çubuğu ve tree view gibi öğeleri kullanarak SCADA sayfalarını istedikleri gibi düzenleyebilirler.
-
-<ContentRef url="/docs/Konfigürasyon/pagedesing">Scada Sayfa Tasarımları</ContentRef>
-
-Bu bölümde, auditlog, EA haberleşme kontrol, personel grupları, rapor ayarları, alarm ayarları, SMS ayarları ve zamanlanmış görevler gibi kullanıcı özellikleri yönetilir.  
-
-
-
-
- Her bir bölüm, kullanıcıların Datarapor SCADA sisteminin performansını optimize etmelerini ve özelleştirmelerini sağlar.
