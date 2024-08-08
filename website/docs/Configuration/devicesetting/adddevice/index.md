@@ -5,15 +5,16 @@ tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SC
 ---
 import ContentRef from '@site/src/components/ContentRef';
 
-
+Datarapor sisteminde bir verinin ( Enerji Analizörü,Pompa,Sıcaklık vb. ) izlenebilmesi yada kontrol edilmesi için öncelikle verinin okunacağı saha haberlesme ekipmanın (Modbus TCP-IP Donusturucu,PLC vb.) bağlantı bilgileri sisteme tanımlanmalıdır  [bknz](/docs/Configuration/devicesetting/ConnectionMap). Ardından veri okunacak cihazlar sisteme eklenir.
  
-Cihaz Ekleme sayfası, Datarapor web tabanlı SCADA sisteminde kullanıcıların fiziksel ve sanal cihazları sisteme entegre etmelerini sağlayan bir araçtır. Bu sayfada, kullanıcılar iki temel yöntemle cihazları ekleyebilirler: 
+ 
+ 
+<ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice/RealDevice">Fiziksel ve Sanal Cihaz Ekleme</ContentRef>
+ 
+ Enerji analizörleri,flowmetreler , ölçüm cihazları, sensörler , kontrol birimleri  vb. gibi fiziksel saha cihazları veya sanal cihazlar bu sayfadan eklenir.
+ 
 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice/RealDevice">Fiziksel Cihazlar</ContentRef>
-
-Enerji analizörleri gibi ölçüm cihazları, sensörler veya kontrol birimleri gibi fiziksel aygıtlar bu kategori altında yer alır. Kullanıcılar, her bir cihaz için bağlantı ayarlarını yapılandırabilir ve sisteme entegre edebilirler.
-
-<ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice/VirtualDevice">Sanal Cihazlar</ContentRef>
+<ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice/VirtualDevice">Sanal Cihaz Konfigurasyonları</ContentRef>
 
 Sanal cihazlar, özellikle simülasyonlar, analizler veya özel işlemler gerektiren durumlar için kullanılır. Datarapor web SCADA üzerinden sanal cihaz eklemek, kullanıcıların sistemi daha esnek ve özelleştirilebilir hale getirmesini sağlar.
 

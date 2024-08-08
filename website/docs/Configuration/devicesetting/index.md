@@ -9,7 +9,7 @@ import Screenshot from '@site/src/components/Screenshot';
  
  
 
-Datarapor sisteminde bir verinin ( Enerji Analizörü,Pompa,Sıcaklık vb. ) izlenebilmesi yada kontrol edilmesi için öncelikle verinin okunacağı saha haberlesme ekipmanın (Modbus TCP-IP Donusturucu,PLC vb.) bağlantı bilgileri sisteme tanımlanmalıdır.Ardından okunacak register adresi veya Db adresleri ile sisteme eklenir.
+Datarapor sisteminde bir verinin ( Enerji Analizörü,Pompa,Sıcaklık vb. ) izlenebilmesi yada kontrol edilmesi için öncelikle verinin okunacağı saha haberlesme ekipmanın (Modbus TCP-IP Donusturucu,PLC vb.) bağlantı bilgileri sisteme tanımlanmalıdır.Ardından veri okunacak cihazlar sisteme eklenir.
 
  :::info
  
