@@ -11,7 +11,7 @@ import ContentRef from '@site/src/components/ContentRef';
  
 import Screenshot from '@site/src/components/Screenshot';
 
- <Screenshot  url='/img/pd2.png' />
+ <Screenshot  url='/img/konf1.png' />
 
 
 

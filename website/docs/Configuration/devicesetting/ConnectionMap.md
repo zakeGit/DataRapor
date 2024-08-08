@@ -1,5 +1,5 @@
 ---
-title: Bağlantı Ayarları
+title: Bağlantı ve Haberlesme  Ayarları
 description: DataRapor is a mobile CI/CD platform which makes it easy for you to manage the lifecycle of your mobile applications.
 tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
 sidebar_position: 2
@@ -9,21 +9,29 @@ import Screenshot from '@site/src/components/Screenshot';
 
 
 
-
-# Çevirici Haberleşme Ayarları  
+# Saha Cihazı Haberleşme Ayarları  
   
-# 1. Giriş ve Ayarlara Erişim
-Kullanıcı, Datarapor sistemine giriş yaptıktan sonra çevirici haberleşme ayarlarına ulaşmak için aşağıdaki adımları izlemelidir:
+Datarapor sisteminde bir verinin izlenebilmesi yada kontrol edilmesi için öncelikle verinin okunacağı saha haberlesme ekipmanın (Modbus TCP-IP Donusturucu,PLC vb.) bağlantı bilgileri sisteme tanımlanmalıdır.
 
-Sisteme giriş yaptıktan sonra ana sayfaya yönlendirilirsiniz.
-Üst menüde yer alan "Ayarlar" sekmesine tıklayın ve "Haberleşme Listesi" seçeneğine tıklayın.
+ # 1. Yeni Bir Baglantı Cihazı Ekleme
+
+Setting menusundeki  Haberlesme listesi sayfasında sistemde tanımlı  veri okunacak  cihazların  (Modbus TCP-IP Donusturucu,PLC vb.)  haberlesme ayarları görüntülenir.
+
+
+
+
+
+Yeni bağlantı eklemek için sağ üst köşedeki "+ New" butonuna basılır.
+
+:::info
+
+Siemens S7 serisi ethernet portu olan PLC'ler (S7-1200 , S7-300 ,S7-1500 vb.) standartta Profinet Haberlesme Protokulunu kullanır.Ve haberlesme Portu " 102 " dir.  
+Modbus TCP-IP haberlesme protokulunu kullanan PLC ( Schineider , ABB ,Panasonic vb ) veya TCP-IP Donustuculer (Entes EMG12, Planet IMG 2100t)  için haberlesme portu " 502 " dir. 
+
+:::
+
  
-Çevirici haberleşme ayarlarını yapılandırmak için aşağıdaki adımları izleyin:
 
-
-# Yeni Bir Çevirici Ekleme:
-
-Ekranın sağ üst köşesinde yer alan "+ New" butonuna tıklayın.
 
 <Screenshot url='/img/device3.png' />
 
@@ -35,10 +43,7 @@ Name: Çevirici adını girin (örneğin,Şebeke Analizörü).
 
 PORT: Çevirici bağlı olduğu port numarasını girin (örneğin, 502, 102).
 
-:::info
-Port 102: Siemens S7 PLC'ler ve diğer endüstriyel otomasyon cihazları için ISO-TSAP protokolünü kullanır.  
-Port 502: Endüstriyel otomasyon sistemlerinde Modbus TCP protokolü için kullanılır.
-:::
+
 
 CID: Cihaz kimlik numarasını girin.
 

@@ -9,14 +9,19 @@ import Screenshot from '@site/src/components/Screenshot';
  
  
 
-Cihaz ayarları, Datarapor Sisteminin doğru ve verimli çalışması için temel unsurları içeren kapsamlı bir yapılandırma sürecidir. Bu aşamada gerçekleştirilecek ayarlar şunlardır:
+Datarapor sisteminde bir verinin ( Enerji Analizörü,Pompa,Sıcaklık vb. ) izlenebilmesi yada kontrol edilmesi için öncelikle verinin okunacağı saha haberlesme ekipmanın (Modbus TCP-IP Donusturucu,PLC vb.) bağlantı bilgileri sisteme tanımlanmalıdır.Ardından okunacak register adresi veya Db adresleri ile sisteme eklenir.
+
+ :::info
+ 
+ Sistem merkezi  sunucu da , uzak sunucuda yada bulutta çalıştırılacaksa ethernet tabanlı baglantı kullanılmalıdır.
+ Local bilgisayar kullanımlarında Modbus RTU haberlesmesi de kullanılabilir.
+
+:::
+
 
  
-
-
  
- 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/ConnectionMap">Bağlantı Ayarları </ContentRef>
+<ContentRef url="/docs/Configuration/devicesetting/ConnectionMap">Bağlantı - Haberlesme Ayarları </ContentRef>
 
 
 
@@ -28,7 +33,7 @@ Bağlantı ayarları, Datarapor web scada sisteminde  kullanıcıların çeşitl
 Entes EMG12, Planet IMG 2100t, Siemens S71200, Digitus DA-70156, Digitus DA-70157, ZVTM gibi çeşitli çeviricilerin ayarları burada girilir.
 :::
 
-<ContentRef url="/docs/Konfigürasyon/devicesetting/adddevice"> Cihaz Ekleme</ContentRef>
+<ContentRef url="/docs/Configuration/devicesetting/adddevice"> Cihaz Ekleme</ContentRef>
 
 Haberleşme ayarları yapıldıktan sonra, çeviriciye takılı olan cihazı 'Cihaz Listesi' sekmesinden yeni cihaz seçerek kolayca ekleyebilirsiniz.
 
