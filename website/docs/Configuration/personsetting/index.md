@@ -1,44 +1,52 @@
 ---
-title:  Konfigurasyon
-description: DataRapor is a mobile CI/CD platform which makes it easy for you to manage the lifecycle of your mobile applications.
+title:  Kullanıcı Ayarları
+description: Kullanıcı Ayarları
 tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
 sidebar_position: 2
 ---
 import ContentRef from '@site/src/components/ContentRef';
 
 
+Datarapor Veri toplama sisteminde kullanıcı işlemleri , Rapor ayarları , Alarm ayarları ,  Audit Log gibi kullanıcı bazlı ayarların yapıldıgı bolumdur.
+ 
+ 
+### [Audit Trail](/docs/Configuration/personsetting/AuditLog)
+
+DataRapor sisteminde kullanıcıların login ve kontrol işlemleri otomatik olarak kayıt altına alınır.Bu tabloya yalnızca yetkili kullanıcılar erişebiliir. Audit log altyapısı , güvenlik denetimleri, hataların izlenmesi, sistemdeki olası kötü niyetli faaliyetlerin tespiti ve CFR gibi  yasal gereksinimlerin karşılanması için gereklidir.
+
+
+### [Kullanıcılar](/docs/Configuration/personsetting/UserSetting)
+
+Yeni kullanıcı tanımlama,duzenleme,silme ve yetkilendirme işlemlerinin yapıldıgı sayfadır.
+
+### [Personel Ayarları](/docs/Configuration/personsetting/PersonGroup)
+
+Sistemdeki  SMS ve Mail alıcılarının  tanımlandıgı ve düzenlendiği bolumdur.
+
+### [Alarm Ayarları](/docs/Configuration/personsetting/alarmconfig)
+
+Datarapor veri toplama sisteminde tanımlı taglar üzerine ana alarm ayarlarının yapıldıgı sayfadır.
+
+
+
+### [Mail ve SMS Temel Gönderici Ayarları](/docs/Configuration/personsetting/MailSetting)
+
+Datarapor un Mail ve SMS göndermesi için sistemde tanımlı gönderici Mail ve SMS Ayarlarının bulundugu bölümdür.
+
+
+### [Rapor Ayarları](/docs/Configuration/personsetting/ReportMap)
+
+Sistemde tanımlı Raporların API Url lerinin ve ReportId lerinin görüntülendiği sayfadır.
+ 
+
+### [Zamanlanmış Görevler](/docs/Configuration/personsetting/schoudleconfig)
+
+Datarapor veri toplama sistemi, içinde barındırdığı zamanlanmıs görevler altyapısı ile dilediğiniz bir saat  dilimine  Rapor gönderme görevi gidebilr yada belirli bir saha ekipmanına açma kapatma görevi girebilirsiniz.
+
+
+### [EA (Enerji Analizörü ) Haberleşme Kontrol](/docs/Configuration/personsetting/CommCheck)
+
+Sistemde tanımlı enerji analizörlerinin haberlesme durumlarını gösteren izleme sayfasıdır.
+
 
  
-Datarapor web SCADA sisteminde yer alan "Kullanıcı Ayarları" bölümü, kullanıcı yapılandırması ve yönetimi için çeşitli ayarları içerir. 
-
-### AuditLog
-
-Sistem üzerinde yapılan tüm işlemlerin kaydını tutar. Kullanıcıların hangi işlemleri gerçekleştirdiğini ve bu işlemlerin ne zaman yapıldığını gösterir.
-
-### EA Haberleşme Kontrol
-
-Sistem ile EA (Endüstriyel Ağ) arasındaki iletişimi kontrol eder. Haberleşme durumunu izler ve olası iletişim problemlerini belirler.
-
-### Mail Ayarları
-
-Sistem üzerinden gönderilecek e-postaların ayarlarının yapılmasını sağlar. SMTP sunucu bilgileri, port numaraları ve kimlik doğrulama bilgileri gibi e-posta ayarlarını içerir.
-
-### Personel Grupları
-
-Farklı personel gruplarının tanımlanması ve yönetilmesini sağlar. Kullanıcıların hangi gruplara ait olduğunu belirler ve grup bazlı yetkilendirme yapar.
-
-### Rapor Ayarları
-
-Sistem tarafından oluşturulan raporların ayarlarını içerir. Raporların formatı, zamanlaması ve hangi bilgileri içereceği gibi detayları belirler.
-
-### Alarm Ayarları
-
-Sistem üzerinde oluşabilecek alarmların ayarlarını yapar. Alarm türleri (sms-mail), bildirim yöntemleri ve alarm eşik değerleri gibi ayarları içerir.
-
-### Zamanlanmış Görevler
-
-Belirli zamanlarda otomatik olarak gerçekleştirilecek görevlerin ayarlanmasını sağlar. Yedekleme işlemleri, rapor oluşturma ve diğer periyodik görevleri planlar.
-
-### Sms Mail Ayarları
-
-Sistem üzerinden gönderilecek SMS ve e-postaların ayarlarını içerir. SMS servis sağlayıcı bilgileri, e-posta bildirim ayarları ve diğer ilgili ayarları kapsar.
