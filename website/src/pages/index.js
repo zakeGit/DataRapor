@@ -52,8 +52,8 @@ const features = [
     description: (
       <Translate
         id="homepage1"
-        description="DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.">
-        {`  DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.`}
+        description="DataRapor® enerji veri toplama modülü ile tesisinizdeki enerji üretim ve tüketim verilerini, kullanıcı dostu arayüzü sayesinde parametre, lokasyon veya cihaz bazında izleyebilirsiniz.">
+        {`  DataRapor® enerji veri toplama modülü ile tesisinizdeki enerji üretim ve tüketim verilerini, kullanıcı dostu arayüzü sayesinde parametre, lokasyon veya cihaz bazında izleyebilirsiniz.`}
       </Translate>
     ),
   },
@@ -80,10 +80,10 @@ const features = [
       <Translate
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
         id="homepage2"
-        description="DataRapor® proses veri toplama modulu ile Sıcaklık,basınç,nem,debi,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerini kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.">
+        description="DataRapor® proses veri toplama modülü ile Sıcaklık,basınç,nem,debi,hava hızı,TOC,iletkenlik,pH,O2,CO,toz vb. proses verilerini kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.">
         {`
          
-        DataRapor® proses veri toplama modulu ile Sıcaklık,basınç,nem,debi,hava hızı,
+        DataRapor® proses veri toplama modülü ile Sıcaklık,basınç,nem,debi,hava hızı,
         TOC,iletkenlik,pH,O2,CO,toz vb.
          proses verilerini kullanıcı dostu arayüzü ile parametre, lokasyon ya da cihaz bazında özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.
        
@@ -111,8 +111,8 @@ const features = [
       <Translate
         values={{starters: (<code>starters</code>)}}
         id="homepage3"
-        description="  DataRapor® uretim veri toplama modulu ile tesisinizdeki üretim verilerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı özelleştirilebilr sayfa tasarımları ile izleyebilirsiniz.">
-        {`DataRapor® uretim veri toplama modulu ile tesisinizdeki üretim verilerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.`}
+        description="  DataRapor® üretim veri toplama modülü ile tesisinizdeki üretim verilerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı özelleştirilebilr sayfa tasarımları ile izleyebilirsiniz.">
+        {`DataRapor® uretim veri toplama modülü ile tesisinizdeki üretim verilerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı özelleştirilebilir sayfa tasarımları ile izleyebilirsiniz.`}
       </Translate>
     ),
   },
@@ -133,8 +133,8 @@ const features = [
       <Translate
         values={{starters: (<code>starters</code>)}}
         id="homepage4"
-        description="DataRapor® Bakım Yönetim Modulu ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.">
-        {`DataRapor® Bakım Yönetim Modulu ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.`}
+        description="DataRapor® Bakım Yönetim modülü ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.">
+        {`DataRapor® Bakım Yönetim modülü ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.`}
       </Translate>
     ),
   },

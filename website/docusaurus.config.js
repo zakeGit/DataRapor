@@ -161,6 +161,12 @@ const config = {
                 href: '/docs/Use',
               },
 
+              
+              {
+                label: 'Örnek Uygulamalar',
+                href: '/docs/Uygulamalar/buharjenerator',
+              },
+
             ],
           },
           {

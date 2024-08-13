@@ -30,11 +30,9 @@ const features = [
     description: (
       <Translate
         id="pvt1"
-        description="DataRapor® proses veri toplama modulu ile , tesisinizdeki proses verilerinizi kullanıcı dostu arayüzü ile  
-         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.">
+        description="DataRapor® proses veri toplama modülü, tesisinizdeki proses verilerini kullanıcı dostu bir arayüz ile parametre, lokasyon veya cihaz bazında izlemenizi sağlar.">
           
-          DataRapor® proses veri toplama modulu ile , tesisinizdeki proses verilerinizi kullanıcı dostu arayüzü ile  
-         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.
+          DataRapor® proses veri toplama modülü, tesisinizdeki proses verilerini kullanıcı dostu bir arayüz ile parametre, lokasyon veya cihaz bazında izlemenizi sağlar.
         
       </Translate>
     ),

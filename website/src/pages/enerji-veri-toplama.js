@@ -30,11 +30,9 @@ const features = [
     description: (
       <Translate
         id="evt1"
-        description="DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile  
-         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.">
+        description="DataRapor® enerji veri toplama modülü ile tesisinizdeki enerji üretim ve tüketim verilerini, kullanıcı dostu arayüzü sayesinde parametre, lokasyon veya cihaz bazında izleyebilirsiniz.">
           
-          DataRapor® enerji veri toplama modulu ile , tesisinizdeki enerji üretim ve tüketim verilerinizi kullanıcı dostu arayüzü ile  
-         parametre, lokasyon ya da cihaz bazında izleyebilirsiniz.
+          DataRapor® enerji veri toplama modülü ile tesisinizdeki enerji üretim ve tüketim verilerini, kullanıcı dostu arayüzü sayesinde parametre, lokasyon veya cihaz bazında izleyebilirsiniz.
         
       </Translate>
     ),
@@ -59,10 +57,10 @@ const features = [
         values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
         id="evt2"
         description="Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir 
-         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir. ">
+         ve anlık olarak akım,gerilim,güç bilgileri görüntülenebilir. ">
         {`
          Sahadan çekilen anlık veriler sistemde gecikmesiz gösterilir 
-         ve anlık olarak akım,gerilim,guc bilgileri görüntülenebilir.        
+         ve anlık olarak akım,gerilim,güç bilgileri görüntülenebilir.        
         
         
         `}

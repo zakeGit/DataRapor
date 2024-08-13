@@ -1,40 +1,46 @@
 ---
-title: Mail Ayarları 
-description: DataRapor is a mobile CI/CD platform which makes it easy for you to manage the lifecycle of your mobile applications.
-tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
+title: Mail ve SMS Temel Gönderici Ayarları 
+description: Mail ve SMS Temel Gönderici Ayarları
+tags: [MAIL SENDER, MAIL SETTING, MAIL ACCOUNT,MAIL CONFIG,SMTP,PORT,HOST]
 sidebar_position: 5
 ---
 
 import Screenshot from '@site/src/components/Screenshot';
-
-
-
-
-
  
+
+
+
+
+
+
+DataRapor sistemi tarafından kullanıcılara gönderilen otomatik e-mail altyapısının gönderici ayarlarının yapıldıgı bölümdür.
+
+DataRapor e-mailleri burada girilen mail adresi ile alıcılara gönderecektir.
 
 
 <Screenshot url='/img/device10.png' />
 
+UserName: Mail göndermek için kullanılacak e-posta adresi.  
+Password:  Mail hesabının şifresi    
+Mail From: Mail göndermek için kullanılacak e-posta adresi.  
+Port: SMTP sunucusunun kullanacağı port numarası.Orn: 587   
+Host: Kullanılacak SMTP sunucusunun adresi.Orn: SMTP.office365.com  
+DataRapor ServerIP: DataRapor sisteminin yayınlandığı IP adresi
+
+Enable SSL : Mail sunucusu SSL guvenlik katmanı içeriyorsa bu bolum seçilmelidir.
 
 
-Datarapor Mail Ayarları:
-Datarapor sistemi, kullanıcılara çeşitli bildirimler ve raporlar göndermek için mail ayarlarının doğru bir şekilde yapılandırılmasını gerektirir. 
+:::info
+Mail sunucusunun konfigurasyon dokumanında SSL aktif veya SSL pasif olarak çalısma portları belirtilir.
+
+Bu bilgilere gore Port ve SSL Enable bölümleri doğru bir şekilde doldurulmalıdır.
+
+Orn: SSL'siz: 587 / SSL ile 465 gibi
+
+:::
 
 
-User Name: Mail göndermek için kullanılacak e-posta adresi.  
-Pass Word:Mail hesabının şifresi. Bu bilgi gizli tutulmalıdır.  
-Mail From:Gönderen e-posta adresi olarak görünecek adres.  
-Port: 587  SMTP sunucusunun kullanacağı port numarası.  
-Host: SMTP.office365.com Kullanılacak SMTP sunucusunun adresi.  
-Data Rapor Server IP: Datarapor sunucusunun IP adresi ve port numarası.  
-
-
-
-
- 
-Tüm alanları doldurduktan sonra, "Update" butonuna tıklayarak ayarları kaydedin.
-Bu adımlar, Datarapor sisteminde mail ayarlarının yapılandırılmasını tamamlar. Ayarlar doğru bir şekilde yapıldıktan sonra, sistem üzerinden e-posta bildirimleri ve raporları sorunsuz bir şekilde gönderebilirsiniz.
+Yukarıdaki bölümler doğru bir şekilde doldurulduktan sonra, e-posta bildirimleri ve raporları sistem üzerinden sorunsuz bir şekilde gönderilecektir.
 
 
 

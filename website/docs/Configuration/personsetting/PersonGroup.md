@@ -1,36 +1,54 @@
 ---
-title: Personel Grupları
-description: DataRapor is a mobile CI/CD platform which makes it easy for you to manage the lifecycle of your mobile applications.
-tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
+title: Personel Ayarları
+description: Personel Grupları
+tags: [WEB-SCADA, DATARAPOR, USER SETTING, PERSON,REPORT,SMS,MAIL SENDER,REPORT SENDER,PERSON ACCOUNT,SCADA]
 sidebar_position: 2
 ---
 import Screenshot from '@site/src/components/Screenshot';
 
 
+Sistemdeki SMS ve Mail alıcılarının tanımlandıgı ve düzenlendiği bölümdür.Sistem tarafından üretilen Raporlar ve Alarm uyarıları  burada tanımlanan personellere  gönderilir.
 
-Datarapor sistemi, kullanıcıların belirli personel grupları oluşturmasına ve bu gruplara personel eklemesine olanak tanır. Bu özellik, alarmlar ve raporlar gibi bildirimlerin belirli gruplara ve kişilere gönderilmesini kolaylaştırır. 
+ 
+Sistemde oluşturulan Alarm veya Raporlar alıcılara Grup olarak yönlendirilir.Her bir alarm yada Raporun bir hedef personel grubu vardır. 
 
-Personel Grup Oluşturma
+
+
+Mevcut Personel Gruplarına ve Grup içindeki kayıtlı personellere Ayarlar sayfasındaki ilgili sekmelerden erişilir.
 
 ### Yeni Grup Oluşturma:
-'Personel Grup' sekmesinde 'New' butonuna tıklayarak yeni bir grup oluşturabilirsiniz. Açılan pencerede yeni grup ismini yazarak grup oluşturma işlemini tamamlayabilirsiniz.
-Örnek: Teknik, İdari, Destek.
+'Personel Grup' sekmesinde 'New' butonuna tıklayarak yeni grup olusturulur.
+
+Örnek: Teknik, İdari, Destek vb.
 
 <Screenshot url='/img/person1.png' />
 
-### Personel Listesi Oluşturma:
-Aşağıdaki bilgiler, Datarapor sisteminde personel listesine yeni bir personel eklerken girilmesi gereken alanlardır:
+### Gruplara Personel Ekleme:
+
+Personel ekleme sayfasından yeni personel eklenebilir yada grubu değiştirilebilir.
+
+:::info
+Personel telefon numarası girerken numara başına 0 koyulmamalıdır.
+
+Orn:5.... şeklinde
+:::
+
+
 
 <Screenshot url='/img/person2.png' />
 
 Personel Grubu: Personelin ait olduğu grup. Bu grup, 'Personel Grup' sekmesinde oluşturulan gruplardan seçilir.
  
 
-Personel Name:Açıklama: Personelin adı. Bu alan, personelin tanımlanmasını sağlar.
+Personel Name:Personel adı 
   
 
-Personel Mail Adress:Açıklama: Personelin e-posta adresi. Bu alan, bildirimlerin gönderileceği e-posta adresini belirtir.
+Personel Mail Adress: Personel e-posta adresi. Bu alan, bildirimlerin gönderileceği e-posta adresini belirtir.
  
 
-Personel Phone Number:Açıklama: Personelin telefon numarası. Bu alan, bildirimlerin gönderileceği telefon numarasını belirtir.
+Personel Phone Number:Personelin telefon numarası.
+
+
+
+<Screenshot url='/img/konf9.png' />
  

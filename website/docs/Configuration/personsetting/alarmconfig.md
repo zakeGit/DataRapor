@@ -1,7 +1,7 @@
 ---
 title: Alarm Ayarları
-description: Streamline your app development with the Build Module in Appcircle, offering automated builds for iOS and Android platforms.
-tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
+description: Alarm Ayarları
+tags: [WEB-SCADA, DATARAPOR,ALARM, ALARM CONFIG,ALARM TANIMLAMA]
 sidebar_position: 3
 ---
 
@@ -10,32 +10,45 @@ import Screenshot from '@site/src/components/Screenshot';
 
  
 
-Kullanıcıların belirli olaylar veya durumlar için alarmlar tanımlamasına ve bu alarmlar tetiklendiğinde bildirim almasına olanak tanır. Alarm ayarlarını doğru bir şekilde yapılandırmak, sistemin verimli çalışması ve kullanıcıların zamanında bilgilendirilmesi açısından önemlidir. Bu bölümde, Datarapor'un alarm ayarlarını nasıl yapacağınızı adım adım açıklayacağız.
+DataRapor da tanımlı alarmlara ayarlar sayfasındaki alarm ayarları sekmesinden ulasılır.Bu sayfadan taglare alarmlar baglanabilir yada uyarı tipleri değiştirilebilir.
 
+
+
+ <Screenshot url='/img/sett1.png' />
+
+
+
+### Alarm Aktif Etme :
+
+Herhangi bir Tag e ait alarmı etkinleştirmek veya devre dışı bırakmak için bu seçenek kullanılır.
+Sadece bu bölüm seçili ise alarm durumu gerceklestiğinde aktif alarmlar sayfasına düşer.SMS veya Mail bilgilendirmeleri için diğer seçeneklerde seçilmelidir.
+
+
+### Yeni Alarm Ekleme:
+
+Alarmlar sayfasında sağ üst köşedeki "new" butonu ile yeni alarmlar tanımlanır.
 
  <Screenshot url='/img/alarm1.png' />
-
- 
+  
 ### DisplayName:
-
-Bu alan, 'Cihaz Ekle' kısmında konfigürasyonunu yaptığınız cihazın verilerini listeler. Açılır listeden hangi alarmı eklemek istiyorsanız onu seçebilirsiniz. Bu, alarmın hangi cihaza ait olduğunu kolayca tanımlamanızı sağlar.
+Tag in sistemde kayıtlı Adı
 
 ### Alarm Group:
 
-Bu alan, 'Personel Grupları' kısmında konfigürasyonunu yaptığınız gruplardan gelir. Alarmın dahil olduğu grup seçilir. Gruplama, benzer alarmların bir arada tutulmasını ve yönetilmesini kolaylaştırır.
+Tag e ait alarm olustugunda bilgilendirmelerin yönlendirileceği grup 
 
 ### Alarm Aktif ?:
 
-Alarmın aktif olup olmadığını belirten seçenek. Alarmı etkinleştirmek veya devre dışı bırakmak için kullanılır.
+Alarm izleme etkinleştirme seceneği.
 
 ### Sms Aktif ?:
 
-Alarm tetiklendiğinde SMS bildiriminin aktif olup olmadığını belirten seçenek. Bu özellik etkinleştirildiğinde, alarm tetiklendiğinde SMS gönderilir.
+Sms bilgilendirmeleri aktif etme seceneği.
 
 ### Mail Aktif ?:
 
-Alarm tetiklendiğinde mail bildiriminin aktif olup olmadığını belirten seçenek. Bu özellik etkinleştirildiğinde, alarm tetiklendiğinde e-posta gönderilir.
+E-Mail bilgilendirmeleri aktif etme seceneği.
 
 ### Mesaj:
 
-Alarm tetiklendiğinde gönderilecek olan mesaj. Bu mesaj, alarmın neden tetiklendiğini ve ne yapılması gerektiğini açıklayabilir.
+Alarm durumunda  gönderilecek olan mesaj.
