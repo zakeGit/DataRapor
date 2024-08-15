@@ -133,8 +133,8 @@ const features = [
       <Translate
         values={{starters: (<code>starters</code>)}}
         id="homepage4"
-        description="DataRapor® Bakım Yönetim modülü ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.">
-        {`DataRapor® Bakım Yönetim modülü ile tesisinizdeki ekipmanların periyodik bakım proseslerini kullanıcı dostu arayüzü ile anlık veya vardiya bazlı olarak izleyebilirsiniz.`}
+        description="DataRapor®, MMS modulu ile tesisinizdeki tüm bakim faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.">
+        {`DataRapor®, MMS modulu ile tesisinizdeki tüm bakim faaliyetlerinizi tek bir uygulama üzerinden düzenleyebilir kontrol edebilirsiniz.`}
       </Translate>
     ),
   },

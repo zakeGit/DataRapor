@@ -2,12 +2,13 @@
 title: İklimlendirme 
 
 description: iklimlendirme İzleme ve kontrol sistemleri
-tags: [WEB-SCADA, DATARAPOR, HVAC , MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
+tags: [WEB-SCADA, DATARAPOR, HVAC , GMP,CFR,CFR PART-11,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
 ---
 
 import Screenshot from '@site/src/components/Screenshot';
 
 # İklimlendirme Kontrol Sistemleri
+
 
  <Screenshot url='/img/hvac1.jpg' />
 
@@ -28,7 +29,6 @@ import Screenshot from '@site/src/components/Screenshot';
 
 
 
- <Screenshot url='/img/sett6.png' />
 
  * Gelişmiş HMI paneller ve WebScada sistemleriyle donatılan sistem , kullanıcı dostu arayüzüyle oldukca avantaj sağlar.
 

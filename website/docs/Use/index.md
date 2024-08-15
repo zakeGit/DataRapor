@@ -17,14 +17,16 @@ Web tarayıcınız üzerinden sisteme kullanıcı girişi yaptıktan sonra, sağ
 
 
 
-<ContentRef url="/docs/use/energypage">Elektrik Sayfasi</ContentRef>
+<ContentRef url="/docs/use/energypage">Enerji Veri Toplama - EVT</ContentRef>
 
 
-<ContentRef url="/docs/use/processpage">Proses İzleme Sayfasi</ContentRef>
+<ContentRef url="/docs/use/processpage">Proses Veri Toplama - PVT</ContentRef>
  
  
 
-<ContentRef url="/docs/use/productpage">Üretim Veri Toplama Sayfasi</ContentRef>
+<ContentRef url="/docs/use/productpage">Üretim Veri Toplama - UVT</ContentRef>
+
+<ContentRef url="/docs/use/MMSpage">Bakım Yönetim Sistemi MMS </ContentRef>
 
 
  DataRapor demo sisteme erişmek için  [tıklayınız ](https://demo.datarapor.com)

@@ -105,8 +105,8 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="evt4"
-        description="Total endex degerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve gunluk ani tüketim farklılıkları kolay bir şekilde tespit edilebilir.">
-        {`Total endex degerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve gunluk ani tüketim farklılıkları kolay bir şekilde tespit edilebilir.`}
+        description="Total endex değerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve günlük ani tüketim farklılıkları kolay bir şekilde tespit edilebilir.">
+        {`Total endex değerlerine istenen periyotlarda ulasılabilir.Totalizer dashboard ile saatlik ve günlük ani tüketim farklılıkları kolay bir şekilde tespit edilebilir.`}
       </Translate>
     ),
   },
@@ -154,8 +154,8 @@ const features = [
       <Translate
         values={{autowired: (<code>@Autowired</code>)}}
         id="evt5"
-        description="Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.">
-        {`Online guncellenebilir cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını guncelleyebilirsiniz.`}
+        description="Online cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını güncelleyebilirsiniz.">
+        {`Online cihaz kütüphanesi desteği ile dakikalar içinde sisteme yeni enerji analizörleri tanımlayabilir,cihazların ayarlarını güncelleyebilirsiniz.`}
       </Translate>
     ),
   },

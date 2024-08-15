@@ -120,7 +120,94 @@ const config = {
             
             ],
           },
+
+
+
+
+
+
+          {
+            label: 'Örnek Uygulamalar',
+            position: 'left',
+            to: '/',
+            items: [
+              {
+                label: 'Buhar Jeneratör Sistemleri',
+                to: '/docs/Uygulamalar/buharjenerator',
+              },
+              {
+                label: 'Buhar Kazanı Kontrol Sistemleri',
+                to: '/docs/Uygulamalar/buharvekizginyag',
+              },
+              {
+                label: 'Enerji İzleme',
+                to: '/docs/Uygulamalar/enerjiizleme',
+              },
+              {
+                label: 'Isıtma-Sogutma Kontrol Sistemleri',
+                to: '/docs/Uygulamalar/IsitmaSogutma',
+              },
+              {
+                label: 'Gaz İzleme Sistemleri',
+                to: '/docs/Uygulamalar/gazmonitor',
+              },
+              {
+                label: 'İklimlendirme',
+                to: '/docs/Uygulamalar/iklimlendirme',
+              },
+            
+              {
+                label: 'İnkubasyon',
+                to: '/docs/Uygulamalar/inkubasyon',
+              },
+              
+              {
+                label: 'Aydınlatma Kontrol Sistemleri',
+                to: '/docs/Uygulamalar/light',
+              },
+            
+              {
+                label: 'Susuzlaştırma Sistemleri',
+                to: '/docs/Uygulamalar/susuzlastirma',
+              },
+              
+              {
+                label: 'Temiz Oda Sistemleri',
+                to: '/docs/Uygulamalar/temizoda',
+              },
+
+            ],
+          },
   
+
+
+          {
+            label: 'Demo',
+            position: 'left',
+            to: 'https://demo.datarapor.com/',
+          
+          },
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
       

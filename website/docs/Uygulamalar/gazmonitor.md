@@ -25,10 +25,7 @@ Bu sistemler, işletmelerin güvenlik standartlarına uyum sağlamasına ve olas
 
 
 
-
-
- <Screenshot url='/img/sett5.png' />
-
+ 
 
  Sonuç olarak, gaz dedektörlerinin endüstriyel otomasyon sistemlerine entegrasyonu, hem çalışanların hem de tesislerin güvenliğini sağlamak adına hayati bir unsurdur.
 

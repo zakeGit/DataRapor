@@ -312,7 +312,7 @@ function Home() {
         <div className={styles.heroInner}>
           <h1 className={styles.heroProjectTagline}>
             <img
-              alt="Awe logo"
+              alt="Datarapor"
               className={styles.heroLogo}
               src={useBaseUrl('img/DRImage.png')}
             />
