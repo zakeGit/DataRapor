@@ -35,4 +35,5 @@ import Screenshot from '@site/src/components/Screenshot';
 * Tüm sistem GAMP ve CFR uyumlu Datarapor Web Scada üzerinden 7/24 izlenebilir,arızalı ekipmanlar ve filtre kirlilik sensörleri görüntülenebilir. İstenen parametreler operator  yetkisince değiştirilip müdahale edilebilir.
 
 
+ <Screenshot url='/img/sett6.png' />
  
