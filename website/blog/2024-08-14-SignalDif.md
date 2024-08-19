@@ -1,7 +1,7 @@
 ---
-slug: Endüstride 4-20 mA , 0-10 V Sinyallerin Kullanımı
+slug: SignalDif
 title: Endüstride 4-20 mA , 0-10 V Sinyallerin Kullanımı
-authors: Teknik
+authors: Hamza
 tags: [4-20 mA, O-10V , Kontrol Sinyali,4-20 mA Sensor,0-10v Sensor]
 ---
 
