@@ -10,7 +10,7 @@ import Screenshot from '@site/src/components/Screenshot';
 # Gaz Monitör
 
 
-<Screenshot url='/img/monitor.jpg' />
+ 
 
 * Endüstriyel tesislerde yanıcı, patlayıcı ve zehirli gazların güvenli bir şekilde izlenmesi kritik bir öneme sahiptir. 
 Gaz dedektörleri, bu tür tehlikeli gazların anlık olarak tespit edilmesini sağlar ve belirli limitlerin aşılması durumunda otomatik uyarı sistemlerini devreye sokar. 
@@ -29,5 +29,5 @@ Bu sistemler, işletmelerin güvenlik standartlarına uyum sağlamasına ve olas
 
  Sonuç olarak, gaz dedektörlerinin endüstriyel otomasyon sistemlerine entegrasyonu, hem çalışanların hem de tesislerin güvenliğini sağlamak adına hayati bir unsurdur.
 
- 
+ <Screenshot url='/img/monitor1.jpg' />
 
