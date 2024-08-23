@@ -29,7 +29,7 @@ Multibus tarafında verinin çekileceği formun numarasıdır.Defaultta conn id 
 
 Her formun veri okuma yapacağı saha cihazın ip adresidir.Connection Map tablosundan çekilir.
 
-##### Mulitbus ModbusV2 Form Tabloları
+##### Multibus ModbusV2 Form Tabloları
 
 ###### Infolist
 
@@ -58,7 +58,12 @@ Form altındaki Good  sayısı cevap alınan sorgu sayısı,Bad  cevap donmeyen 
 
 
 
-Modbus sorgusu için Register mapten gelen register adresleri ile bir sorgu ( Query ) olusturulur.Bu Query e göre modbus sorgusu yapılır.Query den  donen  Json olarak değerler parse edilerek ana formda  modbus yayınına dahil edilir.
+Modbus sorgusu için Register mapten gelen register adresleri ile bir sorgu ( Query ) olusturulur.Bu Query e göre modbus sorgusu yapılır.QQuery den    Json olarak donen değerler parse edilerek ana formda  modbus ve web Api  yayınına dahil edilir.
+
+
+
+
+
 
 <Screenshot url='/img/mim6.png' />
 <Screenshot url='/img/mim7.png' />
@@ -73,4 +78,5 @@ Modbus sorgusunda okunan değerler infolistteki multiplier parametresi ve min ma
 
 <Screenshot url='/img/mim4.png' />
 
+ 
  
