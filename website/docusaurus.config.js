@@ -162,8 +162,13 @@ const config = {
               },
               
               {
-                label: 'Aydınlatma Kontrol Sistemleri',
-                to: '/docs/Uygulamalar/light',
+                label: 'Reverse Osmos Sistemleri',
+                to: '/docs/Uygulamalar/RO',
+              },
+
+              {
+                label: 'Ultrafiltrasyon Sistemleri',
+                to: '/docs/Uygulamalar/UF',
               },
             
               {
