@@ -1,0 +1,33 @@
+[debug] [2024-08-23T15:15:43.710Z] ----------------------------------------------------------------------
+[debug] [2024-08-23T15:15:43.715Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ates-\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2024-08-23T15:15:43.715Z] CLI Version:   13.13.2
+[debug] [2024-08-23T15:15:43.715Z] Platform:      win32
+[debug] [2024-08-23T15:15:43.716Z] Node Version:  v20.14.0
+[debug] [2024-08-23T15:15:43.716Z] Time:          Fri Aug 23 2024 18:15:43 GMT+0300 (GMT+03:00)
+[debug] [2024-08-23T15:15:43.716Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-08-23T15:15:43.720Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2024-08-23T15:15:43.869Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-23T15:15:43.869Z] > authorizing via signed-in user (salihates@zake.com.tr)
+[debug] [2024-08-23T15:15:43.869Z] [iam] checking project datarapor-f629a for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2024-08-23T15:15:43.870Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/datarapor-f629a:testIamPermissions [none]
+[debug] [2024-08-23T15:15:43.870Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/datarapor-f629a:testIamPermissions x-goog-quota-user=projects/datarapor-f629a
+[debug] [2024-08-23T15:15:43.870Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/datarapor-f629a:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2024-08-23T15:15:44.289Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2024-08-23T15:15:44.290Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2024-08-23T15:15:44.883Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/datarapor-f629a:testIamPermissions 200
+[debug] [2024-08-23T15:15:44.883Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/datarapor-f629a:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2024-08-23T15:15:44.884Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/datarapor-f629a [none]
+[debug] [2024-08-23T15:15:45.322Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/datarapor-f629a 200
+[debug] [2024-08-23T15:15:45.322Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/datarapor-f629a {"projectId":"datarapor-f629a","projectNumber":"680248753322","displayName":"DataRapor","name":"projects/datarapor-f629a","resources":{"hostingSite":"datarapor-f629a","realtimeDatabaseInstance":"datarapor-f629a","storageBucket":"datarapor-f629a.appspot.com","locationId":"us-central"},"state":"ACTIVE","etag":"1_656f1680-e0a3-4e17-98e8-292bc55a5b4b"}
+[info] 
+[info] === Deploying to 'datarapor-f629a'...
+[info] 
+[info] i  deploying hosting 
+[debug] [2024-08-23T15:15:45.334Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/datarapor-f629a/versions [none]
+[debug] [2024-08-23T15:15:45.334Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/datarapor-f629a/versions {"status":"CREATED","labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2024-08-23T15:15:47.920Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/datarapor-f629a/versions 200
+[debug] [2024-08-23T15:15:47.920Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/datarapor-f629a/versions {"name":"projects/680248753322/sites/datarapor-f629a/versions/475609526636a397","status":"CREATED","config":{},"labels":{"deployment-tool":"cli-firebase"}}
+[info] i  hosting[datarapor-f629a]: beginning deploy... 
+[info] i  hosting[datarapor-f629a]: found 2170 files in build 
+[debug] [2024-08-23T15:15:48.365Z] [hosting] uploading with 200 concurrency
