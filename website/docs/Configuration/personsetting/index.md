@@ -34,9 +34,6 @@ Datarapor veri toplama sisteminde tanımlı taglar üzerine ana alarm ayarların
 Datarapor un Mail ve SMS göndermesi için sistemde tanımlı gönderici Mail ve SMS Ayarlarının bulundugu bölümdür.
 
 
-### [Rapor Ayarları](/docs/Configuration/personsetting/ReportMap)
-
-Sistemde tanımlı Raporların API Url lerinin ve ReportId lerinin görüntülendiği sayfadır.
  
 
 ### [Zamanlanmış Görevler](/docs/Configuration/personsetting/schoudleconfig)

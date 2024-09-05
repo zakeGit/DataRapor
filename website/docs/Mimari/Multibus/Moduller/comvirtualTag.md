@@ -1,9 +1,25 @@
 ---
 title: Com VirtualTag
-description: Streamline your app development with the Build Module in Appcircle, offering automated builds for iOS and Android platforms.
+description: Com VirtualTag
 
 
-tags: [WEB-SCADA, DATARAPOR, MULTIBUS, MODBUS,PROFINET,RTU,TCP/IP,MQTT,BACNET,SCADA,VERI TOPLAMA]
+tags: [WEB-SCADA, DATARAPOR, MULTIBUS,VIRTUAL TAG,VERI TOPLAMA]
 ---
 
-# Yapım Aşamasındadır.
+
+import Screenshot from '@site/src/components/Screenshot';
+
+# Com VirtualTag
+
+
+Com Virtual modülü  sistemde tanımlı sanal tagların matematiksel hesaplarının yapıldığı ve o tagname ile ana forma yazıldıgı moduldur.Bu sayede hesaplanan veriler WEB-API ve  modbus yayınına dahil edilir.
+
+
+
+
+<Screenshot url='/img/conf10.png' />
+ 
+Matematiksel formuller VirtualTagFormula tablosunda bulunur.
+
+
+ <Screenshot url='/img/conf9.png' />
