@@ -89,7 +89,7 @@ const config = {
         items: [
 
           {
-            label: 'AnaSayfa',
+            label: 'Ürünler',
             position: 'left',
             to: '/',
             items: [
@@ -120,12 +120,7 @@ const config = {
             
             ],
           },
-
-
-
-
-
-
+ 
           {
             label: 'Örnek Uygulamalar',
             position: 'left',
@@ -183,9 +178,7 @@ const config = {
 
             ],
           },
-  
-
-
+ 
           {
             label: 'Demo',
             position: 'left',
@@ -193,28 +186,19 @@ const config = {
           
           },
   
+       
+          {
+            type: 'html',
+            value: '<img src="/img/phone.svg" alt="DataRapor Logo" style="height:30px;" />',
+            position: 'right',
+          },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
+          {
+            label: 'TEL : 0 312 386 05 77',
+            href: '/iletisim',
+            position: 'right',
+          },
+  
       
           {
             type: 'localeDropdown',
@@ -228,37 +212,26 @@ const config = {
           {
             title: 'Docs',
             items: [
-
-
               {
                 label: 'Katmanlar',
                 href: '/docs/installation',
               },
-
-
-
-
-              {                
+              {
                 label: 'Kurulum',
                 href: '/docs/installation',
               },
-
               {
                 label: 'Konfigurasyon',
                 href: '/docs/Configuration',
               },
-
               {
                 label: 'DataRapor Kullanımı',
                 href: '/docs/Use',
               },
-
-              
               {
                 label: 'Örnek Uygulamalar',
                 href: '/docs/Uygulamalar/buharjenerator',
               },
-
             ],
           },
           {
@@ -268,13 +241,8 @@ const config = {
                 label: 'Zake',
                 href: 'https://zake.com.tr',
               },
-           
-
-              
-        
             ],
           },
-
           {
             title: 'Social',
             items: [
@@ -282,18 +250,14 @@ const config = {
                 label: 'Youtube',
                 href: 'https://www.youtube.com/@datarapor',
               },
-            
               {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/datarapor/?igsh=MWRiNmF1aHhqam1sdQ%3D%3D',
               },
-
               {
                 label: 'X',
                 href: 'https://x.com/DataRapor?t=JxhQAALmUuuHO88VoBYDGg&s=09',
               },
-
-        
             ],
           },
           {
@@ -304,14 +268,22 @@ const config = {
                 href: '/blog',
               },
               {
-                label: 'iletisim',
+                label: 'İletişim',
                 href: '/iletisim',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} by ZAKE.`,
+        copyright: `
+          <div style="text-align: center; margin-bottom: 5px;">
+            <p><strong>Tel: 0 312 386 05 77</strong></p>
+          </div>
+          <div>
+            Copyright © ${new Date().getFullYear()} by ZAKE.
+          </div>
+        `,
       },
+      
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

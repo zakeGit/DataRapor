@@ -9,81 +9,35 @@ import Translate from '@docusaurus/Translate';
 
 const features = [
   {
-    title: (
-      <Translate
-        id="srk1.title"
-        description=" DataRapor® bir Zake Muhendislik ürünüdür">
-        DataRapor® bir Zake Muhendislik ürünüdür
-      </Translate>
-    ),
+    title: 'DataRapor® bir Zake Mühendislik ürünüdür',
     imageUrl: 'img/undraw_product_tour_re_8bai.svg',
-    description: (
-      <Translate
-        id="srk1"
-        description="Zake Muhendislik Otomasyon Cevre LTD. ŞTI..">
-         Zake Muhendislik Otomasyon Cevre LTD. ŞTI.
-              </Translate>
-    ),
+    description: 'Zake Mühendislik Otomasyon Çevre LTD. ŞTİ.',
   },
   {
-    title: (
-      <Translate
-        id="tel2.title"
-        description="Gelişmiş Dashboard">
-        İletişim
-      </Translate>
-    ),
+    title: 'İletişim',
     imageUrl: 'img/undraw_location_tracking_re_n3ok.svg',
     description: (
-      <Translate
-        values={{angularJS: (<code>AngularJS</code>), reactJS: (<code>ReactJS</code>)}}
-        id="tel2"
-        description="Tel">
-        {`TEL : 0 312 386 0577
-        - 
-        FAKS :0 312 386 05 22
-          
-
-
-
-         Adres: Uzayçağı Caddesi 62/3-4 Ostim/ANKARA`}
-      </Translate>
+      <div>
+        <p><strong>Telefon:</strong> 0 312 386 05 77</p>
+        <p><strong>Faks:</strong> 0 312 386 05 22</p>
+        <div style={{ marginTop: '1px', marginBottom: '1px' }}>
+          <p><strong>Merkez</strong></p>
+          <p>Uzayçağı Caddesi 62/3-4 Ostim/ANKARA</p>
+        </div>
+        <div style={{ marginTop: '1px', marginBottom: '1px' }}>
+          <p><strong>Istanbul Ofis</strong></p>
+          <p>Mevlana Mah. İSTANBUL</p>
+        </div>
+      </div>
     ),
   },
   {
-    title: (
-      <Translate
-        id="tel3.title"
-        description="Planlı Bakımlarda Otomatik İş emirleri">
-        E-Posta
-      </Translate>
-    ),
+    title: 'E-Posta',
     imageUrl: 'img/undraw_mail_sent_re_0ofv.svg',
     description: (
-      <Translate
-        values={{starters: (<code>starters</code>)}}
-        id="tel3"
-        description="zake@zake.com.tr">
-        {`zake@zake.com.tr`}
-      </Translate>
+      <p><strong>Email:</strong> info@datarapor.com.tr</p>
     ),
   },
- 
-
-
-
- 
-
-
- 
-
- 
-
-
-
-
-
-
 ];
 
 
