@@ -66,10 +66,6 @@ const config = {
         },
 
  
-        gtag: {
-          trackingID: 'G-N9TMNW9MEP',
-          anonymizeIP: true,
-        },
   
       }),
     ],
@@ -238,8 +234,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Zake',
+                label: 'Zake Muhendislik',
                 href: 'https://zake.com.tr',
+              },
+              {
+                label: 'ZakeSoft IT & OT Hizmetleri',
+                href: 'https://zakesoft.com',
+              },
+              {
+                label: 'CihazPark Teknoloji Magazasi',
+                href: 'https://cihazpark.com.tr',
               },
             ],
           },
@@ -276,10 +280,10 @@ const config = {
         ],
         copyright: `
           <div style="text-align: center; margin-bottom: 5px;">
-            <p><strong>Tel: 0 312 386 05 77</strong></p>
+            <p><strong>Tel: 0 850 466 9253</strong></p>
           </div>
           <div>
-            Copyright © ${new Date().getFullYear()} by ZAKE.
+            Copyright © ${new Date().getFullYear()} by ZakeSoft
           </div>
         `,
       },

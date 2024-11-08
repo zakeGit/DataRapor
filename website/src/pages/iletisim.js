@@ -18,7 +18,7 @@ const features = [
     imageUrl: 'img/undraw_location_tracking_re_n3ok.svg',
     description: (
       <div>
-        <p><strong>Telefon:</strong> 0 312 386 05 77</p>
+        <p><strong>Telefon:</strong> 0 312 386 05 77   ||  0 850 466 9253</p>
         <p><strong>Faks:</strong> 0 312 386 05 22</p>
         <div style={{ marginTop: '1px', marginBottom: '1px' }}>
           <p><strong>Merkez</strong></p>

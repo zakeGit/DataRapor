@@ -8,10 +8,32 @@ import styles from './styles.module.css';
 import Translate from '@docusaurus/Translate';
 
 
+// GTM kodunu head'e eklemek için Script komponenti
+const GoogleTagManager = () => {
+  React.useEffect(() => {
+    // GTM script
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WW3G9PWZ');
+  }, []);
 
 
-
-
+  return (
+    <>
+      {/* GTM noscript */}
+      <noscript>
+        <iframe 
+          src="//www.googletagmanager.com/ns.html?id=GTM-WW3G9PWZ"
+          height="0" 
+          width="0" 
+          style={{display: 'none', visibility: 'hidden'}}>
+        </iframe>
+      </noscript>
+    </>
+  );
+};
 
 
 
@@ -478,6 +500,7 @@ function Home() {
   const {siteConfig: {customFields = {}, tagline} = {}} = context;
   return (
     <Layout title={tagline} description={customFields.description}>
+      <GoogleTagManager /> {/* GTM komponenti buraya eklendi */}
       <div className={styles.hero}>
         <div className={styles.heroInner}>
           <h1 className={styles.heroProjectTagline}>
