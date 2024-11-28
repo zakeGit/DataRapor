@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -49,24 +49,24 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-        
+
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-        
+
         },
         blog: {
           showReadingTime: true,
 
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
- 
+
         },
         theme: {
           customCss: './src/css/custom.css',
         },
 
- 
-  
+
+
       }),
     ],
   ],
@@ -113,10 +113,10 @@ const config = {
                 label: 'Entegrasyon',
                 to: '/Entegrasyon',
               },
-            
+
             ],
           },
- 
+
           {
             label: 'Örnek Uygulamalar',
             position: 'left',
@@ -146,12 +146,12 @@ const config = {
                 label: 'İklimlendirme',
                 to: '/docs/Uygulamalar/iklimlendirme',
               },
-            
+
               {
                 label: 'İnkubasyon',
                 to: '/docs/Uygulamalar/inkubasyon',
               },
-              
+
               {
                 label: 'Reverse Osmos Sistemleri',
                 to: '/docs/Uygulamalar/RO',
@@ -161,12 +161,12 @@ const config = {
                 label: 'Ultrafiltrasyon Sistemleri',
                 to: '/docs/Uygulamalar/UF',
               },
-            
+
               {
                 label: 'Susuzlaştırma Sistemleri',
                 to: '/docs/Uygulamalar/susuzlastirma',
               },
-              
+
               {
                 label: 'Temiz Oda Sistemleri',
                 to: '/docs/Uygulamalar/temizoda',
@@ -174,15 +174,20 @@ const config = {
 
             ],
           },
- 
+
           {
             label: 'Demo',
             position: 'left',
             to: 'https://demo.datarapor.com/',
-          
+
           },
-  
-       
+
+          {
+            label: 'İletişim',
+            href: '/iletisim',
+          },
+
+
           {
             type: 'html',
             value: '<img src="/img/phone.svg" alt="DataRapor Logo" style="height:30px;" />',
@@ -191,11 +196,10 @@ const config = {
 
           {
             label: 'TEL : 0 312 386 05 77',
-            href: '/iletisim',
+            href: 'tel:+903123860577', // Telefon numarasını arama için güncellendi
             position: 'right',
-          },
-  
-      
+        },
+
           {
             type: 'localeDropdown',
             position: 'right', // Dil değiştirici menüyü sağa yerleştiriyoruz
@@ -287,7 +291,7 @@ const config = {
           </div>
         `,
       },
-      
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
@@ -304,12 +308,12 @@ const config = {
 
     }),
 
-    plugins: [
-    
-   
-      "plugin-image-zoom",
-    ],
- 
+  plugins: [
+
+
+    "plugin-image-zoom",
+  ],
+
 };
 
 //export default config;

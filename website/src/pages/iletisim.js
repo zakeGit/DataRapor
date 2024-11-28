@@ -18,8 +18,14 @@ const features = [
     imageUrl: 'img/undraw_location_tracking_re_n3ok.svg',
     description: (
       <div>
-        <p><strong>Telefon:</strong> 0 312 386 05 77   ||  0 850 466 9253</p>
-        <p><strong>Faks:</strong> 0 312 386 05 22</p>
+        <p>
+          <strong>Telefon:</strong>
+          <a href="tel:+903123860577">0 312 386 05 77</a> ||
+          <a href="tel:+908504669253">0 850 466 9253</a>
+        </p>
+        <p>
+          <strong>Faks:</strong> 0 312 386 05 22
+        </p>
         <div style={{ marginTop: '1px', marginBottom: '1px' }}>
           <p><strong>Merkez</strong></p>
           <p>Uzayçağı Caddesi 62/3-4 Ostim/ANKARA</p>
@@ -35,19 +41,22 @@ const features = [
     title: 'E-Posta',
     imageUrl: 'img/undraw_mail_sent_re_0ofv.svg',
     description: (
-      <p><strong>Email:</strong> info@datarapor.com.tr</p>
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:info@datarapor.com.tr">info@datarapor.com.tr</a>
+      </p>
     ),
   },
 ];
 
 
-function Feature({imageUrl, title, description}) {
+function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
         <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title}/>
+          <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
       <h3>{title}</h3>
@@ -59,19 +68,19 @@ function Feature({imageUrl, title, description}) {
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig: {customFields = {}, tagline} = {}} = context;
+  const { siteConfig: { customFields = {}, tagline } = {} } = context;
   return (
     <Layout title={tagline} description={customFields.description}>
       <div className={styles.hero}>
         <div className={styles.heroInner}>
           <h1 className={styles.heroProjectTagline}>
-          
-           
+
+
           </h1>
-          
+
         </div>
       </div>
-   
+
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
